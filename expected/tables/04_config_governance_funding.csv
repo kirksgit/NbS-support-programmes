@@ -1,0 +1,141 @@
+"lead_body","delivery","funding_source","funding_horizon","n"
+"Municipality","Single body","Municipal budget","unparsed",110
+"Municipality","Single body","Municipal budget","Fixed-term",51
+"Municipality","Single body","Municipal budget","Recurring annual",49
+"Municipality","Partnered delivery","Municipal budget","unparsed",16
+"Municipality","Single body","unparsed","unparsed",16
+"Utility","Partnered delivery","Utility/stormwater fee","Recurring annual",16
+"Municipality","Single body","Utility/stormwater fee","unparsed",14
+"Municipality","Coordinated (named office)","Municipal budget","unparsed",13
+"Municipality","Single body","Utility/stormwater fee","Recurring annual",13
+"NGO/partnership","Partnered delivery","Mixed","unparsed",13
+"Municipality","Partnered delivery","Municipal budget","Fixed-term",12
+"Municipality","Partnered delivery","Municipal budget","Recurring annual",12
+"Municipality","Coordinated (named office)","Municipal budget","Recurring annual",11
+"Municipality","Partnered delivery","Mixed","unparsed",11
+"Utility","Partnered delivery","Utility/stormwater fee","unparsed",11
+"Utility","Partnered delivery","unparsed","unparsed",11
+"Utility","Single body","unparsed","unparsed",11
+"Municipality","Multi-department","Municipal budget","unparsed",10
+"Municipality","Single body","unparsed","Recurring annual",10
+"Municipality","Coordinated (named office)","Municipal budget","Fixed-term",9
+"Municipality","Partnered delivery","unparsed","unparsed",8
+"Utility","Coordinated (named office)","Utility/stormwater fee","unparsed",8
+"Utility","Single body","Municipal budget","unparsed",8
+"NGO/partnership","Coordinated (named office)","Mixed","unparsed",7
+"NGO/partnership","Partnered delivery","unparsed","unparsed",7
+"Utility","Coordinated (named office)","Utility/stormwater fee","Recurring annual",7
+"Utility","Single body","Utility/stormwater fee","unparsed",7
+"Municipality","Coordinated (named office)","Utility/stormwater fee","Recurring annual",6
+"Municipality","Multi-department","Municipal budget","Recurring annual",6
+"Municipality","Partnered delivery","unparsed","Recurring annual",6
+"NGO/partnership","Partnered delivery","Municipal budget","Fixed-term",5
+"Utility","Partnered delivery","Mixed","unparsed",5
+"Utility","Partnered delivery","unparsed","Recurring annual",5
+"Utility","Single body","Utility/stormwater fee","Recurring annual",5
+"Utility","Single body","unparsed","Recurring annual",5
+"Municipality","Coordinated (named office)","State/national grant","Fixed-term",4
+"Municipality","Multi-department","Municipal budget","Fixed-term",4
+"Municipality","Multi-department + partners","Municipal budget","Recurring annual",4
+"Municipality","Single body","Utility/stormwater fee","Fixed-term",4
+"Municipality","Single body","unparsed","Fixed-term",4
+"NGO/partnership","Coordinated (named office)","Municipal budget","unparsed",4
+"NGO/partnership","Coordinated (named office)","Utility/stormwater fee","Recurring annual",4
+"NGO/partnership","Coordinated (named office)","Utility/stormwater fee","unparsed",4
+"NGO/partnership","Multi-department + partners","Mixed","unparsed",4
+"Utility","Single body","Mixed","Fixed-term",4
+"Municipality","Coordinated (named office)","Mixed","unparsed",3
+"Municipality","Coordinated (named office)","unparsed","unparsed",3
+"Municipality","Multi-department","unparsed","unparsed",3
+"Municipality","Multi-department + partners","Municipal budget","Fixed-term",3
+"Municipality","Multi-department + partners","unparsed","Recurring annual",3
+"Municipality","Single body","Mixed","Recurring annual",3
+"NGO/partnership","Coordinated (named office)","Mixed","Recurring annual",3
+"NGO/partnership","Coordinated (named office)","State/national grant","Fixed-term",3
+"NGO/partnership","Coordinated (named office)","unparsed","unparsed",3
+"NGO/partnership","Multi-department + partners","unparsed","unparsed",3
+"NGO/partnership","Partnered delivery","Mixed","Fixed-term",3
+"NGO/partnership","Partnered delivery","Municipal budget","Recurring annual",3
+"NGO/partnership","Partnered delivery","Municipal budget","unparsed",3
+"NGO/partnership","Partnered delivery","Utility/stormwater fee","unparsed",3
+"NGO/partnership","Partnered delivery","unparsed","Fixed-term",3
+"NGO/partnership","Partnered delivery","unparsed","Recurring annual",3
+"Other","Single body","unparsed","unparsed",3
+"Utility","Partnered delivery","unparsed","Fixed-term",3
+"Municipality","Coordinated (named office)","Mixed","Recurring annual",2
+"Municipality","Coordinated (named office)","Utility/stormwater fee","unparsed",2
+"Municipality","Multi-department + partners","Utility/stormwater fee","Recurring annual",2
+"Municipality","Multi-department + partners","unparsed","unparsed",2
+"Municipality","Partnered delivery","Mixed","Recurring annual",2
+"Municipality","Partnered delivery","unparsed","Fixed-term",2
+"Municipality","Single body","State/national grant","Fixed-term",2
+"Municipality","Single body","State/national grant","unparsed",2
+"NGO/partnership","Coordinated (named office)","unparsed","Recurring annual",2
+"NGO/partnership","Multi-department + partners","Mixed","Recurring annual",2
+"NGO/partnership","Multi-department + partners","Municipal budget","Recurring annual",2
+"NGO/partnership","Multi-department + partners","Utility/stormwater fee","unparsed",2
+"NGO/partnership","Partnered delivery","Not stated","unparsed",2
+"NGO/partnership","Single body","unparsed","unparsed",2
+"Utility","Coordinated (named office)","Mixed","Fixed-term",2
+"Utility","Coordinated (named office)","Mixed","Recurring annual",2
+"Utility","Coordinated (named office)","Mixed","unparsed",2
+"Utility","Multi-department","Utility/stormwater fee","Recurring annual",2
+"Utility","Partnered delivery","Mixed","Recurring annual",2
+"Utility","Single body","Mixed","unparsed",2
+"Utility","Single body","Municipal budget","Fixed-term",2
+"Utility","Single body","Municipal budget","Recurring annual",2
+"Municipality","Coordinated (named office)","Mixed","Fixed-term",1
+"Municipality","Coordinated (named office)","Mixed","Pilot",1
+"Municipality","Coordinated (named office)","State/national grant","unparsed",1
+"Municipality","Coordinated (named office)","Utility/stormwater fee","Fixed-term",1
+"Municipality","Coordinated (named office)","unparsed","Fixed-term",1
+"Municipality","Coordinated (named office)","unparsed","Recurring annual",1
+"Municipality","Multi-department","Mixed","unparsed",1
+"Municipality","Multi-department","Utility/stormwater fee","Recurring annual",1
+"Municipality","Multi-department","unparsed","Recurring annual",1
+"Municipality","Multi-department + partners","Mixed","unparsed",1
+"Municipality","Multi-department + partners","Municipal budget","unparsed",1
+"Municipality","Multi-department + partners","Utility/stormwater fee","unparsed",1
+"Municipality","Partnered delivery","Mixed","Fixed-term",1
+"Municipality","Partnered delivery","State/national grant","Fixed-term",1
+"Municipality","Partnered delivery","State/national grant","unparsed",1
+"Municipality","Partnered delivery","Utility/stormwater fee","Fixed-term",1
+"Municipality","Partnered delivery","Utility/stormwater fee","Recurring annual",1
+"Municipality","Partnered delivery","Utility/stormwater fee","unparsed",1
+"Municipality","Partnered delivery","unparsed","Not stated",1
+"Municipality","Single body","Mixed","Fixed-term",1
+"Municipality","Single body","Mixed","unparsed",1
+"Municipality","Single body","unparsed","Not stated",1
+"NGO/partnership","Coordinated (named office)","Donor/foundation","unparsed",1
+"NGO/partnership","Coordinated (named office)","Mixed","Fixed-term",1
+"NGO/partnership","Coordinated (named office)","Municipal budget","Fixed-term",1
+"NGO/partnership","Coordinated (named office)","Municipal budget","Recurring annual",1
+"NGO/partnership","Coordinated (named office)","unparsed","Fixed-term",1
+"NGO/partnership","Multi-department","Mixed","unparsed",1
+"NGO/partnership","Multi-department","Utility/stormwater fee","unparsed",1
+"NGO/partnership","Multi-department + partners","Donor/foundation","Fixed-term",1
+"NGO/partnership","Multi-department + partners","Mixed","Fixed-term",1
+"NGO/partnership","Multi-department + partners","Municipal budget","unparsed",1
+"NGO/partnership","Multi-department + partners","Utility/stormwater fee","Recurring annual",1
+"NGO/partnership","Multi-department + partners","unparsed","Recurring annual",1
+"NGO/partnership","Partnered delivery","Utility/stormwater fee","Fixed-term",1
+"NGO/partnership","Partnered delivery","Utility/stormwater fee","Recurring annual",1
+"NGO/partnership","Single body","Mixed","Fixed-term",1
+"NGO/partnership","Single body","Mixed","Pilot",1
+"Other","Coordinated (named office)","State/national grant","Recurring annual",1
+"Utility","Coordinated (named office)","Municipal budget","unparsed",1
+"Utility","Coordinated (named office)","Utility/stormwater fee","Fixed-term",1
+"Utility","Coordinated (named office)","unparsed","Recurring annual",1
+"Utility","Multi-department","Municipal budget","Fixed-term",1
+"Utility","Multi-department","Utility/stormwater fee","Pilot",1
+"Utility","Multi-department + partners","Mixed","Recurring annual",1
+"Utility","Multi-department + partners","Municipal budget","unparsed",1
+"Utility","Multi-department + partners","Utility/stormwater fee","Recurring annual",1
+"Utility","Multi-department + partners","Utility/stormwater fee","unparsed",1
+"Utility","Partnered delivery","Mixed","Fixed-term",1
+"Utility","Partnered delivery","Municipal budget","unparsed",1
+"Utility","Partnered delivery","Utility/stormwater fee","Pilot",1
+"Utility","Partnered delivery","unparsed","Pilot",1
+"Utility","Single body","State/national grant","Fixed-term",1
+"Utility","Single body","Utility/stormwater fee","Fixed-term",1
+"Utility","Single body","unparsed","Fixed-term",1

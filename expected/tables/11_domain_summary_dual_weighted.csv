@@ -1,0 +1,61 @@
+"domain","level","n","p_prog","p_country_std"
+"3.2 Ecological-functional","Confirmed misfit",7,0.0099009900990099,0.00333500368618814
+"3.2 Ecological-functional","Documented fit",679,0.96039603960396,0.955645695152231
+"3.2 Ecological-functional","Indeterminate",4,0.00565770862800566,0.0022781205505458
+"3.2 Ecological-functional","Partial fit",17,0.024045261669024,0.0387411806110349
+"3.2 Spatial responsiveness","Area-targeted",40,0.0565770862800566,0.0398740849533438
+"3.2 Spatial responsiveness","Citywide (untargeted)",492,0.695898161244696,0.716193334204869
+"3.2 Spatial responsiveness","Hazard/catchment-targeted",66,0.0933521923620934,0.0598527136190852
+"3.2 Spatial responsiveness","Indeterminate",85,0.12022630834512,0.129354446851229
+"3.2 Spatial responsiveness","Vulnerability-targeted",24,0.0339462517680339,0.0547254203714731
+"3.3 Tenure & authority access","Confirmed misfit",11,0.0155586987270156,0.0409388686835952
+"3.3 Tenure & authority access","Controller/collective pathway",192,0.271570014144272,0.324416769325196
+"3.3 Tenure & authority access","Direct tenant/broad pathway",101,0.142857142857143,0.202840153509669
+"3.3 Tenure & authority access","Indeterminate",14,0.0198019801980198,0.0293374239417128
+"3.3 Tenure & authority access","Owner-restricted pathway",176,0.248939179632249,0.156658935561615
+"3.3 Tenure & authority access","Permission-dependent pathway",213,0.301272984441301,0.245807848978213
+"3.3 Participation scope","Civil-society organisations",146,0.206506364922207,0.226611078377636
+"3.3 Participation scope","Indeterminate",8,0.0113154172560113,0.00212922610407355
+"3.3 Participation scope","Individual property actors only",271,0.383309759547383,0.308366534614039
+"3.3 Participation scope","Informal/community actors",58,0.082036775106082,0.202771201327481
+"3.3 Participation scope","Institutional actors",224,0.316831683168317,0.260121959576771
+"3.4.1 Technical enablement","Four or more enablers",31,0.0438472418670438,0.0581332036445427
+"3.4.1 Technical enablement","Indeterminate",4,0.00565770862800566,0.0022781205505458
+"3.4.1 Technical enablement","No enabler documented",61,0.0862800565770863,0.119030599529959
+"3.4.1 Technical enablement","One enabler",203,0.287128712871287,0.332517564019154
+"3.4.1 Technical enablement","Two to three enablers",408,0.577086280056577,0.488040512255799
+"3.4.2 Payment configuration","Fiscal credit",31,0.0438472418670438,0.0681471722340926
+"3.4.2 Payment configuration","Milestone",15,0.0212164073550212,0.0936283815851922
+"3.4.2 Payment configuration","Not stated",51,0.0721357850070721,0.0612122239574819
+"3.4.2 Payment configuration","Reimbursement",482,0.681753889674682,0.533019973656208
+"3.4.2 Payment configuration","Reimbursement + in-kind alternative",17,0.024045261669024,0.00517088006853945
+"3.4.2 Payment configuration","Upfront/vendor",111,0.157001414427157,0.238821368498486
+"3.4.2 Cost coverage","Full",4,0.00565770862800566,0.000761800491866937
+"3.4.2 Cost coverage","Not stated",37,0.0523338048090523,0.0442452826796681
+"3.4.2 Cost coverage","Partial/capped",576,0.814710042432815,0.752630827096178
+"3.4.2 Cost coverage","Scope unclear",90,0.127298444130127,0.202362089732287
+"3.4.3 Administrative access","Confirmed misfit",3,0.00424328147100424,0.00101370173954314
+"3.4.3 Administrative access","Documented fit",245,0.346534653465347,0.243650943490447
+"3.4.3 Administrative access","Indeterminate",13,0.0183875530410184,0.0124286140289312
+"3.4.3 Administrative access","Partial fit",446,0.630834512022631,0.742906740741078
+"3.4.3b Administrative provisions (descriptive, not a verdict)","Basic applicant pathway",486,0.687411598302687,0.757998177537912
+"3.4.3b Administrative provisions (descriptive, not a verdict)","Indeterminate",8,0.0113154172560113,0.00731563193178432
+"3.4.3b Administrative provisions (descriptive, not a verdict)","Partial/mixed support",213,0.301272984441301,0.234686190530303
+"3.4.4 Delivery architecture","Coordinated (named office)",119,0.168316831683168,0.244275786454656
+"3.4.4 Delivery architecture","Multi-department",32,0.0452616690240453,0.0967284365785813
+"3.4.4 Delivery architecture","Multi-department + partners",39,0.0551626591230552,0.104364456064983
+"3.4.4 Delivery architecture","Partnered delivery",180,0.254596888260255,0.173936790550909
+"3.4.4 Delivery architecture","Single body",337,0.476661951909477,0.380694530350871
+"3.5.1 Post-installation responsibility and support","No maintenance architecture documented",224,0.316831683168317,0.267535014160874
+"3.5.1 Post-installation responsibility and support","Obligation only, bearer unclear",7,0.0099009900990099,0.0158450656282338
+"3.5.1 Post-installation responsibility and support","Responsibility + obligation + support",140,0.198019801980198,0.235323143333935
+"3.5.1 Post-installation responsibility and support","Responsibility + obligation, no support",120,0.16973125884017,0.266524384192022
+"3.5.1 Post-installation responsibility and support","Responsibility + support, no obligation",48,0.0678925035360679,0.0835729103197307
+"3.5.1 Post-installation responsibility and support","Responsibility only",17,0.024045261669024,0.00483156774152221
+"3.5.1 Post-installation responsibility and support","Support only, bearer unclear",151,0.213578500707214,0.126367914623683
+"3.5.2 Monitoring","Feedback channel only",383,0.541725601131542,0.319285175742582
+"3.5.2 Monitoring","Indeterminate",147,0.207920792079208,0.238836287156815
+"3.5.2 Monitoring","Indicators + review",18,0.0254596888260255,0.0932290489570008
+"3.5.2 Monitoring","Published indicators/report",153,0.216407355021216,0.338127282884812
+"3.5.2 Monitoring","Review only",4,0.00565770862800566,0.00933996358741743
+"3.5.2 Monitoring","Webpage reporting + feedback",2,0.00282885431400283,0.00118224167137211

@@ -1,0 +1,22 @@
+"spatial_target","equity_target","n"
+"Citywide","Citywide",438
+"Citywide","unparsed",54
+"unparsed","Citywide",50
+"unparsed","unparsed",28
+"Priority zones","Citywide",25
+"Priority zones","Hazard-exposure zones",24
+"Watershed/sewershed","Citywide",20
+"Priority zones","unparsed",15
+"Citywide","Hazard-exposure zones",12
+"Citywide","Low-income/equity zones",7
+"Watershed/sewershed","Hazard-exposure zones",7
+"Citywide","Vulnerable populations",6
+"Priority zones","Low-income/equity zones",5
+"Equity/vulnerability zones","Citywide",3
+"Equity/vulnerability zones","Low-income/equity zones",3
+"Watershed/sewershed","unparsed",3
+"Watershed/sewershed","Low-income/equity zones",2
+"unparsed","Vulnerable populations",2
+"Equity/vulnerability zones","unparsed",1
+"Watershed/sewershed","Vulnerable populations",1
+"unparsed","Low-income/equity zones",1

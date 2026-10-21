@@ -1,0 +1,2 @@
+"comparison","adjusted_rand_index","pam_avg_silhouette","hcpc_avg_silhouette"
+"HCPC vs PAM-Gower at same k",0.309119306931083,0.114688512503686,0.226394544254232

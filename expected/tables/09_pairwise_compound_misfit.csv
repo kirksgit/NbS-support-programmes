@@ -1,0 +1,32 @@
+"set","var_a","var_b","n_pairwise_evaluable","n_both","expected_both","phi","odds_ratio","p.value","p_bh"
+"Strict (confirmed misfit)","Ecological-functional","Tenure & authority access",690,1,1.01739130434783,-0.000723448012966012,0.979337664066388,1,1
+"Strict (confirmed misfit)","Ecological-functional","Technical enablement",693,1,0.545454545454545,0.0244710253509833,1.98796324041919,0.434732633785358,0.702260408422501
+"Strict (confirmed misfit)","Ecological-functional","Financial accessibility",692,4,4.97687861271676,-0.0311210929702721,0.538814403559138,0.418423394265364,0.702260408422501
+"Strict (confirmed misfit)","Ecological-functional","Administrative burden",691,1,0.0303907380607815,0.213129165928959,54.0725783890391,0.0301271100265317,0.110321192475379
+"Strict (confirmed misfit)","Ecological-functional","Stewardship support",702,4,5.03561253561254,-0.0330456414518581,0.516820511904419,0.407488589993112,0.702260408422501
+"Strict (confirmed misfit)","Ecological-functional","Monitoring and review",703,1,1.44381223328592,-0.0157144741761955,0.639252283650095,1,1
+"Strict (confirmed misfit)","Tenure & authority access","Technical enablement",680,5,8.79411764705882,-0.0560099349386202,0.501399311474241,0.178379878901584,0.468247182116657
+"Strict (confirmed misfit)","Tenure & authority access","Financial accessibility",682,78,83.0029325513196,-0.0432773875224407,0.781266019488522,0.260485073971919,0.547590467727103
+"Strict (confirmed misfit)","Tenure & authority access","Administrative burden",680,0,0.329411764705882,-0.0241176503372982,0,1,1
+"Strict (confirmed misfit)","Tenure & authority access","Stewardship support",692,94,84.1994219653179,0.084123124694733,1.72861549354247,0.031520340707251,0.110321192475379
+"Strict (confirmed misfit)","Tenure & authority access","Monitoring and review",693,29,24.3116883116883,0.0445121037407057,1.32048791156754,0.260757365584335,0.547590467727103
+"Strict (confirmed misfit)","Technical enablement","Financial accessibility",682,40,38.2434017595308,0.0209836006654416,1.1928454691761,0.642541244939824,0.843335383983519
+"Strict (confirmed misfit)","Technical enablement","Administrative burden",681,2,0.220264317180617,0.151296006115224,25.9048603623984,0.015123970474697,0.104073524340773
+"Strict (confirmed misfit)","Technical enablement","Stewardship support",692,53,38.7052023121387,0.170925954771143,23.280636348758,3.18452108281631e-07,6.68749427391425e-06
+"Strict (confirmed misfit)","Technical enablement","Monitoring and review",693,18,10.8311688311688,0.0963766875701365,2.1377144581761,0.0198235284458616,0.104073524340773
+"Strict (confirmed misfit)","Financial accessibility","Administrative burden",682,2,2.12463343108504,-0.00607467863458459,0.823553413560486,1,1
+"Strict (confirmed misfit)","Financial accessibility","Stewardship support",694,371,359.481268011527,0.0823081684176251,1.48387636450532,0.0381306646261356,0.114391993878407
+"Strict (confirmed misfit)","Financial accessibility","Monitoring and review",695,106,104.697841726619,0.0101340264924044,1.05666633050754,0.837820878140596,1
+"Strict (confirmed misfit)","Administrative burden","Stewardship support",693,3,2.14285714285714,0.041702882811415,Inf,0.561669978883869,0.786337970437417
+"Strict (confirmed misfit)","Administrative burden","Monitoring and review",694,1,0.605187319884726,0.0216088677511354,1.98335987936082,0.491869604744617,0.737804407116926
+"Strict (confirmed misfit)","Stewardship support","Monitoring and review",706,119,105.565155807365,0.104169899708312,1.87153006371333,0.00536905144549845,0.0563750401777337
+"Broad (documented weakness)","Access restricted to owners","Thin technical enablement",690,97,68.7391304347826,0.191226533498743,2.38351473329153,8.66659912228613e-07,2.88886637409538e-06
+"Broad (documented weakness)","Access restricted to owners","Thin administrative provision",685,79,54.9605839416058,0.173088842169968,2.24859346333899,8.94591635223375e-06,2.23647908805844e-05
+"Broad (documented weakness)","Access restricted to owners","Weak stewardship closure",693,93,93.0952380952381,-0.000619225317278136,0.997217705131647,1,1
+"Broad (documented weakness)","Access restricted to owners","No monitoring or feedback",549,109,96.9945355191257,0.107329641027583,1.74914944130455,0.0120257955141899,0.0200429925236499
+"Broad (documented weakness)","Thin technical enablement","Thin administrative provision",696,121,78.5862068965517,0.274144055807927,3.36129177661972,8.88046326573764e-13,8.88046326573764e-12
+"Broad (documented weakness)","Thin technical enablement","Weak stewardship closure",703,166,131.436699857753,0.203055580387219,2.3445785126488,7.27788951062156e-08,3.63894475531078e-07
+"Broad (documented weakness)","Thin technical enablement","No monitoring or feedback",558,126,133.494623655914,-0.0606213208698988,0.763641454009926,0.153478031543454,0.170531146159393
+"Broad (documented weakness)","Thin administrative provision","Weak stewardship closure",699,115,105.43347639485,0.0594700063345749,1.29489656130236,0.119261692826934,0.149077116033668
+"Broad (documented weakness)","Thin administrative provision","No monitoring or feedback",557,115,105.892280071813,0.07888200987828,1.48433665420897,0.0663459239975995,0.0947798914251421
+"Broad (documented weakness)","Weak stewardship closure","No monitoring or feedback",560,195,179.189285714286,0.121701160569624,1.70126971088488,0.00470032928648802,0.00940065857297605

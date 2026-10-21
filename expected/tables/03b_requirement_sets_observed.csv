@@ -1,0 +1,10 @@
+"P1","P2","P3","P4","P5","n"
+"required","required","required","required","required",263
+"not required","not required","not required","required","recommended",198
+"required","required","recommended","required","required",118
+"recommended","not required","recommended","required","required",41
+"recommended","not required","not required","required","required",35
+"required","recommended","required","required","required",23
+"recommended","not required","recommended","required","recommended",14
+"not required","not required","not required","required","required",11
+NA,NA,NA,NA,NA,4

@@ -1,0 +1,39 @@
+"block","configuration","n","pct"
+"Application channels","online form",172,24.3
+"Application channels","none documented",69,9.8
+"Application channels","paper/mail",58,8.2
+"Application channels","paper/mail + in-person",41,5.8
+"Application channels","online form + email + paper/mail",38,5.4
+"Application channels","email + paper/mail",37,5.2
+"Application channels","in-person",36,5.1
+"Application channels","online form + third-party portal",34,4.8
+"Application channels","third-party portal",32,4.5
+"Application channels","email + paper/mail + in-person",24,3.4
+"Application channels","online form + paper/mail",21,3
+"Application channels","email",16,2.3
+"Application channels","online form + email + paper/mail + in-person",16,2.3
+"Application channels","online form + in-person",14,2
+"Application channels","other",13,1.8
+"Application channels","online form + email",11,1.6
+"Application channels","online form + paper/mail + in-person",10,1.4
+"Application channels","online form + email + paper/mail + third-party portal",8,1.1
+"Application channels","online form + third-party portal + in-person",8,1.1
+"Application channels","online form + paper/mail + third-party portal",7,1
+"Application channels","online form + email + paper/mail + third-party portal + in-person",5,0.7
+"Application channels","paper/mail + third-party portal",5,0.7
+"Application channels","email + paper/mail + third-party portal",4,0.6
+"Application channels","paper/mail + third-party portal + in-person",4,0.6
+"Application channels","third-party portal + in-person",4,0.6
+"Application channels","online form + other",3,0.4
+"Application channels","online form + paper/mail + third-party portal + in-person",3,0.4
+"Application channels","email + other",2,0.3
+"Application channels","email + paper/mail + in-person + other",2,0.3
+"Application channels","email + paper/mail + third-party portal + in-person",2,0.3
+"Application channels","email + paper/mail + other",1,0.1
+"Application channels","email + third-party portal",1,0.1
+"Application channels","email + third-party portal + in-person",1,0.1
+"Application channels","online form + email + in-person",1,0.1
+"Application channels","online form + email + third-party portal",1,0.1
+"Application channels","online form + in-person + other",1,0.1
+"Application channels","paper/mail + in-person + other",1,0.1
+"Application channels","paper/mail + other",1,0.1

@@ -1,0 +1,13 @@
+"family_member","term","estimate","std.error","p.value","non_estimable","p_bh","significant_bh"
+"D1 exposure x density","hx_n:density_c",0.0876650549135942,0.169673206225265,0.605386543831605,FALSE,0.67265171536845,FALSE
+"D2 renter x building-integrated","renter_c:bldg_integrated",0.00149807054408178,0.214437742212875,0.994425992256603,FALSE,0.994425992256603,FALSE
+"D3A demand x delivery","tech_demandMedium (ground-modifying):delivery_arch3Coordinated/multi-department",-0.369267735091989,0.50538158651333,0.464980053426644,FALSE,0.60584452156036,FALSE
+"D3A demand x delivery","tech_demandHigh (building-integrated):delivery_arch3Coordinated/multi-department",-0.695190242832928,0.449865004363157,0.122266271417639,FALSE,0.355644158341616,FALSE
+"D3A demand x delivery","tech_demandMedium (ground-modifying):delivery_arch3Partnered delivery",0.801883492420049,0.447822248593289,0.0733528547046796,FALSE,0.355644158341616,FALSE
+"D3A demand x delivery","tech_demandHigh (building-integrated):delivery_arch3Partnered delivery",-0.379583262832841,0.543191236873939,0.484675617248288,FALSE,0.60584452156036,FALSE
+"D3B priority x intervention class","equity_targeted:tech_demandMedium (ground-modifying)",NA,NA,NA,TRUE,NA,FALSE
+"D3B priority x intervention class","equity_targeted:tech_demandHigh (building-integrated)",NA,NA,NA,TRUE,NA,FALSE
+"D4A maint demand x funding horizon","maint_demandMedium:funding_horizonFixed-term/pilot",0.758766967764222,0.433310164320529,0.0799296643800663,FALSE,0.355644158341616,FALSE
+"D4A maint demand x funding horizon","maint_demandHigh:funding_horizonFixed-term/pilot",0.516219537765549,0.414865000497115,0.213386495004969,FALSE,0.355644158341616,FALSE
+"D4A maint demand x funding horizon","maint_demandMedium:funding_horizonRecurring annual",0.630100761592837,0.447732075256022,0.159333542544331,FALSE,0.355644158341616,FALSE
+"D4A maint demand x funding horizon","maint_demandHigh:funding_horizonRecurring annual",0.356825201786255,0.275126587927369,0.194648674290508,FALSE,0.355644158341616,FALSE

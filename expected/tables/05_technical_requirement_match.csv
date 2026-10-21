@@ -1,0 +1,16 @@
+"tech_demand","tech_requirement_profile","tech_fit","n"
+"Low (standardised)","Guidance and establishment support","Documented fit",130
+"Low (standardised)","Guidance without establishment support","Partial fit",82
+"Low (standardised)","Guidance not stated","Partial fit",46
+"Low (standardised)","Guidance not stated","Confirmed misfit",39
+"Low (standardised)","No guidance documented","Confirmed misfit",2
+"Medium (ground-modifying)","Advice with standards or permit support","Documented fit",141
+"Medium (ground-modifying)","Advice only","Partial fit",31
+"Medium (ground-modifying)","No advisory provision","Partial fit",19
+"Medium (ground-modifying)","No advisory provision","Confirmed misfit",11
+"High (building-integrated)","Specification and advice","Documented fit",121
+"High (building-integrated)","Advice without specification","Partial fit",34
+"High (building-integrated)","Specification without advice","Partial fit",34
+"High (building-integrated)","Neither specification nor advice","Indeterminate",10
+"High (building-integrated)","Neither specification nor advice","Confirmed misfit",2
+"High (building-integrated)","Neither specification nor advice","Partial fit",1

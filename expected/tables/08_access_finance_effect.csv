@@ -1,0 +1,4 @@
+"model","term","estimate","std.error","statistic","p.value","or","or_lo","or_hi","covariance","n_clusters","non_estimable","separation_flag","n"
+"Tenant eligibility ~ capital grant | crude","grant",-1.52804873292482,0.354785393490433,-4.30696629839139,1.6550881506843e-05,0.21695859872612,0.108237422939489,0.434886865215894,"cluster-robust (HC0)",630,FALSE,FALSE,673
+"Tenant eligibility ~ capital grant | adjusted","grant",-1.40983492853622,0.344422269489794,-4.09333267162039,4.25216963297618e-05,0.244183587569023,0.124319231161074,0.479617062309729,"cluster-robust (HC0)",630,FALSE,FALSE,673
+"Tenant eligibility ~ capital grant | one record per programme family","grant",-1.090145664009,0.181571601525206,-6.00394365006282,1.92581562151889e-09,0.336167522631117,0.235504324414874,0.479857869076162,"cluster-robust (HC0)",28,FALSE,FALSE,630

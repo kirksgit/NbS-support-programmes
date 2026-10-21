@@ -1,0 +1,41 @@
+"typology_k","requirement","n_applicable","documented","partial","misfit","indeterminate","pct_documented"
+"Class 1","Hazard-responsive intervention portfolio",271,264,4,1,2,97.4169741697417
+"Class 2","Hazard-responsive intervention portfolio",122,118,4,0,0,96.7213114754098
+"Class 3","Hazard-responsive intervention portfolio",198,190,3,5,0,95.959595959596
+"Class 4","Hazard-responsive intervention portfolio",82,76,6,0,0,92.6829268292683
+"Opacity group","Hazard-responsive intervention portfolio",34,31,0,1,2,91.1764705882353
+"Class 1","Relevant property-controller pathway",271,150,89,28,4,55.3505535055351
+"Class 2","Relevant property-controller pathway",122,85,26,9,2,69.672131147541
+"Class 3","Relevant property-controller pathway",198,109,31,55,3,55.0505050505051
+"Class 4","Relevant property-controller pathway",82,60,3,17,2,73.1707317073171
+"Opacity group","Relevant property-controller pathway",34,19,4,8,3,55.8823529411765
+"Class 1","Tenant or collective route",267,233,0,0,4,87.2659176029963
+"Class 2","Tenant or collective route",120,88,0,0,2,73.3333333333333
+"Class 3","Tenant or collective route",195,119,0,0,3,61.025641025641
+"Class 4","Tenant or collective route",80,49,0,0,2,61.25
+"Opacity group","Tenant or collective route",31,17,0,0,3,54.8387096774194
+"Class 1","Appropriate technical enablement",269,203,65,1,2,75.4646840148699
+"Class 2","Appropriate technical enablement",122,4,84,27,7,3.27868852459016
+"Class 3","Appropriate technical enablement",198,134,64,0,0,67.6767676767677
+"Class 4","Appropriate technical enablement",82,48,24,10,0,58.5365853658537
+"Opacity group","Appropriate technical enablement",32,3,10,16,5,9.375
+"Class 1","Financial mechanism suited to target group",271,44,13,206,8,16.2361623616236
+"Class 2","Financial mechanism suited to target group",122,12,4,104,2,9.83606557377049
+"Class 3","Financial mechanism suited to target group",198,21,25,150,2,10.6060606060606
+"Class 4","Financial mechanism suited to target group",82,67,11,4,0,81.7073170731707
+"Opacity group","Financial mechanism suited to target group",34,1,2,31,0,2.94117647058824
+"Class 1","Administrative guidance",271,117,0,0,0,43.1734317343173
+"Class 2","Administrative guidance",120,29,0,0,2,24.1666666666667
+"Class 3","Administrative guidance",197,70,0,0,1,35.5329949238579
+"Class 4","Administrative guidance",81,23,0,0,1,28.3950617283951
+"Opacity group","Administrative guidance",25,6,0,0,9,24
+"Class 1","Maintenance responsibility and support",271,55,65,150,0,20.2952029520295
+"Class 2","Maintenance responsibility and support",122,6,9,107,0,4.91803278688525
+"Class 3","Maintenance responsibility and support",198,8,26,164,0,4.04040404040404
+"Class 4","Maintenance responsibility and support",82,2,25,55,0,2.4390243902439
+"Opacity group","Maintenance responsibility and support",34,0,3,31,0,0
+"Class 1","Monitoring and review",271,77,0,0,0,28.4132841328413
+"Class 2","Monitoring and review",122,25,0,0,0,20.4918032786885
+"Class 3","Monitoring and review",198,29,0,0,0,14.6464646464646
+"Class 4","Monitoring and review",82,38,0,0,0,46.3414634146341
+"Opacity group","Monitoring and review",34,2,0,0,0,5.88235294117647

@@ -1,0 +1,45 @@
+"provision","country","n_documenting","n_country_corpus","pct_of_country","n_corpus_total","pct_of_all_documenting"
+"Social housing eligible","United States",22,301,7.30897009966777,70,31.4285714285714
+"Social housing eligible","Netherlands",16,43,37.2093023255814,70,22.8571428571429
+"Social housing eligible","Germany",11,88,12.5,70,15.7142857142857
+"Social housing eligible","Canada",8,46,17.3913043478261,70,11.4285714285714
+"Social housing eligible","Japan",3,122,2.45901639344262,70,4.28571428571429
+"Social housing eligible","Poland",3,17,17.6470588235294,70,4.28571428571429
+"Social housing eligible","France",2,35,5.71428571428571,70,2.85714285714286
+"Social housing eligible","Austria",1,3,33.3333333333333,70,1.42857142857143
+"Social housing eligible","Brazil",1,8,12.5,70,1.42857142857143
+"Social housing eligible","Czech Republic",1,2,50,70,1.42857142857143
+"Social housing eligible","Slovak Republic",1,2,50,70,1.42857142857143
+"Social housing eligible","United Kingdom",1,2,50,70,1.42857142857143
+"Informal groups eligible or acknowledged","Germany",18,88,20.4545454545455,58,31.0344827586207
+"Informal groups eligible or acknowledged","Netherlands",12,43,27.906976744186,58,20.6896551724138
+"Informal groups eligible or acknowledged","France",10,35,28.5714285714286,58,17.2413793103448
+"Informal groups eligible or acknowledged","United States",7,301,2.32558139534884,58,12.0689655172414
+"Informal groups eligible or acknowledged","Canada",2,46,4.34782608695652,58,3.44827586206897
+"Informal groups eligible or acknowledged","Ireland",2,2,100,58,3.44827586206897
+"Informal groups eligible or acknowledged","United Kingdom",2,2,100,58,3.44827586206897
+"Informal groups eligible or acknowledged","Austria",1,3,33.3333333333333,58,1.72413793103448
+"Informal groups eligible or acknowledged","Japan",1,122,0.819672131147541,58,1.72413793103448
+"Informal groups eligible or acknowledged","Malaysia",1,1,100,58,1.72413793103448
+"Informal groups eligible or acknowledged","New Zealand",1,1,100,58,1.72413793103448
+"Informal groups eligible or acknowledged","Spain",1,2,50,58,1.72413793103448
+"Landlords eligible","United States",134,301,44.5182724252492,334,40.1197604790419
+"Landlords eligible","Germany",64,88,72.7272727272727,334,19.1616766467066
+"Landlords eligible","Japan",52,122,42.6229508196721,334,15.5688622754491
+"Landlords eligible","Canada",21,46,45.6521739130435,334,6.2874251497006
+"Landlords eligible","Netherlands",20,43,46.5116279069767,334,5.98802395209581
+"Landlords eligible","Poland",9,17,52.9411764705882,334,2.69461077844311
+"Landlords eligible","Brazil",6,8,75,334,1.79640718562874
+"Landlords eligible","France",6,35,17.1428571428571,334,1.79640718562874
+"Landlords eligible","Switzerland",4,4,100,334,1.19760479041916
+"Landlords eligible","Belgium",3,7,42.8571428571429,334,0.898203592814371
+"Landlords eligible","Denmark",3,5,60,334,0.898203592814371
+"Landlords eligible","Austria",2,3,66.6666666666667,334,0.598802395209581
+"Landlords eligible","India",2,2,100,334,0.598802395209581
+"Landlords eligible","Korea, Rep.",2,2,100,334,0.598802395209581
+"Landlords eligible","Australia",1,2,50,334,0.29940119760479
+"Landlords eligible","Czech Republic",1,2,50,334,0.29940119760479
+"Landlords eligible","Malaysia",1,1,100,334,0.29940119760479
+"Landlords eligible","New Zealand",1,1,100,334,0.29940119760479
+"Landlords eligible","Slovak Republic",1,2,50,334,0.29940119760479
+"Landlords eligible","Spain",1,2,50,334,0.29940119760479
