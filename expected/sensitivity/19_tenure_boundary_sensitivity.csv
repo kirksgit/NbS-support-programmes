@@ -1,0 +1,32 @@
+"quantity","baseline","flipped","diff"
+"verdict: fit_D1 Confirmed misfit",7,7,0
+"verdict: fit_D1 Documented fit",679,679,0
+"verdict: fit_D1 Indeterminate",4,4,0
+"verdict: fit_D1 Partial fit",17,17,0
+"verdict: fit_D2 Confirmed misfit",117,115,-2
+"verdict: fit_D2 Documented fit",423,426,3
+"verdict: fit_D2 Indeterminate",14,14,0
+"verdict: fit_D2 Partial fit",153,152,-1
+"verdict: fit_D3a Confirmed misfit",54,54,0
+"verdict: fit_D3a Documented fit",392,392,0
+"verdict: fit_D3a Indeterminate",10,10,0
+"verdict: fit_D3a Not applicable",4,4,0
+"verdict: fit_D3a Partial fit",247,247,0
+"verdict: fit_D3b Confirmed misfit",495,495,0
+"verdict: fit_D3b Documented fit",145,145,0
+"verdict: fit_D3b Indeterminate",12,12,0
+"verdict: fit_D3b Partial fit",55,55,0
+"verdict: fit_D3c Confirmed misfit",3,3,0
+"verdict: fit_D3c Documented fit",245,245,0
+"verdict: fit_D3c Indeterminate",13,13,0
+"verdict: fit_D3c Partial fit",446,446,0
+"verdict: fit_D4a Confirmed misfit",507,507,0
+"verdict: fit_D4a Documented fit",71,71,0
+"verdict: fit_D4a Not applicable",1,1,0
+"verdict: fit_D4a Partial fit",128,128,0
+"verdict: fit_D4b Confirmed misfit",147,147,0
+"verdict: fit_D4b Documented fit",171,171,0
+"verdict: fit_D4b Partial fit",389,389,0
+"records with at least one confirmed misfit",647,647,0
+"records with three or more confirmed misfits",188,186,-2
+"programmes documented fit on all seven",3,3,0
