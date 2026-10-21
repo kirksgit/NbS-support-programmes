@@ -1,0 +1,13 @@
+"var","instrument","family","n","pct"
+"i_grant","Capital grant","Financial",534,0.755304101838755
+"i_advice","Technical advice","Technical",534,0.755304101838755
+"r_standards","Technical standards","Technical",467,0.660537482319661
+"x_billcredit","Bill or fee credit","Fiscal",99,0.14002828854314
+"i_reward","Recognition (awards, competitions, publicity)","Behavioural",80,0.113154172560113
+"i_taxreb","Tax or fee rebate","Fiscal",75,0.106082036775106
+"i_inkind","In-kind provision (subsidised barrel sale, delivery)","Material/in-kind",47,0.0664780763790665
+"x_workshops","Workshops / training","Technical",39,0.0551626591230552
+"r_feewaiver","Permit fee waiver","Regulatory",8,0.0113154172560113
+"i_loan","Loan","Financial",5,0.00707213578500707
+"x_freematerials","Free materials (barrels, trees, compost)","Material/in-kind",5,0.00707213578500707
+"r_fasttrack","Permit fast-track","Regulatory",1,0.00141442715700141

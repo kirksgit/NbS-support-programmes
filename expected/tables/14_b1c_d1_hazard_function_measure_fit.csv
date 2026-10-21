@@ -1,0 +1,80 @@
+"hazard","function","measure","verdict","n","alluv"
+"Heat","Cooling","Green roofs","Documented fit",130,1
+"Heat","Cooling","Green roofs","Partial fit",4,2
+"Heat","Cooling","Green facades","Documented fit",92,3
+"Heat","Cooling","Green facades","Partial fit",2,4
+"Heat","Cooling","Depaving / permeable","Confirmed misfit",2,5
+"Heat","Cooling","Depaving / permeable","Documented fit",79,6
+"Heat","Cooling","Depaving / permeable","Partial fit",1,7
+"Heat","Cooling","Trees (pits)","Confirmed misfit",1,8
+"Heat","Cooling","Trees (pits)","Documented fit",56,9
+"Heat","Cooling","Trees (pits)","Partial fit",1,10
+"Heat","Cooling","Native / drought planting","Documented fit",51,11
+"Heat","Cooling","(hazard documented, no crediting measure supported)","Documented fit",30,12
+"Heat","Cooling","(hazard documented, no crediting measure supported)","Indeterminate",3,13
+"Heat","Cooling","(hazard documented, no crediting measure supported)","Partial fit",2,14
+"Heat","Cooling","Turf replacement","Documented fit",31,15
+"Heat","Shading","Green roofs","Documented fit",130,16
+"Heat","Shading","Green roofs","Partial fit",4,17
+"Heat","Shading","Green facades","Documented fit",92,18
+"Heat","Shading","Green facades","Partial fit",2,19
+"Heat","Shading","Trees (pits)","Confirmed misfit",1,20
+"Heat","Shading","Trees (pits)","Documented fit",56,21
+"Heat","Shading","Trees (pits)","Partial fit",1,22
+"Heat","Shading","(hazard documented, no crediting measure supported)","Documented fit",30,23
+"Heat","Shading","(hazard documented, no crediting measure supported)","Indeterminate",3,24
+"Heat","Shading","(hazard documented, no crediting measure supported)","Partial fit",2,25
+"Floods","Retention","Green roofs","Documented fit",155,26
+"Floods","Retention","Green roofs","Partial fit",4,27
+"Floods","Retention","Rain barrels / cisterns","Confirmed misfit",1,28
+"Floods","Retention","Rain barrels / cisterns","Documented fit",333,29
+"Floods","Retention","Rain barrels / cisterns","Partial fit",9,30
+"Floods","Retention","Rain gardens","Documented fit",113,31
+"Floods","Retention","(hazard documented, no crediting measure supported)","Confirmed misfit",1,32
+"Floods","Retention","(hazard documented, no crediting measure supported)","Documented fit",13,33
+"Floods","Retention","(hazard documented, no crediting measure supported)","Indeterminate",2,34
+"Floods","Retention","Garden ponds and swales","Documented fit",23,35
+"Floods","Retention","Rainwater harvesting systems","Documented fit",12,36
+"Floods","Infiltration","Rain gardens","Documented fit",113,37
+"Floods","Infiltration","Depaving / permeable","Confirmed misfit",1,38
+"Floods","Infiltration","Depaving / permeable","Documented fit",143,39
+"Floods","Infiltration","Depaving / permeable","Partial fit",1,40
+"Floods","Infiltration","Infiltration systems","Documented fit",109,41
+"Floods","Infiltration","Infiltration systems","Partial fit",2,42
+"Floods","Infiltration","(hazard documented, no crediting measure supported)","Confirmed misfit",1,43
+"Floods","Infiltration","(hazard documented, no crediting measure supported)","Documented fit",13,44
+"Floods","Infiltration","(hazard documented, no crediting measure supported)","Indeterminate",2,45
+"Floods","Infiltration","Turf replacement","Documented fit",32,46
+"Floods","Infiltration","Downspout disconnection (to a vegetated or infiltrating receiver)","Documented fit",60,47
+"Floods","Infiltration","Downspout disconnection (to a vegetated or infiltrating receiver)","Partial fit",1,48
+"Floods","Infiltration","Soil amendment / compost","Documented fit",6,49
+"Biodiversity loss","Habitat","Green roofs","Documented fit",109,50
+"Biodiversity loss","Habitat","Green roofs","Partial fit",4,51
+"Biodiversity loss","Habitat","Green facades","Documented fit",90,52
+"Biodiversity loss","Habitat","Green facades","Partial fit",2,53
+"Biodiversity loss","Habitat","Rain gardens","Documented fit",23,54
+"Biodiversity loss","Habitat","Trees (pits)","Documented fit",57,55
+"Biodiversity loss","Habitat","Trees (pits)","Partial fit",1,56
+"Biodiversity loss","Habitat","Native / drought planting","Documented fit",30,57
+"Biodiversity loss","Habitat","(hazard documented, no crediting measure supported)","Confirmed misfit",1,58
+"Biodiversity loss","Habitat","(hazard documented, no crediting measure supported)","Indeterminate",1,59
+"Biodiversity loss","Habitat","(hazard documented, no crediting measure supported)","Partial fit",5,60
+"Biodiversity loss","Habitat","Turf replacement","Documented fit",4,61
+"Biodiversity loss","Habitat","Garden ponds and swales","Documented fit",3,62
+"Drought","Capture and storage","Rain barrels / cisterns","Documented fit",155,63
+"Drought","Capture and storage","Rain barrels / cisterns","Partial fit",2,64
+"Drought","Capture and storage","(hazard documented, no crediting measure supported)","Confirmed misfit",3,65
+"Drought","Capture and storage","(hazard documented, no crediting measure supported)","Documented fit",5,66
+"Drought","Capture and storage","(hazard documented, no crediting measure supported)","Indeterminate",1,67
+"Drought","Capture and storage","(hazard documented, no crediting measure supported)","Partial fit",3,68
+"Drought","Capture and storage","Downspout disconnection (to a vegetated or infiltrating receiver)","Documented fit",20,69
+"Drought","Capture and storage","Rainwater harvesting systems","Documented fit",7,70
+"Drought","Capture and storage","Greywater reuse","Documented fit",5,71
+"Drought","Soil-moisture retention","Native / drought planting","Documented fit",67,72
+"Drought","Soil-moisture retention","Infiltration systems","Documented fit",29,73
+"Drought","Soil-moisture retention","(hazard documented, no crediting measure supported)","Confirmed misfit",3,74
+"Drought","Soil-moisture retention","(hazard documented, no crediting measure supported)","Documented fit",5,75
+"Drought","Soil-moisture retention","(hazard documented, no crediting measure supported)","Indeterminate",1,76
+"Drought","Soil-moisture retention","(hazard documented, no crediting measure supported)","Partial fit",3,77
+"Drought","Soil-moisture retention","Turf replacement","Documented fit",64,78
+"Drought","Soil-moisture retention","Soil amendment / compost","Documented fit",4,79

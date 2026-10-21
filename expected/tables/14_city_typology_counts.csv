@@ -1,0 +1,52 @@
+"built_form","tenure_class","hazard_family","n"
+"Dispersed","Owner-dominated","Floods/stormwater (incl. coastal)",70
+"Dispersed","Owner-dominated","Heat",11
+"Dispersed","Owner-dominated","Drought / water scarcity",13
+"Dispersed","Owner-dominated","Multiple families",26
+"Dispersed","Owner-dominated","Other documented (erosion/slope)",1
+"Dispersed","Owner-dominated","None documented",15
+"Dispersed","Mixed tenure","Floods/stormwater (incl. coastal)",65
+"Dispersed","Mixed tenure","Heat",8
+"Dispersed","Mixed tenure","Drought / water scarcity",20
+"Dispersed","Mixed tenure","Multiple families",41
+"Dispersed","Mixed tenure","Other documented (erosion/slope)",1
+"Dispersed","Mixed tenure","None documented",15
+"Dispersed","Renter-majority","Floods/stormwater (incl. coastal)",8
+"Dispersed","Renter-majority","Heat",3
+"Dispersed","Renter-majority","Drought / water scarcity",1
+"Dispersed","Renter-majority","Multiple families",32
+"Intermediate","Owner-dominated","Floods/stormwater (incl. coastal)",30
+"Intermediate","Owner-dominated","Heat",4
+"Intermediate","Owner-dominated","Drought / water scarcity",6
+"Intermediate","Owner-dominated","Multiple families",22
+"Intermediate","Owner-dominated","None documented",5
+"Intermediate","Mixed tenure","Floods/stormwater (incl. coastal)",40
+"Intermediate","Mixed tenure","Heat",3
+"Intermediate","Mixed tenure","Drought / water scarcity",22
+"Intermediate","Mixed tenure","Multiple families",40
+"Intermediate","Mixed tenure","None documented",8
+"Intermediate","Renter-majority","Floods/stormwater (incl. coastal)",18
+"Intermediate","Renter-majority","Heat",11
+"Intermediate","Renter-majority","Drought / water scarcity",5
+"Intermediate","Renter-majority","Multiple families",39
+"Intermediate","Renter-majority","None documented",1
+"Compact / vertical","Owner-dominated","Floods/stormwater (incl. coastal)",6
+"Compact / vertical","Owner-dominated","Heat",2
+"Compact / vertical","Owner-dominated","Drought / water scarcity",1
+"Compact / vertical","Owner-dominated","Multiple families",2
+"Compact / vertical","Owner-dominated","None documented",1
+"Compact / vertical","Mixed tenure","Floods/stormwater (incl. coastal)",26
+"Compact / vertical","Mixed tenure","Heat",3
+"Compact / vertical","Mixed tenure","Drought / water scarcity",1
+"Compact / vertical","Mixed tenure","Multiple families",10
+"Compact / vertical","Mixed tenure","None documented",7
+"Compact / vertical","Renter-majority","Floods/stormwater (incl. coastal)",23
+"Compact / vertical","Renter-majority","Heat",9
+"Compact / vertical","Renter-majority","Drought / water scarcity",4
+"Compact / vertical","Renter-majority","Multiple families",21
+"Compact / vertical","Renter-majority","None documented",2
+"Unknown","Owner-dominated","Drought / water scarcity",1
+"Unknown","Owner-dominated","Multiple families",1
+"Unknown","Mixed tenure","Floods/stormwater (incl. coastal)",1
+"Unknown","Renter-majority","Floods/stormwater (incl. coastal)",1
+"Unknown","Renter-majority","Multiple families",1

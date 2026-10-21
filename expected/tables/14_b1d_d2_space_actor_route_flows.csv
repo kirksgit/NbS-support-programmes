@@ -1,0 +1,104 @@
+"space","actor","route","verdict","n","alluv"
+"Mixed-tenure city (35-55%)","Homeowners (C-8)","Tenant, with the owner's consent","Partial fit",93,1
+"Mixed-tenure city (35-55%)","Homeowners (C-8)","Property controller (landlord, co-op, social housing)","Documented fit",78,2
+"Mixed-tenure city (35-55%)","Homeowners (C-8)","Tenant, in their own right","Documented fit",41,3
+"Mixed-tenure city (35-55%)","Homeowners (C-8)","Homeowner only","Confirmed misfit",80,4
+"Mixed-tenure city (35-55%)","Homeowners (C-8)","Controller route explicitly closed","Confirmed misfit",3,5
+"Mixed-tenure city (35-55%)","Informal groups (C-16)","Tenant, with the owner's consent","Partial fit",5,6
+"Mixed-tenure city (35-55%)","Informal groups (C-16)","Property controller (landlord, co-op, social housing)","Documented fit",4,7
+"Mixed-tenure city (35-55%)","Informal groups (C-16)","Tenant, in their own right","Documented fit",1,8
+"Mixed-tenure city (35-55%)","Informal groups (C-16)","Homeowner only","Confirmed misfit",1,9
+"Mixed-tenure city (35-55%)","Informal groups (C-16)","Controller route explicitly closed","Confirmed misfit",1,10
+"Mixed-tenure city (35-55%)","Informal groups (C-16)","Not documented","Indeterminate",2,11
+"Mixed-tenure city (35-55%)","Businesses / SMEs","Tenant, with the owner's consent","Partial fit",58,12
+"Mixed-tenure city (35-55%)","Businesses / SMEs","Property controller (landlord, co-op, social housing)","Documented fit",56,13
+"Mixed-tenure city (35-55%)","Businesses / SMEs","Tenant, in their own right","Documented fit",20,14
+"Mixed-tenure city (35-55%)","Businesses / SMEs","Homeowner only","Confirmed misfit",33,15
+"Mixed-tenure city (35-55%)","Businesses / SMEs","Not documented","Indeterminate",3,16
+"Mixed-tenure city (35-55%)","Social-housing providers (C-15)","Tenant, with the owner's consent","Partial fit",16,17
+"Mixed-tenure city (35-55%)","Social-housing providers (C-15)","Property controller (landlord, co-op, social housing)","Documented fit",16,18
+"Mixed-tenure city (35-55%)","Social-housing providers (C-15)","Tenant, in their own right","Documented fit",2,19
+"Mixed-tenure city (35-55%)","Landlords (C-9)","Tenant, with the owner's consent","Partial fit",59,20
+"Mixed-tenure city (35-55%)","Landlords (C-9)","Property controller (landlord, co-op, social housing)","Documented fit",69,21
+"Mixed-tenure city (35-55%)","Landlords (C-9)","Tenant, in their own right","Documented fit",16,22
+"Mixed-tenure city (35-55%)","Tenants, in their own right (C-10)","Tenant, in their own right","Documented fit",42,23
+"Mixed-tenure city (35-55%)","Tenants, with owner consent (C-10)","Tenant, with the owner's consent","Partial fit",93,24
+"Mixed-tenure city (35-55%)","Schools","Tenant, with the owner's consent","Partial fit",26,25
+"Mixed-tenure city (35-55%)","Schools","Property controller (landlord, co-op, social housing)","Documented fit",24,26
+"Mixed-tenure city (35-55%)","Schools","Tenant, in their own right","Documented fit",4,27
+"Mixed-tenure city (35-55%)","Schools","Homeowner only","Confirmed misfit",5,28
+"Mixed-tenure city (35-55%)","Schools","Controller route explicitly closed","Confirmed misfit",1,29
+"Mixed-tenure city (35-55%)","Schools","Not documented","Indeterminate",1,30
+"Mixed-tenure city (35-55%)","Co-operatives / homeowner associations (C-11)","Tenant, with the owner's consent","Partial fit",32,31
+"Mixed-tenure city (35-55%)","Co-operatives / homeowner associations (C-11)","Property controller (landlord, co-op, social housing)","Documented fit",44,32
+"Mixed-tenure city (35-55%)","Co-operatives / homeowner associations (C-11)","Tenant, in their own right","Documented fit",9,33
+"Mixed-tenure city (35-55%)","NGOs / community organisations","Tenant, with the owner's consent","Partial fit",27,34
+"Mixed-tenure city (35-55%)","NGOs / community organisations","Property controller (landlord, co-op, social housing)","Documented fit",28,35
+"Mixed-tenure city (35-55%)","NGOs / community organisations","Tenant, in their own right","Documented fit",16,36
+"Mixed-tenure city (35-55%)","NGOs / community organisations","Homeowner only","Confirmed misfit",8,37
+"Mixed-tenure city (35-55%)","NGOs / community organisations","Controller route explicitly closed","Confirmed misfit",3,38
+"Mixed-tenure city (35-55%)","NGOs / community organisations","Not documented","Indeterminate",3,39
+"Renter-majority city (>=55% renting)","Homeowners (C-8)","Tenant, with the owner's consent","Partial fit",57,40
+"Renter-majority city (>=55% renting)","Homeowners (C-8)","Property controller (landlord, co-op, social housing)","Documented fit",58,41
+"Renter-majority city (>=55% renting)","Homeowners (C-8)","Tenant, in their own right","Documented fit",22,42
+"Renter-majority city (>=55% renting)","Homeowners (C-8)","Homeowner only","Confirmed misfit",26,43
+"Renter-majority city (>=55% renting)","Homeowners (C-8)","Controller route explicitly closed","Confirmed misfit",4,44
+"Renter-majority city (>=55% renting)","Informal groups (C-16)","Tenant, with the owner's consent","Partial fit",16,45
+"Renter-majority city (>=55% renting)","Informal groups (C-16)","Property controller (landlord, co-op, social housing)","Documented fit",2,46
+"Renter-majority city (>=55% renting)","Informal groups (C-16)","Tenant, in their own right","Documented fit",7,47
+"Renter-majority city (>=55% renting)","Informal groups (C-16)","Homeowner only","Confirmed misfit",2,48
+"Renter-majority city (>=55% renting)","Informal groups (C-16)","Controller route explicitly closed","Confirmed misfit",1,49
+"Renter-majority city (>=55% renting)","Businesses / SMEs","Tenant, with the owner's consent","Partial fit",42,50
+"Renter-majority city (>=55% renting)","Businesses / SMEs","Property controller (landlord, co-op, social housing)","Documented fit",43,51
+"Renter-majority city (>=55% renting)","Businesses / SMEs","Tenant, in their own right","Documented fit",8,52
+"Renter-majority city (>=55% renting)","Businesses / SMEs","Homeowner only","Confirmed misfit",14,53
+"Renter-majority city (>=55% renting)","Social-housing providers (C-15)","Tenant, with the owner's consent","Partial fit",9,54
+"Renter-majority city (>=55% renting)","Social-housing providers (C-15)","Property controller (landlord, co-op, social housing)","Documented fit",14,55
+"Renter-majority city (>=55% renting)","Social-housing providers (C-15)","Tenant, in their own right","Documented fit",4,56
+"Renter-majority city (>=55% renting)","Landlords (C-9)","Tenant, with the owner's consent","Partial fit",38,57
+"Renter-majority city (>=55% renting)","Landlords (C-9)","Property controller (landlord, co-op, social housing)","Documented fit",56,58
+"Renter-majority city (>=55% renting)","Landlords (C-9)","Tenant, in their own right","Documented fit",7,59
+"Renter-majority city (>=55% renting)","Tenants, in their own right (C-10)","Tenant, in their own right","Documented fit",22,60
+"Renter-majority city (>=55% renting)","Tenants, with owner consent (C-10)","Tenant, with the owner's consent","Partial fit",59,61
+"Renter-majority city (>=55% renting)","Schools","Tenant, with the owner's consent","Partial fit",12,62
+"Renter-majority city (>=55% renting)","Schools","Property controller (landlord, co-op, social housing)","Documented fit",19,63
+"Renter-majority city (>=55% renting)","Schools","Tenant, in their own right","Documented fit",5,64
+"Renter-majority city (>=55% renting)","Schools","Homeowner only","Confirmed misfit",1,65
+"Renter-majority city (>=55% renting)","Schools","Controller route explicitly closed","Confirmed misfit",1,66
+"Renter-majority city (>=55% renting)","Co-operatives / homeowner associations (C-11)","Tenant, with the owner's consent","Partial fit",31,67
+"Renter-majority city (>=55% renting)","Co-operatives / homeowner associations (C-11)","Property controller (landlord, co-op, social housing)","Documented fit",38,68
+"Renter-majority city (>=55% renting)","Co-operatives / homeowner associations (C-11)","Tenant, in their own right","Documented fit",5,69
+"Renter-majority city (>=55% renting)","NGOs / community organisations","Tenant, with the owner's consent","Partial fit",28,70
+"Renter-majority city (>=55% renting)","NGOs / community organisations","Property controller (landlord, co-op, social housing)","Documented fit",30,71
+"Renter-majority city (>=55% renting)","NGOs / community organisations","Tenant, in their own right","Documented fit",10,72
+"Renter-majority city (>=55% renting)","NGOs / community organisations","Homeowner only","Confirmed misfit",4,73
+"Renter-majority city (>=55% renting)","NGOs / community organisations","Controller route explicitly closed","Confirmed misfit",1,74
+"Renter-majority city (>=55% renting)","NGOs / community organisations","Not documented","Indeterminate",1,75
+"Owner-dominated city (<35%)","Homeowners (C-8)","Tenant, with the owner's consent","Documented fit",60,76
+"Owner-dominated city (<35%)","Homeowners (C-8)","Property controller (landlord, co-op, social housing)","Documented fit",40,77
+"Owner-dominated city (<35%)","Homeowners (C-8)","Tenant, in their own right","Documented fit",36,78
+"Owner-dominated city (<35%)","Homeowners (C-8)","Homeowner only","Documented fit",70,79
+"Owner-dominated city (<35%)","Informal groups (C-16)","Tenant, with the owner's consent","Documented fit",1,80
+"Owner-dominated city (<35%)","Informal groups (C-16)","Property controller (landlord, co-op, social housing)","Documented fit",1,81
+"Owner-dominated city (<35%)","Businesses / SMEs","Tenant, with the owner's consent","Documented fit",29,82
+"Owner-dominated city (<35%)","Businesses / SMEs","Property controller (landlord, co-op, social housing)","Documented fit",29,83
+"Owner-dominated city (<35%)","Businesses / SMEs","Tenant, in their own right","Documented fit",15,84
+"Owner-dominated city (<35%)","Businesses / SMEs","Homeowner only","Documented fit",23,85
+"Owner-dominated city (<35%)","Social-housing providers (C-15)","Tenant, with the owner's consent","Documented fit",6,86
+"Owner-dominated city (<35%)","Social-housing providers (C-15)","Property controller (landlord, co-op, social housing)","Documented fit",3,87
+"Owner-dominated city (<35%)","Landlords (C-9)","Tenant, with the owner's consent","Documented fit",42,88
+"Owner-dominated city (<35%)","Landlords (C-9)","Property controller (landlord, co-op, social housing)","Documented fit",36,89
+"Owner-dominated city (<35%)","Landlords (C-9)","Tenant, in their own right","Documented fit",11,90
+"Owner-dominated city (<35%)","Tenants, in their own right (C-10)","Tenant, in their own right","Documented fit",37,91
+"Owner-dominated city (<35%)","Tenants, with owner consent (C-10)","Tenant, with the owner's consent","Documented fit",59,92
+"Owner-dominated city (<35%)","Schools","Tenant, with the owner's consent","Documented fit",10,93
+"Owner-dominated city (<35%)","Schools","Property controller (landlord, co-op, social housing)","Documented fit",6,94
+"Owner-dominated city (<35%)","Schools","Tenant, in their own right","Documented fit",5,95
+"Owner-dominated city (<35%)","Schools","Homeowner only","Documented fit",3,96
+"Owner-dominated city (<35%)","Co-operatives / homeowner associations (C-11)","Tenant, with the owner's consent","Documented fit",14,97
+"Owner-dominated city (<35%)","Co-operatives / homeowner associations (C-11)","Property controller (landlord, co-op, social housing)","Documented fit",23,98
+"Owner-dominated city (<35%)","Co-operatives / homeowner associations (C-11)","Tenant, in their own right","Documented fit",9,99
+"Owner-dominated city (<35%)","NGOs / community organisations","Tenant, with the owner's consent","Documented fit",15,100
+"Owner-dominated city (<35%)","NGOs / community organisations","Property controller (landlord, co-op, social housing)","Documented fit",7,101
+"Owner-dominated city (<35%)","NGOs / community organisations","Tenant, in their own right","Documented fit",8,102
+"Owner-dominated city (<35%)","NGOs / community organisations","Homeowner only","Documented fit",5,103

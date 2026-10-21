@@ -1,0 +1,36 @@
+"payment","alternative","target","verdict","n","alluv"
+"Reimbursement after install","None documented","None documented","Confirmed misfit",377,1
+"Reimbursement after install","None documented","Social-housing eligibility (C-15)","Confirmed misfit",51,2
+"Reimbursement after install","None documented","Low-income or equity zones (G-4)","Confirmed misfit",11,3
+"Reimbursement after install","None documented","Vulnerable populations (G-4)","Confirmed misfit",5,4
+"Reimbursement after install","Goods supplied free of charge (E-8/E-11/E-25)","None documented","Partial fit",14,5
+"Reimbursement after install","Goods supplied free of charge (E-8/E-11/E-25)","Social-housing eligibility (C-15)","Partial fit",2,6
+"Reimbursement after install","Goods supplied free of charge (E-8/E-11/E-25)","Vulnerable populations (G-4)","Partial fit",1,7
+"Reimbursement after install","Discounted or subsidised purchase, applicant still buys (E-11)","None documented","Partial fit",42,8
+"Reimbursement after install","Discounted or subsidised purchase, applicant still buys (E-11)","Social-housing eligibility (C-15)","Partial fit",4,9
+"Reimbursement after install","Discounted or subsidised purchase, applicant still buys (E-11)","Low-income or equity zones (G-4)","Partial fit",1,10
+"Reimbursement after install","Discounted or subsidised purchase, applicant still buys (E-11)","Vulnerable populations (G-4)","Partial fit",2,11
+"Upfront or paid to vendor","None documented","None documented","Documented fit",10,12
+"Upfront or paid to vendor","None documented","Social-housing eligibility (C-15)","Documented fit",3,13
+"Upfront or paid to vendor","None documented","Low-income or equity zones (G-4)","Documented fit",1,14
+"Upfront or paid to vendor","Goods supplied free of charge (E-8/E-11/E-25)","None documented","Documented fit",24,15
+"Upfront or paid to vendor","Goods supplied free of charge (E-8/E-11/E-25)","Social-housing eligibility (C-15)","Documented fit",1,16
+"Upfront or paid to vendor","Goods supplied free of charge (E-8/E-11/E-25)","Low-income or equity zones (G-4)","Documented fit",1,17
+"Upfront or paid to vendor","Discounted or subsidised purchase, applicant still buys (E-11)","None documented","Documented fit",84,18
+"Upfront or paid to vendor","Discounted or subsidised purchase, applicant still buys (E-11)","Vulnerable populations (G-4)","Documented fit",2,19
+"Payment timing not stated","None documented","None documented","Confirmed misfit",32,20
+"Payment timing not stated","None documented","Social-housing eligibility (C-15)","Confirmed misfit",2,21
+"Payment timing not stated","Goods supplied free of charge (E-8/E-11/E-25)","None documented","Confirmed misfit",2,22
+"Payment timing not stated","Goods supplied free of charge (E-8/E-11/E-25)","Low-income or equity zones (G-4)","Confirmed misfit",1,23
+"Payment timing not stated","Discounted or subsidised purchase, applicant still buys (E-11)","None documented","Confirmed misfit",15,24
+"Payment timing not stated","Discounted or subsidised purchase, applicant still buys (E-11)","Low-income or equity zones (G-4)","Confirmed misfit",1,25
+"Fiscal credit or bill reduction","None documented","None documented","Documented fit",20,26
+"Fiscal credit or bill reduction","None documented","Social-housing eligibility (C-15)","Documented fit",8,27
+"Fiscal credit or bill reduction","None documented","Low-income or equity zones (G-4)","Documented fit",2,28
+"Fiscal credit or bill reduction","Discounted or subsidised purchase, applicant still buys (E-11)","None documented","Documented fit",1,29
+"Milestone payments","None documented","None documented","Documented fit",3,30
+"Milestone payments","None documented","None documented","Indeterminate",7,31
+"Milestone payments","None documented","Social-housing eligibility (C-15)","Indeterminate",2,32
+"Milestone payments","None documented","Low-income or equity zones (G-4)","Indeterminate",1,33
+"Milestone payments","Goods supplied free of charge (E-8/E-11/E-25)","None documented","Indeterminate",1,34
+"Milestone payments","Discounted or subsidised purchase, applicant still buys (E-11)","None documented","Indeterminate",2,35

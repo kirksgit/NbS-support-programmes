@@ -1,0 +1,309 @@
+"country","region_mod","n_cty","measure","tier","n_m","share"
+"Argentina","Other regions",1,"Rain barrels / cisterns","Low demand (standardised)",0,0
+"Australia","Other regions",2,"Rain barrels / cisterns","Low demand (standardised)",1,0.5
+"Austria","Western Europe",3,"Rain barrels / cisterns","Low demand (standardised)",1,0.333333333333333
+"Belgium","Western Europe",7,"Rain barrels / cisterns","Low demand (standardised)",3,0.428571428571429
+"Brazil","Other regions",8,"Rain barrels / cisterns","Low demand (standardised)",7,0.875
+"Canada","North America",46,"Rain barrels / cisterns","Low demand (standardised)",36,0.782608695652174
+"Czech Republic","Central/Eastern Europe",2,"Rain barrels / cisterns","Low demand (standardised)",2,1
+"Denmark","Other regions",5,"Rain barrels / cisterns","Low demand (standardised)",0,0
+"France","Western Europe",35,"Rain barrels / cisterns","Low demand (standardised)",21,0.6
+"Germany","Western Europe",88,"Rain barrels / cisterns","Low demand (standardised)",20,0.227272727272727
+"Hungary","Central/Eastern Europe",5,"Rain barrels / cisterns","Low demand (standardised)",4,0.8
+"India","Other regions",2,"Rain barrels / cisterns","Low demand (standardised)",2,1
+"Ireland","Western Europe",2,"Rain barrels / cisterns","Low demand (standardised)",1,0.5
+"Japan","East Asia",122,"Rain barrels / cisterns","Low demand (standardised)",108,0.885245901639344
+"Korea, Rep.","East Asia",2,"Rain barrels / cisterns","Low demand (standardised)",1,0.5
+"Malaysia","Other regions",1,"Rain barrels / cisterns","Low demand (standardised)",0,0
+"Mexico","Other regions",1,"Rain barrels / cisterns","Low demand (standardised)",1,1
+"Netherlands","Western Europe",43,"Rain barrels / cisterns","Low demand (standardised)",30,0.697674418604651
+"New Zealand","Other regions",1,"Rain barrels / cisterns","Low demand (standardised)",0,0
+"Norway","Other regions",1,"Rain barrels / cisterns","Low demand (standardised)",0,0
+"Poland","Central/Eastern Europe",17,"Rain barrels / cisterns","Low demand (standardised)",15,0.882352941176471
+"Singapore","Other regions",1,"Rain barrels / cisterns","Low demand (standardised)",0,0
+"Slovak Republic","Central/Eastern Europe",2,"Rain barrels / cisterns","Low demand (standardised)",1,0.5
+"Spain","Other regions",2,"Rain barrels / cisterns","Low demand (standardised)",1,0.5
+"Switzerland","Western Europe",4,"Rain barrels / cisterns","Low demand (standardised)",1,0.25
+"Taiwan, Province of China","East Asia",1,"Rain barrels / cisterns","Low demand (standardised)",1,1
+"United Kingdom","Western Europe",2,"Rain barrels / cisterns","Low demand (standardised)",0,0
+"United States","North America",301,"Rain barrels / cisterns","Low demand (standardised)",230,0.764119601328904
+"Argentina","Other regions",1,"Depaving / permeable","Medium demand (ground-modifying)",0,0
+"Australia","Other regions",2,"Depaving / permeable","Medium demand (ground-modifying)",0,0
+"Austria","Western Europe",3,"Depaving / permeable","Medium demand (ground-modifying)",3,1
+"Belgium","Western Europe",7,"Depaving / permeable","Medium demand (ground-modifying)",2,0.285714285714286
+"Brazil","Other regions",8,"Depaving / permeable","Medium demand (ground-modifying)",1,0.125
+"Canada","North America",46,"Depaving / permeable","Medium demand (ground-modifying)",11,0.239130434782609
+"Czech Republic","Central/Eastern Europe",2,"Depaving / permeable","Medium demand (ground-modifying)",1,0.5
+"Denmark","Other regions",5,"Depaving / permeable","Medium demand (ground-modifying)",1,0.2
+"France","Western Europe",35,"Depaving / permeable","Medium demand (ground-modifying)",8,0.228571428571429
+"Germany","Western Europe",88,"Depaving / permeable","Medium demand (ground-modifying)",49,0.556818181818182
+"Hungary","Central/Eastern Europe",5,"Depaving / permeable","Medium demand (ground-modifying)",0,0
+"India","Other regions",2,"Depaving / permeable","Medium demand (ground-modifying)",0,0
+"Ireland","Western Europe",2,"Depaving / permeable","Medium demand (ground-modifying)",0,0
+"Japan","East Asia",122,"Depaving / permeable","Medium demand (ground-modifying)",12,0.0983606557377049
+"Korea, Rep.","East Asia",2,"Depaving / permeable","Medium demand (ground-modifying)",0,0
+"Malaysia","Other regions",1,"Depaving / permeable","Medium demand (ground-modifying)",0,0
+"Mexico","Other regions",1,"Depaving / permeable","Medium demand (ground-modifying)",0,0
+"Netherlands","Western Europe",43,"Depaving / permeable","Medium demand (ground-modifying)",25,0.581395348837209
+"New Zealand","Other regions",1,"Depaving / permeable","Medium demand (ground-modifying)",0,0
+"Norway","Other regions",1,"Depaving / permeable","Medium demand (ground-modifying)",0,0
+"Poland","Central/Eastern Europe",17,"Depaving / permeable","Medium demand (ground-modifying)",3,0.176470588235294
+"Singapore","Other regions",1,"Depaving / permeable","Medium demand (ground-modifying)",0,0
+"Slovak Republic","Central/Eastern Europe",2,"Depaving / permeable","Medium demand (ground-modifying)",2,1
+"Spain","Other regions",2,"Depaving / permeable","Medium demand (ground-modifying)",1,0.5
+"Switzerland","Western Europe",4,"Depaving / permeable","Medium demand (ground-modifying)",3,0.75
+"Taiwan, Province of China","East Asia",1,"Depaving / permeable","Medium demand (ground-modifying)",1,1
+"United Kingdom","Western Europe",2,"Depaving / permeable","Medium demand (ground-modifying)",0,0
+"United States","North America",301,"Depaving / permeable","Medium demand (ground-modifying)",78,0.259136212624585
+"Argentina","Other regions",1,"Downspout disconnection (to a vegetated or infiltrating receiver)","Low demand (standardised)",0,0
+"Australia","Other regions",2,"Downspout disconnection (to a vegetated or infiltrating receiver)","Low demand (standardised)",0,0
+"Austria","Western Europe",3,"Downspout disconnection (to a vegetated or infiltrating receiver)","Low demand (standardised)",0,0
+"Belgium","Western Europe",7,"Downspout disconnection (to a vegetated or infiltrating receiver)","Low demand (standardised)",0,0
+"Brazil","Other regions",8,"Downspout disconnection (to a vegetated or infiltrating receiver)","Low demand (standardised)",0,0
+"Canada","North America",46,"Downspout disconnection (to a vegetated or infiltrating receiver)","Low demand (standardised)",5,0.108695652173913
+"Czech Republic","Central/Eastern Europe",2,"Downspout disconnection (to a vegetated or infiltrating receiver)","Low demand (standardised)",0,0
+"Denmark","Other regions",5,"Downspout disconnection (to a vegetated or infiltrating receiver)","Low demand (standardised)",3,0.6
+"France","Western Europe",35,"Downspout disconnection (to a vegetated or infiltrating receiver)","Low demand (standardised)",5,0.142857142857143
+"Germany","Western Europe",88,"Downspout disconnection (to a vegetated or infiltrating receiver)","Low demand (standardised)",1,0.0113636363636364
+"Hungary","Central/Eastern Europe",5,"Downspout disconnection (to a vegetated or infiltrating receiver)","Low demand (standardised)",0,0
+"India","Other regions",2,"Downspout disconnection (to a vegetated or infiltrating receiver)","Low demand (standardised)",0,0
+"Ireland","Western Europe",2,"Downspout disconnection (to a vegetated or infiltrating receiver)","Low demand (standardised)",0,0
+"Japan","East Asia",122,"Downspout disconnection (to a vegetated or infiltrating receiver)","Low demand (standardised)",4,0.0327868852459016
+"Korea, Rep.","East Asia",2,"Downspout disconnection (to a vegetated or infiltrating receiver)","Low demand (standardised)",0,0
+"Malaysia","Other regions",1,"Downspout disconnection (to a vegetated or infiltrating receiver)","Low demand (standardised)",0,0
+"Mexico","Other regions",1,"Downspout disconnection (to a vegetated or infiltrating receiver)","Low demand (standardised)",0,0
+"Netherlands","Western Europe",43,"Downspout disconnection (to a vegetated or infiltrating receiver)","Low demand (standardised)",22,0.511627906976744
+"New Zealand","Other regions",1,"Downspout disconnection (to a vegetated or infiltrating receiver)","Low demand (standardised)",0,0
+"Norway","Other regions",1,"Downspout disconnection (to a vegetated or infiltrating receiver)","Low demand (standardised)",0,0
+"Poland","Central/Eastern Europe",17,"Downspout disconnection (to a vegetated or infiltrating receiver)","Low demand (standardised)",0,0
+"Singapore","Other regions",1,"Downspout disconnection (to a vegetated or infiltrating receiver)","Low demand (standardised)",0,0
+"Slovak Republic","Central/Eastern Europe",2,"Downspout disconnection (to a vegetated or infiltrating receiver)","Low demand (standardised)",0,0
+"Spain","Other regions",2,"Downspout disconnection (to a vegetated or infiltrating receiver)","Low demand (standardised)",0,0
+"Switzerland","Western Europe",4,"Downspout disconnection (to a vegetated or infiltrating receiver)","Low demand (standardised)",0,0
+"Taiwan, Province of China","East Asia",1,"Downspout disconnection (to a vegetated or infiltrating receiver)","Low demand (standardised)",0,0
+"United Kingdom","Western Europe",2,"Downspout disconnection (to a vegetated or infiltrating receiver)","Low demand (standardised)",0,0
+"United States","North America",301,"Downspout disconnection (to a vegetated or infiltrating receiver)","Low demand (standardised)",32,0.106312292358804
+"Argentina","Other regions",1,"Green facades","High demand (building-integrated)",0,0
+"Australia","Other regions",2,"Green facades","High demand (building-integrated)",1,0.5
+"Austria","Western Europe",3,"Green facades","High demand (building-integrated)",2,0.666666666666667
+"Belgium","Western Europe",7,"Green facades","High demand (building-integrated)",1,0.142857142857143
+"Brazil","Other regions",8,"Green facades","High demand (building-integrated)",0,0
+"Canada","North America",46,"Green facades","High demand (building-integrated)",0,0
+"Czech Republic","Central/Eastern Europe",2,"Green facades","High demand (building-integrated)",1,0.5
+"Denmark","Other regions",5,"Green facades","High demand (building-integrated)",1,0.2
+"France","Western Europe",35,"Green facades","High demand (building-integrated)",11,0.314285714285714
+"Germany","Western Europe",88,"Green facades","High demand (building-integrated)",66,0.75
+"Hungary","Central/Eastern Europe",5,"Green facades","High demand (building-integrated)",1,0.2
+"India","Other regions",2,"Green facades","High demand (building-integrated)",0,0
+"Ireland","Western Europe",2,"Green facades","High demand (building-integrated)",1,0.5
+"Japan","East Asia",122,"Green facades","High demand (building-integrated)",9,0.0737704918032787
+"Korea, Rep.","East Asia",2,"Green facades","High demand (building-integrated)",0,0
+"Malaysia","Other regions",1,"Green facades","High demand (building-integrated)",1,1
+"Mexico","Other regions",1,"Green facades","High demand (building-integrated)",0,0
+"Netherlands","Western Europe",43,"Green facades","High demand (building-integrated)",19,0.441860465116279
+"New Zealand","Other regions",1,"Green facades","High demand (building-integrated)",0,0
+"Norway","Other regions",1,"Green facades","High demand (building-integrated)",1,1
+"Poland","Central/Eastern Europe",17,"Green facades","High demand (building-integrated)",1,0.0588235294117647
+"Singapore","Other regions",1,"Green facades","High demand (building-integrated)",1,1
+"Slovak Republic","Central/Eastern Europe",2,"Green facades","High demand (building-integrated)",1,0.5
+"Spain","Other regions",2,"Green facades","High demand (building-integrated)",1,0.5
+"Switzerland","Western Europe",4,"Green facades","High demand (building-integrated)",2,0.5
+"Taiwan, Province of China","East Asia",1,"Green facades","High demand (building-integrated)",1,1
+"United Kingdom","Western Europe",2,"Green facades","High demand (building-integrated)",0,0
+"United States","North America",301,"Green facades","High demand (building-integrated)",0,0
+"Argentina","Other regions",1,"Green roofs","High demand (building-integrated)",0,0
+"Australia","Other regions",2,"Green roofs","High demand (building-integrated)",1,0.5
+"Austria","Western Europe",3,"Green roofs","High demand (building-integrated)",1,0.333333333333333
+"Belgium","Western Europe",7,"Green roofs","High demand (building-integrated)",5,0.714285714285714
+"Brazil","Other regions",8,"Green roofs","High demand (building-integrated)",3,0.375
+"Canada","North America",46,"Green roofs","High demand (building-integrated)",8,0.173913043478261
+"Czech Republic","Central/Eastern Europe",2,"Green roofs","High demand (building-integrated)",2,1
+"Denmark","Other regions",5,"Green roofs","High demand (building-integrated)",0,0
+"France","Western Europe",35,"Green roofs","High demand (building-integrated)",3,0.0857142857142857
+"Germany","Western Europe",88,"Green roofs","High demand (building-integrated)",82,0.931818181818182
+"Hungary","Central/Eastern Europe",5,"Green roofs","High demand (building-integrated)",1,0.2
+"India","Other regions",2,"Green roofs","High demand (building-integrated)",0,0
+"Ireland","Western Europe",2,"Green roofs","High demand (building-integrated)",0,0
+"Japan","East Asia",122,"Green roofs","High demand (building-integrated)",8,0.0655737704918033
+"Korea, Rep.","East Asia",2,"Green roofs","High demand (building-integrated)",1,0.5
+"Malaysia","Other regions",1,"Green roofs","High demand (building-integrated)",1,1
+"Mexico","Other regions",1,"Green roofs","High demand (building-integrated)",0,0
+"Netherlands","Western Europe",43,"Green roofs","High demand (building-integrated)",39,0.906976744186046
+"New Zealand","Other regions",1,"Green roofs","High demand (building-integrated)",0,0
+"Norway","Other regions",1,"Green roofs","High demand (building-integrated)",1,1
+"Poland","Central/Eastern Europe",17,"Green roofs","High demand (building-integrated)",2,0.117647058823529
+"Singapore","Other regions",1,"Green roofs","High demand (building-integrated)",1,1
+"Slovak Republic","Central/Eastern Europe",2,"Green roofs","High demand (building-integrated)",2,1
+"Spain","Other regions",2,"Green roofs","High demand (building-integrated)",2,1
+"Switzerland","Western Europe",4,"Green roofs","High demand (building-integrated)",3,0.75
+"Taiwan, Province of China","East Asia",1,"Green roofs","High demand (building-integrated)",1,1
+"United Kingdom","Western Europe",2,"Green roofs","High demand (building-integrated)",0,0
+"United States","North America",301,"Green roofs","High demand (building-integrated)",19,0.0631229235880399
+"Argentina","Other regions",1,"Infiltration systems","Medium demand (ground-modifying)",0,0
+"Australia","Other regions",2,"Infiltration systems","Medium demand (ground-modifying)",0,0
+"Austria","Western Europe",3,"Infiltration systems","Medium demand (ground-modifying)",0,0
+"Belgium","Western Europe",7,"Infiltration systems","Medium demand (ground-modifying)",1,0.142857142857143
+"Brazil","Other regions",8,"Infiltration systems","Medium demand (ground-modifying)",0,0
+"Canada","North America",46,"Infiltration systems","Medium demand (ground-modifying)",7,0.152173913043478
+"Czech Republic","Central/Eastern Europe",2,"Infiltration systems","Medium demand (ground-modifying)",1,0.5
+"Denmark","Other regions",5,"Infiltration systems","Medium demand (ground-modifying)",4,0.8
+"France","Western Europe",35,"Infiltration systems","Medium demand (ground-modifying)",3,0.0857142857142857
+"Germany","Western Europe",88,"Infiltration systems","Medium demand (ground-modifying)",11,0.125
+"Hungary","Central/Eastern Europe",5,"Infiltration systems","Medium demand (ground-modifying)",0,0
+"India","Other regions",2,"Infiltration systems","Medium demand (ground-modifying)",0,0
+"Ireland","Western Europe",2,"Infiltration systems","Medium demand (ground-modifying)",0,0
+"Japan","East Asia",122,"Infiltration systems","Medium demand (ground-modifying)",62,0.508196721311475
+"Korea, Rep.","East Asia",2,"Infiltration systems","Medium demand (ground-modifying)",0,0
+"Malaysia","Other regions",1,"Infiltration systems","Medium demand (ground-modifying)",0,0
+"Mexico","Other regions",1,"Infiltration systems","Medium demand (ground-modifying)",0,0
+"Netherlands","Western Europe",43,"Infiltration systems","Medium demand (ground-modifying)",17,0.395348837209302
+"New Zealand","Other regions",1,"Infiltration systems","Medium demand (ground-modifying)",0,0
+"Norway","Other regions",1,"Infiltration systems","Medium demand (ground-modifying)",0,0
+"Poland","Central/Eastern Europe",17,"Infiltration systems","Medium demand (ground-modifying)",6,0.352941176470588
+"Singapore","Other regions",1,"Infiltration systems","Medium demand (ground-modifying)",0,0
+"Slovak Republic","Central/Eastern Europe",2,"Infiltration systems","Medium demand (ground-modifying)",2,1
+"Spain","Other regions",2,"Infiltration systems","Medium demand (ground-modifying)",0,0
+"Switzerland","Western Europe",4,"Infiltration systems","Medium demand (ground-modifying)",1,0.25
+"Taiwan, Province of China","East Asia",1,"Infiltration systems","Medium demand (ground-modifying)",0,0
+"United Kingdom","Western Europe",2,"Infiltration systems","Medium demand (ground-modifying)",0,0
+"United States","North America",301,"Infiltration systems","Medium demand (ground-modifying)",14,0.0465116279069767
+"Argentina","Other regions",1,"Native / drought planting","Low demand (standardised)",0,0
+"Australia","Other regions",2,"Native / drought planting","Low demand (standardised)",0,0
+"Austria","Western Europe",3,"Native / drought planting","Low demand (standardised)",0,0
+"Belgium","Western Europe",7,"Native / drought planting","Low demand (standardised)",0,0
+"Brazil","Other regions",8,"Native / drought planting","Low demand (standardised)",2,0.25
+"Canada","North America",46,"Native / drought planting","Low demand (standardised)",8,0.173913043478261
+"Czech Republic","Central/Eastern Europe",2,"Native / drought planting","Low demand (standardised)",0,0
+"Denmark","Other regions",5,"Native / drought planting","Low demand (standardised)",0,0
+"France","Western Europe",35,"Native / drought planting","Low demand (standardised)",1,0.0285714285714286
+"Germany","Western Europe",88,"Native / drought planting","Low demand (standardised)",14,0.159090909090909
+"Hungary","Central/Eastern Europe",5,"Native / drought planting","Low demand (standardised)",0,0
+"India","Other regions",2,"Native / drought planting","Low demand (standardised)",0,0
+"Ireland","Western Europe",2,"Native / drought planting","Low demand (standardised)",1,0.5
+"Japan","East Asia",122,"Native / drought planting","Low demand (standardised)",2,0.0163934426229508
+"Korea, Rep.","East Asia",2,"Native / drought planting","Low demand (standardised)",0,0
+"Malaysia","Other regions",1,"Native / drought planting","Low demand (standardised)",0,0
+"Mexico","Other regions",1,"Native / drought planting","Low demand (standardised)",0,0
+"Netherlands","Western Europe",43,"Native / drought planting","Low demand (standardised)",3,0.0697674418604651
+"New Zealand","Other regions",1,"Native / drought planting","Low demand (standardised)",1,1
+"Norway","Other regions",1,"Native / drought planting","Low demand (standardised)",0,0
+"Poland","Central/Eastern Europe",17,"Native / drought planting","Low demand (standardised)",0,0
+"Singapore","Other regions",1,"Native / drought planting","Low demand (standardised)",0,0
+"Slovak Republic","Central/Eastern Europe",2,"Native / drought planting","Low demand (standardised)",0,0
+"Spain","Other regions",2,"Native / drought planting","Low demand (standardised)",0,0
+"Switzerland","Western Europe",4,"Native / drought planting","Low demand (standardised)",1,0.25
+"Taiwan, Province of China","East Asia",1,"Native / drought planting","Low demand (standardised)",0,0
+"United Kingdom","Western Europe",2,"Native / drought planting","Low demand (standardised)",2,1
+"United States","North America",301,"Native / drought planting","Low demand (standardised)",115,0.382059800664452
+"Argentina","Other regions",1,"Garden ponds and swales","Medium demand (ground-modifying)",0,0
+"Australia","Other regions",2,"Garden ponds and swales","Medium demand (ground-modifying)",0,0
+"Austria","Western Europe",3,"Garden ponds and swales","Medium demand (ground-modifying)",0,0
+"Belgium","Western Europe",7,"Garden ponds and swales","Medium demand (ground-modifying)",0,0
+"Brazil","Other regions",8,"Garden ponds and swales","Medium demand (ground-modifying)",0,0
+"Canada","North America",46,"Garden ponds and swales","Medium demand (ground-modifying)",2,0.0434782608695652
+"Czech Republic","Central/Eastern Europe",2,"Garden ponds and swales","Medium demand (ground-modifying)",0,0
+"Denmark","Other regions",5,"Garden ponds and swales","Medium demand (ground-modifying)",0,0
+"France","Western Europe",35,"Garden ponds and swales","Medium demand (ground-modifying)",0,0
+"Germany","Western Europe",88,"Garden ponds and swales","Medium demand (ground-modifying)",3,0.0340909090909091
+"Hungary","Central/Eastern Europe",5,"Garden ponds and swales","Medium demand (ground-modifying)",0,0
+"India","Other regions",2,"Garden ponds and swales","Medium demand (ground-modifying)",0,0
+"Ireland","Western Europe",2,"Garden ponds and swales","Medium demand (ground-modifying)",1,0.5
+"Japan","East Asia",122,"Garden ponds and swales","Medium demand (ground-modifying)",0,0
+"Korea, Rep.","East Asia",2,"Garden ponds and swales","Medium demand (ground-modifying)",0,0
+"Malaysia","Other regions",1,"Garden ponds and swales","Medium demand (ground-modifying)",0,0
+"Mexico","Other regions",1,"Garden ponds and swales","Medium demand (ground-modifying)",0,0
+"Netherlands","Western Europe",43,"Garden ponds and swales","Medium demand (ground-modifying)",2,0.0465116279069767
+"New Zealand","Other regions",1,"Garden ponds and swales","Medium demand (ground-modifying)",0,0
+"Norway","Other regions",1,"Garden ponds and swales","Medium demand (ground-modifying)",0,0
+"Poland","Central/Eastern Europe",17,"Garden ponds and swales","Medium demand (ground-modifying)",2,0.117647058823529
+"Singapore","Other regions",1,"Garden ponds and swales","Medium demand (ground-modifying)",0,0
+"Slovak Republic","Central/Eastern Europe",2,"Garden ponds and swales","Medium demand (ground-modifying)",1,0.5
+"Spain","Other regions",2,"Garden ponds and swales","Medium demand (ground-modifying)",0,0
+"Switzerland","Western Europe",4,"Garden ponds and swales","Medium demand (ground-modifying)",0,0
+"Taiwan, Province of China","East Asia",1,"Garden ponds and swales","Medium demand (ground-modifying)",0,0
+"United Kingdom","Western Europe",2,"Garden ponds and swales","Medium demand (ground-modifying)",0,0
+"United States","North America",301,"Garden ponds and swales","Medium demand (ground-modifying)",20,0.0664451827242525
+"Argentina","Other regions",1,"Rain gardens","Medium demand (ground-modifying)",0,0
+"Australia","Other regions",2,"Rain gardens","Medium demand (ground-modifying)",0,0
+"Austria","Western Europe",3,"Rain gardens","Medium demand (ground-modifying)",0,0
+"Belgium","Western Europe",7,"Rain gardens","Medium demand (ground-modifying)",2,0.285714285714286
+"Brazil","Other regions",8,"Rain gardens","Medium demand (ground-modifying)",0,0
+"Canada","North America",46,"Rain gardens","Medium demand (ground-modifying)",10,0.217391304347826
+"Czech Republic","Central/Eastern Europe",2,"Rain gardens","Medium demand (ground-modifying)",1,0.5
+"Denmark","Other regions",5,"Rain gardens","Medium demand (ground-modifying)",4,0.8
+"France","Western Europe",35,"Rain gardens","Medium demand (ground-modifying)",1,0.0285714285714286
+"Germany","Western Europe",88,"Rain gardens","Medium demand (ground-modifying)",7,0.0795454545454545
+"Hungary","Central/Eastern Europe",5,"Rain gardens","Medium demand (ground-modifying)",0,0
+"India","Other regions",2,"Rain gardens","Medium demand (ground-modifying)",0,0
+"Ireland","Western Europe",2,"Rain gardens","Medium demand (ground-modifying)",1,0.5
+"Japan","East Asia",122,"Rain gardens","Medium demand (ground-modifying)",1,0.00819672131147541
+"Korea, Rep.","East Asia",2,"Rain gardens","Medium demand (ground-modifying)",0,0
+"Malaysia","Other regions",1,"Rain gardens","Medium demand (ground-modifying)",0,0
+"Mexico","Other regions",1,"Rain gardens","Medium demand (ground-modifying)",0,0
+"Netherlands","Western Europe",43,"Rain gardens","Medium demand (ground-modifying)",10,0.232558139534884
+"New Zealand","Other regions",1,"Rain gardens","Medium demand (ground-modifying)",0,0
+"Norway","Other regions",1,"Rain gardens","Medium demand (ground-modifying)",0,0
+"Poland","Central/Eastern Europe",17,"Rain gardens","Medium demand (ground-modifying)",9,0.529411764705882
+"Singapore","Other regions",1,"Rain gardens","Medium demand (ground-modifying)",0,0
+"Slovak Republic","Central/Eastern Europe",2,"Rain gardens","Medium demand (ground-modifying)",2,1
+"Spain","Other regions",2,"Rain gardens","Medium demand (ground-modifying)",0,0
+"Switzerland","Western Europe",4,"Rain gardens","Medium demand (ground-modifying)",1,0.25
+"Taiwan, Province of China","East Asia",1,"Rain gardens","Medium demand (ground-modifying)",1,1
+"United Kingdom","Western Europe",2,"Rain gardens","Medium demand (ground-modifying)",1,0.5
+"United States","North America",301,"Rain gardens","Medium demand (ground-modifying)",102,0.338870431893688
+"Argentina","Other regions",1,"Trees (pits)","Medium demand (ground-modifying)",1,1
+"Australia","Other regions",2,"Trees (pits)","Medium demand (ground-modifying)",2,1
+"Austria","Western Europe",3,"Trees (pits)","Medium demand (ground-modifying)",0,0
+"Belgium","Western Europe",7,"Trees (pits)","Medium demand (ground-modifying)",2,0.285714285714286
+"Brazil","Other regions",8,"Trees (pits)","Medium demand (ground-modifying)",5,0.625
+"Canada","North America",46,"Trees (pits)","Medium demand (ground-modifying)",8,0.173913043478261
+"Czech Republic","Central/Eastern Europe",2,"Trees (pits)","Medium demand (ground-modifying)",0,0
+"Denmark","Other regions",5,"Trees (pits)","Medium demand (ground-modifying)",0,0
+"France","Western Europe",35,"Trees (pits)","Medium demand (ground-modifying)",8,0.228571428571429
+"Germany","Western Europe",88,"Trees (pits)","Medium demand (ground-modifying)",19,0.215909090909091
+"Hungary","Central/Eastern Europe",5,"Trees (pits)","Medium demand (ground-modifying)",0,0
+"India","Other regions",2,"Trees (pits)","Medium demand (ground-modifying)",0,0
+"Ireland","Western Europe",2,"Trees (pits)","Medium demand (ground-modifying)",2,1
+"Japan","East Asia",122,"Trees (pits)","Medium demand (ground-modifying)",5,0.040983606557377
+"Korea, Rep.","East Asia",2,"Trees (pits)","Medium demand (ground-modifying)",0,0
+"Malaysia","Other regions",1,"Trees (pits)","Medium demand (ground-modifying)",1,1
+"Mexico","Other regions",1,"Trees (pits)","Medium demand (ground-modifying)",0,0
+"Netherlands","Western Europe",43,"Trees (pits)","Medium demand (ground-modifying)",14,0.325581395348837
+"New Zealand","Other regions",1,"Trees (pits)","Medium demand (ground-modifying)",0,0
+"Norway","Other regions",1,"Trees (pits)","Medium demand (ground-modifying)",0,0
+"Poland","Central/Eastern Europe",17,"Trees (pits)","Medium demand (ground-modifying)",0,0
+"Singapore","Other regions",1,"Trees (pits)","Medium demand (ground-modifying)",0,0
+"Slovak Republic","Central/Eastern Europe",2,"Trees (pits)","Medium demand (ground-modifying)",0,0
+"Spain","Other regions",2,"Trees (pits)","Medium demand (ground-modifying)",0,0
+"Switzerland","Western Europe",4,"Trees (pits)","Medium demand (ground-modifying)",2,0.5
+"Taiwan, Province of China","East Asia",1,"Trees (pits)","Medium demand (ground-modifying)",1,1
+"United Kingdom","Western Europe",2,"Trees (pits)","Medium demand (ground-modifying)",2,1
+"United States","North America",301,"Trees (pits)","Medium demand (ground-modifying)",85,0.282392026578073
+"Argentina","Other regions",1,"Turf replacement","Low demand (standardised)",0,0
+"Australia","Other regions",2,"Turf replacement","Low demand (standardised)",0,0
+"Austria","Western Europe",3,"Turf replacement","Low demand (standardised)",0,0
+"Belgium","Western Europe",7,"Turf replacement","Low demand (standardised)",0,0
+"Brazil","Other regions",8,"Turf replacement","Low demand (standardised)",0,0
+"Canada","North America",46,"Turf replacement","Low demand (standardised)",3,0.0652173913043478
+"Czech Republic","Central/Eastern Europe",2,"Turf replacement","Low demand (standardised)",0,0
+"Denmark","Other regions",5,"Turf replacement","Low demand (standardised)",0,0
+"France","Western Europe",35,"Turf replacement","Low demand (standardised)",0,0
+"Germany","Western Europe",88,"Turf replacement","Low demand (standardised)",0,0
+"Hungary","Central/Eastern Europe",5,"Turf replacement","Low demand (standardised)",0,0
+"India","Other regions",2,"Turf replacement","Low demand (standardised)",0,0
+"Ireland","Western Europe",2,"Turf replacement","Low demand (standardised)",0,0
+"Japan","East Asia",122,"Turf replacement","Low demand (standardised)",0,0
+"Korea, Rep.","East Asia",2,"Turf replacement","Low demand (standardised)",0,0
+"Malaysia","Other regions",1,"Turf replacement","Low demand (standardised)",0,0
+"Mexico","Other regions",1,"Turf replacement","Low demand (standardised)",0,0
+"Netherlands","Western Europe",43,"Turf replacement","Low demand (standardised)",0,0
+"New Zealand","Other regions",1,"Turf replacement","Low demand (standardised)",0,0
+"Norway","Other regions",1,"Turf replacement","Low demand (standardised)",0,0
+"Poland","Central/Eastern Europe",17,"Turf replacement","Low demand (standardised)",0,0
+"Singapore","Other regions",1,"Turf replacement","Low demand (standardised)",0,0
+"Slovak Republic","Central/Eastern Europe",2,"Turf replacement","Low demand (standardised)",0,0
+"Spain","Other regions",2,"Turf replacement","Low demand (standardised)",0,0
+"Switzerland","Western Europe",4,"Turf replacement","Low demand (standardised)",0,0
+"Taiwan, Province of China","East Asia",1,"Turf replacement","Low demand (standardised)",0,0
+"United Kingdom","Western Europe",2,"Turf replacement","Low demand (standardised)",0,0
+"United States","North America",301,"Turf replacement","Low demand (standardised)",96,0.318936877076412

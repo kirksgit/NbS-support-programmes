@@ -1,0 +1,611 @@
+"measure","demand","provision","verdict","n","alluv"
+"Rain barrels / cisterns","High demand
+(building-integrated)","Technical advice or consultation (E-13)","Documented fit",51,1
+"Rain barrels / cisterns","High demand
+(building-integrated)","Technical advice or consultation (E-13)","Partial fit",9,2
+"Rain barrels / cisterns","High demand
+(building-integrated)","Technical standards or specifications (E-13)","Documented fit",49,3
+"Rain barrels / cisterns","High demand
+(building-integrated)","Technical standards or specifications (E-13)","Partial fit",10,4
+"Rain barrels / cisterns","High demand
+(building-integrated)","Installation guidance (E-13)","Documented fit",26,5
+"Rain barrels / cisterns","High demand
+(building-integrated)","Installation guidance (E-13)","Partial fit",1,6
+"Rain barrels / cisterns","High demand
+(building-integrated)","City-funded or subsidised design (E-14)","Documented fit",19,7
+"Rain barrels / cisterns","High demand
+(building-integrated)","City-funded or subsidised design (E-14)","Partial fit",5,8
+"Rain barrels / cisterns","High demand
+(building-integrated)","Helpdesk or named contact (E-18)","Documented fit",12,9
+"Rain barrels / cisterns","High demand
+(building-integrated)","No technical provision documented","Indeterminate",7,10
+"Rain barrels / cisterns","High demand
+(building-integrated)","Workshops or training (E-13)","Documented fit",2,11
+"Rain barrels / cisterns","High demand
+(building-integrated)","Workshops or training (E-13)","Partial fit",1,12
+"Rain barrels / cisterns","Medium demand
+(ground-modifying)","Technical advice or consultation (E-13)","Documented fit",114,13
+"Rain barrels / cisterns","Medium demand
+(ground-modifying)","Technical advice or consultation (E-13)","Partial fit",28,14
+"Rain barrels / cisterns","Medium demand
+(ground-modifying)","Technical standards or specifications (E-13)","Confirmed misfit",2,15
+"Rain barrels / cisterns","Medium demand
+(ground-modifying)","Technical standards or specifications (E-13)","Documented fit",109,16
+"Rain barrels / cisterns","Medium demand
+(ground-modifying)","Technical standards or specifications (E-13)","Partial fit",17,17
+"Rain barrels / cisterns","Medium demand
+(ground-modifying)","Installation guidance (E-13)","Documented fit",66,18
+"Rain barrels / cisterns","Medium demand
+(ground-modifying)","Installation guidance (E-13)","Partial fit",18,19
+"Rain barrels / cisterns","Medium demand
+(ground-modifying)","City-funded or subsidised design (E-14)","Documented fit",14,20
+"Rain barrels / cisterns","Medium demand
+(ground-modifying)","City-funded or subsidised design (E-14)","Partial fit",2,21
+"Rain barrels / cisterns","Medium demand
+(ground-modifying)","Helpdesk or named contact (E-18)","Documented fit",9,22
+"Rain barrels / cisterns","Medium demand
+(ground-modifying)","Helpdesk or named contact (E-18)","Partial fit",2,23
+"Rain barrels / cisterns","Medium demand
+(ground-modifying)","No technical provision documented","Confirmed misfit",9,24
+"Rain barrels / cisterns","Medium demand
+(ground-modifying)","Workshops or training (E-13)","Documented fit",6,25
+"Rain barrels / cisterns","Medium demand
+(ground-modifying)","Workshops or training (E-13)","Partial fit",1,26
+"Rain barrels / cisterns","Low demand
+(standardised)","Technical advice or consultation (E-13)","Documented fit",87,27
+"Rain barrels / cisterns","Low demand
+(standardised)","Technical advice or consultation (E-13)","Partial fit",64,28
+"Rain barrels / cisterns","Low demand
+(standardised)","Technical standards or specifications (E-13)","Documented fit",40,29
+"Rain barrels / cisterns","Low demand
+(standardised)","Technical standards or specifications (E-13)","Partial fit",78,30
+"Rain barrels / cisterns","Low demand
+(standardised)","Installation guidance (E-13)","Documented fit",91,31
+"Rain barrels / cisterns","Low demand
+(standardised)","City-funded or subsidised design (E-14)","Documented fit",1,32
+"Rain barrels / cisterns","Low demand
+(standardised)","City-funded or subsidised design (E-14)","Partial fit",1,33
+"Rain barrels / cisterns","Low demand
+(standardised)","Helpdesk or named contact (E-18)","Documented fit",3,34
+"Rain barrels / cisterns","Low demand
+(standardised)","No technical provision documented","Confirmed misfit",39,35
+"Rain barrels / cisterns","Low demand
+(standardised)","Workshops or training (E-13)","Documented fit",14,36
+"Rain barrels / cisterns","Low demand
+(standardised)","Workshops or training (E-13)","Partial fit",1,37
+"Depaving / permeable","High demand
+(building-integrated)","Technical advice or consultation (E-13)","Documented fit",66,38
+"Depaving / permeable","High demand
+(building-integrated)","Technical advice or consultation (E-13)","Partial fit",17,39
+"Depaving / permeable","High demand
+(building-integrated)","Technical standards or specifications (E-13)","Documented fit",62,40
+"Depaving / permeable","High demand
+(building-integrated)","Technical standards or specifications (E-13)","Partial fit",13,41
+"Depaving / permeable","High demand
+(building-integrated)","Installation guidance (E-13)","Documented fit",30,42
+"Depaving / permeable","High demand
+(building-integrated)","Installation guidance (E-13)","Partial fit",8,43
+"Depaving / permeable","High demand
+(building-integrated)","City-funded or subsidised design (E-14)","Documented fit",27,44
+"Depaving / permeable","High demand
+(building-integrated)","City-funded or subsidised design (E-14)","Partial fit",6,45
+"Depaving / permeable","High demand
+(building-integrated)","Helpdesk or named contact (E-18)","Documented fit",13,46
+"Depaving / permeable","High demand
+(building-integrated)","Helpdesk or named contact (E-18)","Partial fit",2,47
+"Depaving / permeable","High demand
+(building-integrated)","No technical provision documented","Confirmed misfit",1,48
+"Depaving / permeable","High demand
+(building-integrated)","No technical provision documented","Indeterminate",8,49
+"Depaving / permeable","High demand
+(building-integrated)","Workshops or training (E-13)","Documented fit",3,50
+"Depaving / permeable","High demand
+(building-integrated)","Workshops or training (E-13)","Partial fit",2,51
+"Depaving / permeable","Medium demand
+(ground-modifying)","Technical advice or consultation (E-13)","Documented fit",75,52
+"Depaving / permeable","Medium demand
+(ground-modifying)","Technical advice or consultation (E-13)","Partial fit",10,53
+"Depaving / permeable","Medium demand
+(ground-modifying)","Technical standards or specifications (E-13)","Documented fit",74,54
+"Depaving / permeable","Medium demand
+(ground-modifying)","Technical standards or specifications (E-13)","Partial fit",5,55
+"Depaving / permeable","Medium demand
+(ground-modifying)","Installation guidance (E-13)","Documented fit",45,56
+"Depaving / permeable","Medium demand
+(ground-modifying)","Installation guidance (E-13)","Partial fit",5,57
+"Depaving / permeable","Medium demand
+(ground-modifying)","City-funded or subsidised design (E-14)","Documented fit",16,58
+"Depaving / permeable","Medium demand
+(ground-modifying)","City-funded or subsidised design (E-14)","Partial fit",2,59
+"Depaving / permeable","Medium demand
+(ground-modifying)","Helpdesk or named contact (E-18)","Documented fit",7,60
+"Depaving / permeable","Medium demand
+(ground-modifying)","No technical provision documented","Confirmed misfit",4,61
+"Depaving / permeable","Medium demand
+(ground-modifying)","Workshops or training (E-13)","Documented fit",4,62
+"Green roofs","High demand
+(building-integrated)","Technical advice or consultation (E-13)","Documented fit",111,63
+"Green roofs","High demand
+(building-integrated)","Technical advice or consultation (E-13)","Partial fit",32,64
+"Green roofs","High demand
+(building-integrated)","Technical standards or specifications (E-13)","Documented fit",105,65
+"Green roofs","High demand
+(building-integrated)","Technical standards or specifications (E-13)","Partial fit",29,66
+"Green roofs","High demand
+(building-integrated)","Installation guidance (E-13)","Documented fit",48,67
+"Green roofs","High demand
+(building-integrated)","Installation guidance (E-13)","Partial fit",15,68
+"Green roofs","High demand
+(building-integrated)","City-funded or subsidised design (E-14)","Documented fit",49,69
+"Green roofs","High demand
+(building-integrated)","City-funded or subsidised design (E-14)","Partial fit",15,70
+"Green roofs","High demand
+(building-integrated)","Helpdesk or named contact (E-18)","Documented fit",15,71
+"Green roofs","High demand
+(building-integrated)","Helpdesk or named contact (E-18)","Partial fit",4,72
+"Green roofs","High demand
+(building-integrated)","No technical provision documented","Confirmed misfit",2,73
+"Green roofs","High demand
+(building-integrated)","No technical provision documented","Indeterminate",9,74
+"Green roofs","High demand
+(building-integrated)","Workshops or training (E-13)","Documented fit",5,75
+"Green roofs","High demand
+(building-integrated)","Workshops or training (E-13)","Partial fit",3,76
+"Rain gardens","High demand
+(building-integrated)","Technical advice or consultation (E-13)","Documented fit",29,77
+"Rain gardens","High demand
+(building-integrated)","Technical advice or consultation (E-13)","Partial fit",7,78
+"Rain gardens","High demand
+(building-integrated)","Technical standards or specifications (E-13)","Documented fit",29,79
+"Rain gardens","High demand
+(building-integrated)","Technical standards or specifications (E-13)","Partial fit",4,80
+"Rain gardens","High demand
+(building-integrated)","Installation guidance (E-13)","Documented fit",18,81
+"Rain gardens","High demand
+(building-integrated)","Installation guidance (E-13)","Partial fit",2,82
+"Rain gardens","High demand
+(building-integrated)","City-funded or subsidised design (E-14)","Documented fit",11,83
+"Rain gardens","High demand
+(building-integrated)","City-funded or subsidised design (E-14)","Partial fit",1,84
+"Rain gardens","High demand
+(building-integrated)","Helpdesk or named contact (E-18)","Documented fit",8,85
+"Rain gardens","High demand
+(building-integrated)","No technical provision documented","Confirmed misfit",1,86
+"Rain gardens","High demand
+(building-integrated)","No technical provision documented","Indeterminate",3,87
+"Rain gardens","High demand
+(building-integrated)","Workshops or training (E-13)","Documented fit",1,88
+"Rain gardens","High demand
+(building-integrated)","Workshops or training (E-13)","Partial fit",1,89
+"Rain gardens","Medium demand
+(ground-modifying)","Technical advice or consultation (E-13)","Documented fit",83,90
+"Rain gardens","Medium demand
+(ground-modifying)","Technical advice or consultation (E-13)","Partial fit",20,91
+"Rain gardens","Medium demand
+(ground-modifying)","Technical standards or specifications (E-13)","Documented fit",80,92
+"Rain gardens","Medium demand
+(ground-modifying)","Technical standards or specifications (E-13)","Partial fit",2,93
+"Rain gardens","Medium demand
+(ground-modifying)","Installation guidance (E-13)","Documented fit",57,94
+"Rain gardens","Medium demand
+(ground-modifying)","Installation guidance (E-13)","Partial fit",13,95
+"Rain gardens","Medium demand
+(ground-modifying)","City-funded or subsidised design (E-14)","Documented fit",18,96
+"Rain gardens","Medium demand
+(ground-modifying)","City-funded or subsidised design (E-14)","Partial fit",1,97
+"Rain gardens","Medium demand
+(ground-modifying)","Helpdesk or named contact (E-18)","Documented fit",10,98
+"Rain gardens","Medium demand
+(ground-modifying)","Helpdesk or named contact (E-18)","Partial fit",4,99
+"Rain gardens","Medium demand
+(ground-modifying)","No technical provision documented","Confirmed misfit",3,100
+"Rain gardens","Medium demand
+(ground-modifying)","Workshops or training (E-13)","Documented fit",9,101
+"Rain gardens","Medium demand
+(ground-modifying)","Workshops or training (E-13)","Partial fit",1,102
+"Native / drought planting","High demand
+(building-integrated)","Technical advice or consultation (E-13)","Documented fit",17,103
+"Native / drought planting","High demand
+(building-integrated)","Technical advice or consultation (E-13)","Partial fit",7,104
+"Native / drought planting","High demand
+(building-integrated)","Technical standards or specifications (E-13)","Documented fit",17,105
+"Native / drought planting","High demand
+(building-integrated)","Installation guidance (E-13)","Documented fit",9,106
+"Native / drought planting","High demand
+(building-integrated)","Installation guidance (E-13)","Partial fit",4,107
+"Native / drought planting","High demand
+(building-integrated)","City-funded or subsidised design (E-14)","Documented fit",5,108
+"Native / drought planting","High demand
+(building-integrated)","Helpdesk or named contact (E-18)","Documented fit",5,109
+"Native / drought planting","High demand
+(building-integrated)","Helpdesk or named contact (E-18)","Partial fit",1,110
+"Native / drought planting","Medium demand
+(ground-modifying)","Technical advice or consultation (E-13)","Documented fit",71,111
+"Native / drought planting","Medium demand
+(ground-modifying)","Technical advice or consultation (E-13)","Partial fit",15,112
+"Native / drought planting","Medium demand
+(ground-modifying)","Technical standards or specifications (E-13)","Documented fit",65,113
+"Native / drought planting","Medium demand
+(ground-modifying)","Technical standards or specifications (E-13)","Partial fit",7,114
+"Native / drought planting","Medium demand
+(ground-modifying)","Installation guidance (E-13)","Documented fit",53,115
+"Native / drought planting","Medium demand
+(ground-modifying)","Installation guidance (E-13)","Partial fit",5,116
+"Native / drought planting","Medium demand
+(ground-modifying)","City-funded or subsidised design (E-14)","Documented fit",15,117
+"Native / drought planting","Medium demand
+(ground-modifying)","Helpdesk or named contact (E-18)","Documented fit",8,118
+"Native / drought planting","Medium demand
+(ground-modifying)","Helpdesk or named contact (E-18)","Partial fit",1,119
+"Native / drought planting","Medium demand
+(ground-modifying)","No technical provision documented","Confirmed misfit",1,120
+"Native / drought planting","Medium demand
+(ground-modifying)","Workshops or training (E-13)","Documented fit",10,121
+"Native / drought planting","Low demand
+(standardised)","Technical advice or consultation (E-13)","Documented fit",22,122
+"Native / drought planting","Low demand
+(standardised)","Technical advice or consultation (E-13)","Partial fit",11,123
+"Native / drought planting","Low demand
+(standardised)","Technical standards or specifications (E-13)","Documented fit",12,124
+"Native / drought planting","Low demand
+(standardised)","Technical standards or specifications (E-13)","Partial fit",12,125
+"Native / drought planting","Low demand
+(standardised)","Installation guidance (E-13)","Documented fit",22,126
+"Native / drought planting","Low demand
+(standardised)","City-funded or subsidised design (E-14)","Partial fit",1,127
+"Native / drought planting","Low demand
+(standardised)","Helpdesk or named contact (E-18)","Documented fit",1,128
+"Native / drought planting","Low demand
+(standardised)","Workshops or training (E-13)","Documented fit",4,129
+"Trees (pits)","High demand
+(building-integrated)","Technical advice or consultation (E-13)","Documented fit",34,130
+"Trees (pits)","High demand
+(building-integrated)","Technical advice or consultation (E-13)","Partial fit",10,131
+"Trees (pits)","High demand
+(building-integrated)","Technical standards or specifications (E-13)","Documented fit",32,132
+"Trees (pits)","High demand
+(building-integrated)","Technical standards or specifications (E-13)","Partial fit",11,133
+"Trees (pits)","High demand
+(building-integrated)","Installation guidance (E-13)","Documented fit",14,134
+"Trees (pits)","High demand
+(building-integrated)","Installation guidance (E-13)","Partial fit",8,135
+"Trees (pits)","High demand
+(building-integrated)","City-funded or subsidised design (E-14)","Documented fit",12,136
+"Trees (pits)","High demand
+(building-integrated)","City-funded or subsidised design (E-14)","Partial fit",5,137
+"Trees (pits)","High demand
+(building-integrated)","Helpdesk or named contact (E-18)","Documented fit",5,138
+"Trees (pits)","High demand
+(building-integrated)","Helpdesk or named contact (E-18)","Partial fit",1,139
+"Trees (pits)","High demand
+(building-integrated)","No technical provision documented","Confirmed misfit",1,140
+"Trees (pits)","High demand
+(building-integrated)","No technical provision documented","Indeterminate",3,141
+"Trees (pits)","Medium demand
+(ground-modifying)","Technical advice or consultation (E-13)","Documented fit",69,142
+"Trees (pits)","Medium demand
+(ground-modifying)","Technical advice or consultation (E-13)","Partial fit",20,143
+"Trees (pits)","Medium demand
+(ground-modifying)","Technical standards or specifications (E-13)","Documented fit",65,144
+"Trees (pits)","Medium demand
+(ground-modifying)","Technical standards or specifications (E-13)","Partial fit",10,145
+"Trees (pits)","Medium demand
+(ground-modifying)","Installation guidance (E-13)","Documented fit",52,146
+"Trees (pits)","Medium demand
+(ground-modifying)","Installation guidance (E-13)","Partial fit",5,147
+"Trees (pits)","Medium demand
+(ground-modifying)","City-funded or subsidised design (E-14)","Documented fit",14,148
+"Trees (pits)","Medium demand
+(ground-modifying)","City-funded or subsidised design (E-14)","Partial fit",1,149
+"Trees (pits)","Medium demand
+(ground-modifying)","Helpdesk or named contact (E-18)","Documented fit",6,150
+"Trees (pits)","Medium demand
+(ground-modifying)","Helpdesk or named contact (E-18)","Partial fit",2,151
+"Trees (pits)","Medium demand
+(ground-modifying)","No technical provision documented","Confirmed misfit",3,152
+"Trees (pits)","Medium demand
+(ground-modifying)","Workshops or training (E-13)","Documented fit",8,153
+"Infiltration systems","High demand
+(building-integrated)","Technical advice or consultation (E-13)","Documented fit",30,154
+"Infiltration systems","High demand
+(building-integrated)","Technical advice or consultation (E-13)","Partial fit",4,155
+"Infiltration systems","High demand
+(building-integrated)","Technical standards or specifications (E-13)","Documented fit",30,156
+"Infiltration systems","High demand
+(building-integrated)","Technical standards or specifications (E-13)","Partial fit",4,157
+"Infiltration systems","High demand
+(building-integrated)","Installation guidance (E-13)","Documented fit",15,158
+"Infiltration systems","High demand
+(building-integrated)","Installation guidance (E-13)","Partial fit",2,159
+"Infiltration systems","High demand
+(building-integrated)","City-funded or subsidised design (E-14)","Documented fit",10,160
+"Infiltration systems","High demand
+(building-integrated)","City-funded or subsidised design (E-14)","Partial fit",1,161
+"Infiltration systems","High demand
+(building-integrated)","Helpdesk or named contact (E-18)","Documented fit",11,162
+"Infiltration systems","High demand
+(building-integrated)","No technical provision documented","Confirmed misfit",2,163
+"Infiltration systems","High demand
+(building-integrated)","No technical provision documented","Indeterminate",2,164
+"Infiltration systems","High demand
+(building-integrated)","Workshops or training (E-13)","Documented fit",1,165
+"Infiltration systems","Medium demand
+(ground-modifying)","Technical advice or consultation (E-13)","Documented fit",58,166
+"Infiltration systems","Medium demand
+(ground-modifying)","Technical advice or consultation (E-13)","Partial fit",8,167
+"Infiltration systems","Medium demand
+(ground-modifying)","Technical standards or specifications (E-13)","Confirmed misfit",2,168
+"Infiltration systems","Medium demand
+(ground-modifying)","Technical standards or specifications (E-13)","Documented fit",58,169
+"Infiltration systems","Medium demand
+(ground-modifying)","Technical standards or specifications (E-13)","Partial fit",11,170
+"Infiltration systems","Medium demand
+(ground-modifying)","Installation guidance (E-13)","Documented fit",26,171
+"Infiltration systems","Medium demand
+(ground-modifying)","Installation guidance (E-13)","Partial fit",9,172
+"Infiltration systems","Medium demand
+(ground-modifying)","City-funded or subsidised design (E-14)","Documented fit",2,173
+"Infiltration systems","Medium demand
+(ground-modifying)","City-funded or subsidised design (E-14)","Partial fit",1,174
+"Infiltration systems","Medium demand
+(ground-modifying)","Helpdesk or named contact (E-18)","Documented fit",1,175
+"Infiltration systems","Medium demand
+(ground-modifying)","Helpdesk or named contact (E-18)","Partial fit",1,176
+"Infiltration systems","Medium demand
+(ground-modifying)","No technical provision documented","Confirmed misfit",5,177
+"Infiltration systems","Medium demand
+(ground-modifying)","Workshops or training (E-13)","Documented fit",3,178
+"Green facades","High demand
+(building-integrated)","Technical advice or consultation (E-13)","Documented fit",73,179
+"Green facades","High demand
+(building-integrated)","Technical advice or consultation (E-13)","Partial fit",20,180
+"Green facades","High demand
+(building-integrated)","Technical standards or specifications (E-13)","Documented fit",65,181
+"Green facades","High demand
+(building-integrated)","Technical standards or specifications (E-13)","Partial fit",18,182
+"Green facades","High demand
+(building-integrated)","Installation guidance (E-13)","Documented fit",28,183
+"Green facades","High demand
+(building-integrated)","Installation guidance (E-13)","Partial fit",14,184
+"Green facades","High demand
+(building-integrated)","City-funded or subsidised design (E-14)","Documented fit",34,185
+"Green facades","High demand
+(building-integrated)","City-funded or subsidised design (E-14)","Partial fit",10,186
+"Green facades","High demand
+(building-integrated)","Helpdesk or named contact (E-18)","Documented fit",12,187
+"Green facades","High demand
+(building-integrated)","Helpdesk or named contact (E-18)","Partial fit",4,188
+"Green facades","High demand
+(building-integrated)","No technical provision documented","Indeterminate",9,189
+"Green facades","High demand
+(building-integrated)","Workshops or training (E-13)","Documented fit",3,190
+"Green facades","High demand
+(building-integrated)","Workshops or training (E-13)","Partial fit",2,191
+"Turf replacement","High demand
+(building-integrated)","Technical advice or consultation (E-13)","Documented fit",1,192
+"Turf replacement","High demand
+(building-integrated)","Technical standards or specifications (E-13)","Documented fit",1,193
+"Turf replacement","High demand
+(building-integrated)","Installation guidance (E-13)","Documented fit",1,194
+"Turf replacement","High demand
+(building-integrated)","City-funded or subsidised design (E-14)","Documented fit",1,195
+"Turf replacement","Medium demand
+(ground-modifying)","Technical advice or consultation (E-13)","Documented fit",51,196
+"Turf replacement","Medium demand
+(ground-modifying)","Technical advice or consultation (E-13)","Partial fit",10,197
+"Turf replacement","Medium demand
+(ground-modifying)","Technical standards or specifications (E-13)","Documented fit",48,198
+"Turf replacement","Medium demand
+(ground-modifying)","Technical standards or specifications (E-13)","Partial fit",6,199
+"Turf replacement","Medium demand
+(ground-modifying)","Installation guidance (E-13)","Documented fit",39,200
+"Turf replacement","Medium demand
+(ground-modifying)","Installation guidance (E-13)","Partial fit",3,201
+"Turf replacement","Medium demand
+(ground-modifying)","City-funded or subsidised design (E-14)","Documented fit",11,202
+"Turf replacement","Medium demand
+(ground-modifying)","Helpdesk or named contact (E-18)","Documented fit",6,203
+"Turf replacement","Medium demand
+(ground-modifying)","Workshops or training (E-13)","Documented fit",5,204
+"Turf replacement","Low demand
+(standardised)","Technical advice or consultation (E-13)","Documented fit",23,205
+"Turf replacement","Low demand
+(standardised)","Technical advice or consultation (E-13)","Partial fit",10,206
+"Turf replacement","Low demand
+(standardised)","Technical standards or specifications (E-13)","Documented fit",17,207
+"Turf replacement","Low demand
+(standardised)","Technical standards or specifications (E-13)","Partial fit",9,208
+"Turf replacement","Low demand
+(standardised)","Installation guidance (E-13)","Documented fit",22,209
+"Turf replacement","Low demand
+(standardised)","City-funded or subsidised design (E-14)","Partial fit",1,210
+"Turf replacement","Low demand
+(standardised)","Helpdesk or named contact (E-18)","Documented fit",1,211
+"Turf replacement","Low demand
+(standardised)","Workshops or training (E-13)","Documented fit",2,212
+"Downspout disconnection (to a vegetated or infiltrating receiver)","High demand
+(building-integrated)","Technical advice or consultation (E-13)","Documented fit",18,213
+"Downspout disconnection (to a vegetated or infiltrating receiver)","High demand
+(building-integrated)","Technical advice or consultation (E-13)","Partial fit",3,214
+"Downspout disconnection (to a vegetated or infiltrating receiver)","High demand
+(building-integrated)","Technical standards or specifications (E-13)","Documented fit",17,215
+"Downspout disconnection (to a vegetated or infiltrating receiver)","High demand
+(building-integrated)","Technical standards or specifications (E-13)","Partial fit",5,216
+"Downspout disconnection (to a vegetated or infiltrating receiver)","High demand
+(building-integrated)","Installation guidance (E-13)","Documented fit",9,217
+"Downspout disconnection (to a vegetated or infiltrating receiver)","High demand
+(building-integrated)","Installation guidance (E-13)","Partial fit",1,218
+"Downspout disconnection (to a vegetated or infiltrating receiver)","High demand
+(building-integrated)","City-funded or subsidised design (E-14)","Documented fit",6,219
+"Downspout disconnection (to a vegetated or infiltrating receiver)","High demand
+(building-integrated)","Helpdesk or named contact (E-18)","Documented fit",4,220
+"Downspout disconnection (to a vegetated or infiltrating receiver)","High demand
+(building-integrated)","No technical provision documented","Confirmed misfit",1,221
+"Downspout disconnection (to a vegetated or infiltrating receiver)","High demand
+(building-integrated)","No technical provision documented","Indeterminate",1,222
+"Downspout disconnection (to a vegetated or infiltrating receiver)","Medium demand
+(ground-modifying)","Technical advice or consultation (E-13)","Documented fit",22,223
+"Downspout disconnection (to a vegetated or infiltrating receiver)","Medium demand
+(ground-modifying)","Technical advice or consultation (E-13)","Partial fit",4,224
+"Downspout disconnection (to a vegetated or infiltrating receiver)","Medium demand
+(ground-modifying)","Technical standards or specifications (E-13)","Documented fit",22,225
+"Downspout disconnection (to a vegetated or infiltrating receiver)","Medium demand
+(ground-modifying)","Technical standards or specifications (E-13)","Partial fit",2,226
+"Downspout disconnection (to a vegetated or infiltrating receiver)","Medium demand
+(ground-modifying)","Installation guidance (E-13)","Documented fit",15,227
+"Downspout disconnection (to a vegetated or infiltrating receiver)","Medium demand
+(ground-modifying)","Installation guidance (E-13)","Partial fit",4,228
+"Downspout disconnection (to a vegetated or infiltrating receiver)","Medium demand
+(ground-modifying)","City-funded or subsidised design (E-14)","Documented fit",4,229
+"Downspout disconnection (to a vegetated or infiltrating receiver)","Medium demand
+(ground-modifying)","No technical provision documented","Confirmed misfit",1,230
+"Downspout disconnection (to a vegetated or infiltrating receiver)","Medium demand
+(ground-modifying)","Workshops or training (E-13)","Documented fit",2,231
+"Downspout disconnection (to a vegetated or infiltrating receiver)","Low demand
+(standardised)","Technical advice or consultation (E-13)","Documented fit",11,232
+"Downspout disconnection (to a vegetated or infiltrating receiver)","Low demand
+(standardised)","Technical advice or consultation (E-13)","Partial fit",3,233
+"Downspout disconnection (to a vegetated or infiltrating receiver)","Low demand
+(standardised)","Technical standards or specifications (E-13)","Documented fit",1,234
+"Downspout disconnection (to a vegetated or infiltrating receiver)","Low demand
+(standardised)","Technical standards or specifications (E-13)","Partial fit",2,235
+"Downspout disconnection (to a vegetated or infiltrating receiver)","Low demand
+(standardised)","Installation guidance (E-13)","Documented fit",11,236
+"Downspout disconnection (to a vegetated or infiltrating receiver)","Low demand
+(standardised)","City-funded or subsidised design (E-14)","Documented fit",1,237
+"Downspout disconnection (to a vegetated or infiltrating receiver)","Low demand
+(standardised)","No technical provision documented","Confirmed misfit",1,238
+"Garden ponds and swales","High demand
+(building-integrated)","Technical advice or consultation (E-13)","Documented fit",8,239
+"Garden ponds and swales","High demand
+(building-integrated)","Technical advice or consultation (E-13)","Partial fit",2,240
+"Garden ponds and swales","High demand
+(building-integrated)","Technical standards or specifications (E-13)","Documented fit",7,241
+"Garden ponds and swales","High demand
+(building-integrated)","Installation guidance (E-13)","Documented fit",6,242
+"Garden ponds and swales","High demand
+(building-integrated)","Installation guidance (E-13)","Partial fit",1,243
+"Garden ponds and swales","High demand
+(building-integrated)","City-funded or subsidised design (E-14)","Documented fit",4,244
+"Garden ponds and swales","High demand
+(building-integrated)","Helpdesk or named contact (E-18)","Documented fit",3,245
+"Garden ponds and swales","High demand
+(building-integrated)","No technical provision documented","Confirmed misfit",1,246
+"Garden ponds and swales","High demand
+(building-integrated)","No technical provision documented","Indeterminate",1,247
+"Garden ponds and swales","Medium demand
+(ground-modifying)","Technical advice or consultation (E-13)","Documented fit",14,248
+"Garden ponds and swales","Medium demand
+(ground-modifying)","Technical advice or consultation (E-13)","Partial fit",4,249
+"Garden ponds and swales","Medium demand
+(ground-modifying)","Technical standards or specifications (E-13)","Documented fit",14,250
+"Garden ponds and swales","Medium demand
+(ground-modifying)","Installation guidance (E-13)","Documented fit",8,251
+"Garden ponds and swales","Medium demand
+(ground-modifying)","Installation guidance (E-13)","Partial fit",1,252
+"Garden ponds and swales","Medium demand
+(ground-modifying)","City-funded or subsidised design (E-14)","Documented fit",1,253
+"Garden ponds and swales","Medium demand
+(ground-modifying)","City-funded or subsidised design (E-14)","Partial fit",1,254
+"Garden ponds and swales","Medium demand
+(ground-modifying)","Workshops or training (E-13)","Documented fit",2,255
+"Rainwater harvesting systems","High demand
+(building-integrated)","Technical advice or consultation (E-13)","Documented fit",1,256
+"Rainwater harvesting systems","High demand
+(building-integrated)","Technical standards or specifications (E-13)","Documented fit",1,257
+"Rainwater harvesting systems","High demand
+(building-integrated)","Installation guidance (E-13)","Documented fit",1,258
+"Rainwater harvesting systems","Medium demand
+(ground-modifying)","Technical advice or consultation (E-13)","Documented fit",7,259
+"Rainwater harvesting systems","Medium demand
+(ground-modifying)","Technical advice or consultation (E-13)","Partial fit",1,260
+"Rainwater harvesting systems","Medium demand
+(ground-modifying)","Technical standards or specifications (E-13)","Documented fit",6,261
+"Rainwater harvesting systems","Medium demand
+(ground-modifying)","Installation guidance (E-13)","Documented fit",5,262
+"Rainwater harvesting systems","Medium demand
+(ground-modifying)","City-funded or subsidised design (E-14)","Documented fit",3,263
+"Rainwater harvesting systems","Medium demand
+(ground-modifying)","Helpdesk or named contact (E-18)","Documented fit",1,264
+"Rainwater harvesting systems","Medium demand
+(ground-modifying)","Workshops or training (E-13)","Documented fit",1,265
+"Rainwater harvesting systems","Low demand
+(standardised)","Technical advice or consultation (E-13)","Documented fit",3,266
+"Rainwater harvesting systems","Low demand
+(standardised)","Technical advice or consultation (E-13)","Partial fit",3,267
+"Rainwater harvesting systems","Low demand
+(standardised)","Technical standards or specifications (E-13)","Documented fit",3,268
+"Rainwater harvesting systems","Low demand
+(standardised)","Technical standards or specifications (E-13)","Partial fit",6,269
+"Rainwater harvesting systems","Low demand
+(standardised)","Installation guidance (E-13)","Documented fit",3,270
+"Rainwater harvesting systems","Low demand
+(standardised)","No technical provision documented","Confirmed misfit",1,271
+"Soil amendment / compost","High demand
+(building-integrated)","Technical advice or consultation (E-13)","Documented fit",5,272
+"Soil amendment / compost","High demand
+(building-integrated)","Technical advice or consultation (E-13)","Partial fit",1,273
+"Soil amendment / compost","High demand
+(building-integrated)","Technical standards or specifications (E-13)","Documented fit",4,274
+"Soil amendment / compost","High demand
+(building-integrated)","Installation guidance (E-13)","Documented fit",4,275
+"Soil amendment / compost","High demand
+(building-integrated)","Installation guidance (E-13)","Partial fit",1,276
+"Soil amendment / compost","High demand
+(building-integrated)","City-funded or subsidised design (E-14)","Documented fit",3,277
+"Soil amendment / compost","High demand
+(building-integrated)","Helpdesk or named contact (E-18)","Documented fit",1,278
+"Soil amendment / compost","Medium demand
+(ground-modifying)","Technical advice or consultation (E-13)","Documented fit",3,279
+"Soil amendment / compost","Medium demand
+(ground-modifying)","Technical standards or specifications (E-13)","Documented fit",3,280
+"Soil amendment / compost","Medium demand
+(ground-modifying)","Installation guidance (E-13)","Documented fit",3,281
+"Soil amendment / compost","Medium demand
+(ground-modifying)","City-funded or subsidised design (E-14)","Documented fit",2,282
+"Soil amendment / compost","Medium demand
+(ground-modifying)","Helpdesk or named contact (E-18)","Documented fit",2,283
+"Greywater reuse","High demand
+(building-integrated)","Technical advice or consultation (E-13)","Documented fit",6,284
+"Greywater reuse","High demand
+(building-integrated)","Technical advice or consultation (E-13)","Partial fit",1,285
+"Greywater reuse","High demand
+(building-integrated)","Technical standards or specifications (E-13)","Documented fit",6,286
+"Greywater reuse","High demand
+(building-integrated)","Technical standards or specifications (E-13)","Partial fit",2,287
+"Greywater reuse","High demand
+(building-integrated)","Installation guidance (E-13)","Documented fit",1,288
+"Greywater reuse","High demand
+(building-integrated)","City-funded or subsidised design (E-14)","Documented fit",1,289
+"Greywater reuse","High demand
+(building-integrated)","City-funded or subsidised design (E-14)","Partial fit",1,290
+"Greywater reuse","High demand
+(building-integrated)","Helpdesk or named contact (E-18)","Documented fit",1,291
+"Greywater reuse","Medium demand
+(ground-modifying)","Technical advice or consultation (E-13)","Documented fit",2,292
+"Greywater reuse","Medium demand
+(ground-modifying)","Technical advice or consultation (E-13)","Partial fit",1,293
+"Greywater reuse","Medium demand
+(ground-modifying)","Technical standards or specifications (E-13)","Documented fit",1,294
+"Greywater reuse","Medium demand
+(ground-modifying)","Technical standards or specifications (E-13)","Partial fit",1,295
+"Greywater reuse","Medium demand
+(ground-modifying)","Installation guidance (E-13)","Documented fit",2,296
+"Greywater reuse","Medium demand
+(ground-modifying)","City-funded or subsidised design (E-14)","Documented fit",1,297
+"Greywater reuse","Medium demand
+(ground-modifying)","Helpdesk or named contact (E-18)","Documented fit",1,298
+"Greywater reuse","Low demand
+(standardised)","Technical advice or consultation (E-13)","Partial fit",2,299
+"Greywater reuse","Low demand
+(standardised)","No technical provision documented","Confirmed misfit",1,300
+"No measure documented","Low demand
+(standardised)","Technical advice or consultation (E-13)","Not applicable",3,301
+"No measure documented","Low demand
+(standardised)","Technical standards or specifications (E-13)","Not applicable",3,302
+"No measure documented","Low demand
+(standardised)","Installation guidance (E-13)","Not applicable",1,303
+"No measure documented","Low demand
+(standardised)","City-funded or subsidised design (E-14)","Not applicable",1,304
+"No measure documented","Low demand
+(standardised)","Helpdesk or named contact (E-18)","Not applicable",1,305

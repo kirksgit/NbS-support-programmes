@@ -1,0 +1,33 @@
+"support","binding","duty","verdict","n","alluv"
+"No maintenance support documented","No support documented","F-5 not stated: transfer cannot be established","Confirmed misfit",222,1
+"No maintenance support documented","No support documented","F-5 not stated: transfer cannot be established","Partial fit",7,2
+"No maintenance support documented","No support documented","Applicant or participant (F-5)","Confirmed misfit",140,3
+"Maintenance guides (E-18) -- informational","Informational only: instruction, not capacity","F-5 not stated: transfer cannot be established","Confirmed misfit",123,4
+"Maintenance guides (E-18) -- informational","Informational only: instruction, not capacity","F-5 not stated: transfer cannot be established","Partial fit",5,5
+"Maintenance guides (E-18) -- informational","Informational only: instruction, not capacity","Applicant or participant (F-5)","Partial fit",108,6
+"Maintenance guides (E-18) -- informational","Informational only: instruction, not capacity","Shared: applicant and programme body (F-5)","Partial fit",1,7
+"Maintenance guides (E-18) -- informational","Material: carries capacity to the duty-holder","F-5 not stated: transfer cannot be established","Confirmed misfit",13,8
+"Maintenance guides (E-18) -- informational","Material: carries capacity to the duty-holder","F-5 not stated: transfer cannot be established","Partial fit",1,9
+"Maintenance guides (E-18) -- informational","Material: carries capacity to the duty-holder","Applicant or participant (F-5)","Documented fit",51,10
+"Maintenance guides (E-18) -- informational","Material: carries capacity to the duty-holder","Shared: applicant and programme body (F-5)","Documented fit",1,11
+"Maintenance guides (E-18) -- informational","Material: carries capacity to the duty-holder","City or utility retains it (F-5)","Not applicable",1,12
+"Helpdesk (E-18) -- informational","Informational only: instruction, not capacity","F-5 not stated: transfer cannot be established","Confirmed misfit",12,13
+"Helpdesk (E-18) -- informational","Informational only: instruction, not capacity","F-5 not stated: transfer cannot be established","Partial fit",1,14
+"Helpdesk (E-18) -- informational","Informational only: instruction, not capacity","Applicant or participant (F-5)","Partial fit",11,15
+"Helpdesk (E-18) -- informational","Material: carries capacity to the duty-holder","F-5 not stated: transfer cannot be established","Confirmed misfit",7,16
+"Helpdesk (E-18) -- informational","Material: carries capacity to the duty-holder","Applicant or participant (F-5)","Documented fit",14,17
+"Helpdesk (E-18) -- informational","Material: carries capacity to the duty-holder","Shared: applicant and programme body (F-5)","Documented fit",1,18
+"Site visits (E-18) -- material","Material: carries capacity to the duty-holder","F-5 not stated: transfer cannot be established","Confirmed misfit",12,19
+"Site visits (E-18) -- material","Material: carries capacity to the duty-holder","F-5 not stated: transfer cannot be established","Partial fit",1,20
+"Site visits (E-18) -- material","Material: carries capacity to the duty-holder","Applicant or participant (F-5)","Documented fit",31,21
+"Site visits (E-18) -- material","Material: carries capacity to the duty-holder","Shared: applicant and programme body (F-5)","Documented fit",1,22
+"Site visits (E-18) -- material","Material: carries capacity to the duty-holder","City or utility retains it (F-5)","Not applicable",1,23
+"Inspection reminders (E-18) -- material","Material: carries capacity to the duty-holder","F-5 not stated: transfer cannot be established","Confirmed misfit",1,24
+"Inspection reminders (E-18) -- material","Material: carries capacity to the duty-holder","Applicant or participant (F-5)","Documented fit",26,25
+"Dedicated maintenance grant (E-15) -- material","Material: carries capacity to the duty-holder","F-5 not stated: transfer cannot be established","Confirmed misfit",4,26
+"Dedicated maintenance grant (E-15) -- material","Material: carries capacity to the duty-holder","F-5 not stated: transfer cannot be established","Partial fit",2,27
+"Dedicated maintenance grant (E-15) -- material","Material: carries capacity to the duty-holder","Applicant or participant (F-5)","Documented fit",17,28
+"Maintenance costs covered (E-16) -- material","Material: carries capacity to the duty-holder","F-5 not stated: transfer cannot be established","Confirmed misfit",3,29
+"Maintenance costs covered (E-16) -- material","Material: carries capacity to the duty-holder","F-5 not stated: transfer cannot be established","Partial fit",1,30
+"Maintenance costs covered (E-16) -- material","Material: carries capacity to the duty-holder","Applicant or participant (F-5)","Documented fit",13,31
+"Maintenance costs covered (E-16) -- material","Material: carries capacity to the duty-holder","Shared: applicant and programme body (F-5)","Documented fit",1,32

@@ -1,0 +1,249 @@
+"typology_macro","p","item","block","n","cls"
+"Type 1",0.792682926829268,"Floods","D1 Hazards addressed",82,"Type 1
+(n=82)"
+"Type 2",0.733475479744137,"Floods","D1 Hazards addressed",469,"Type 2
+(n=469)"
+"Type 3",0.704918032786885,"Floods","D1 Hazards addressed",122,"Type 3
+(n=122)"
+"Opacity group",0.5,"Floods","D1 Hazards addressed",34,"Opacity group
+(n=34)"
+"Type 1",0.024390243902439,"Heat","D1 Hazards addressed",82,"Type 1
+(n=82)"
+"Type 2",0.281449893390192,"Heat","D1 Hazards addressed",469,"Type 2
+(n=469)"
+"Type 3",0.229508196721311,"Heat","D1 Hazards addressed",122,"Type 3
+(n=122)"
+"Opacity group",0.147058823529412,"Heat","D1 Hazards addressed",34,"Opacity group
+(n=34)"
+"Type 1",0.853658536585366,"Drought","D1 Hazards addressed",82,"Type 1
+(n=82)"
+"Type 2",0.518123667377399,"Drought","D1 Hazards addressed",469,"Type 2
+(n=469)"
+"Type 3",0.524590163934426,"Drought","D1 Hazards addressed",122,"Type 3
+(n=122)"
+"Opacity group",0.735294117647059,"Drought","D1 Hazards addressed",34,"Opacity group
+(n=34)"
+"Type 1",0.0365853658536585,"Biodiversity loss","D1 Hazards addressed",82,"Type 1
+(n=82)"
+"Type 2",0.349680170575693,"Biodiversity loss","D1 Hazards addressed",469,"Type 2
+(n=469)"
+"Type 3",0.254098360655738,"Biodiversity loss","D1 Hazards addressed",122,"Type 3
+(n=122)"
+"Opacity group",0.235294117647059,"Biodiversity loss","D1 Hazards addressed",34,"Opacity group
+(n=34)"
+"Type 1",0,"High demand (building-integrated)","D1 Measure portfolio",82,"Type 1
+(n=82)"
+"Type 2",0.336886993603412,"High demand (building-integrated)","D1 Measure portfolio",469,"Type 2
+(n=469)"
+"Type 3",0.295081967213115,"High demand (building-integrated)","D1 Measure portfolio",122,"Type 3
+(n=122)"
+"Opacity group",0.235294117647059,"High demand (building-integrated)","D1 Measure portfolio",34,"Opacity group
+(n=34)"
+"Type 1",0.0121951219512195,"Medium demand (ground-modifying)","D1 Measure portfolio",82,"Type 1
+(n=82)"
+"Type 2",0.562899786780384,"Medium demand (ground-modifying)","D1 Measure portfolio",469,"Type 2
+(n=469)"
+"Type 3",0.39344262295082,"Medium demand (ground-modifying)","D1 Measure portfolio",122,"Type 3
+(n=122)"
+"Opacity group",0.176470588235294,"Medium demand (ground-modifying)","D1 Measure portfolio",34,"Opacity group
+(n=34)"
+"Type 1",1,"Low demand (standardised)","D1 Measure portfolio",82,"Type 1
+(n=82)"
+"Type 2",0.810234541577825,"Low demand (standardised)","D1 Measure portfolio",469,"Type 2
+(n=469)"
+"Type 3",0.844262295081967,"Low demand (standardised)","D1 Measure portfolio",122,"Type 3
+(n=122)"
+"Opacity group",0.911764705882353,"Low demand (standardised)","D1 Measure portfolio",34,"Opacity group
+(n=34)"
+"Type 1",0.975609756097561,"Homeowners (C-8)","D2 Eligible actors",82,"Type 1
+(n=82)"
+"Type 2",0.94456289978678,"Homeowners (C-8)","D2 Eligible actors",469,"Type 2
+(n=469)"
+"Type 3",0.950819672131147,"Homeowners (C-8)","D2 Eligible actors",122,"Type 3
+(n=122)"
+"Opacity group",0.852941176470588,"Homeowners (C-8)","D2 Eligible actors",34,"Opacity group
+(n=34)"
+"Type 1",0.24390243902439,"Landlords (C-9)","D2 Eligible actors",82,"Type 1
+(n=82)"
+"Type 2",0.539445628997868,"Landlords (C-9)","D2 Eligible actors",469,"Type 2
+(n=469)"
+"Type 3",0.450819672131148,"Landlords (C-9)","D2 Eligible actors",122,"Type 3
+(n=122)"
+"Opacity group",0.176470588235294,"Landlords (C-9)","D2 Eligible actors",34,"Opacity group
+(n=34)"
+"Type 1",0.475609756097561,"Tenants directly (C-10)","D2 Eligible actors",82,"Type 1
+(n=82)"
+"Type 2",0.0831556503198294,"Tenants directly (C-10)","D2 Eligible actors",469,"Type 2
+(n=469)"
+"Type 3",0.122950819672131,"Tenants directly (C-10)","D2 Eligible actors",122,"Type 3
+(n=122)"
+"Opacity group",0.235294117647059,"Tenants directly (C-10)","D2 Eligible actors",34,"Opacity group
+(n=34)"
+"Type 1",0.121951219512195,"Co-ops or HOAs (C-11)","D2 Eligible actors",82,"Type 1
+(n=82)"
+"Type 2",0.319829424307036,"Co-ops or HOAs (C-11)","D2 Eligible actors",469,"Type 2
+(n=469)"
+"Type 3",0.295081967213115,"Co-ops or HOAs (C-11)","D2 Eligible actors",122,"Type 3
+(n=122)"
+"Opacity group",0.264705882352941,"Co-ops or HOAs (C-11)","D2 Eligible actors",34,"Opacity group
+(n=34)"
+"Type 1",0,"Social housing (C-15)","D2 Eligible actors",82,"Type 1
+(n=82)"
+"Type 2",0.108742004264392,"Social housing (C-15)","D2 Eligible actors",469,"Type 2
+(n=469)"
+"Type 3",0.131147540983607,"Social housing (C-15)","D2 Eligible actors",122,"Type 3
+(n=122)"
+"Opacity group",0.0882352941176471,"Social housing (C-15)","D2 Eligible actors",34,"Opacity group
+(n=34)"
+"Type 1",0,"Informal groups (C-16)","D2 Eligible actors",82,"Type 1
+(n=82)"
+"Type 2",0.0767590618336887,"Informal groups (C-16)","D2 Eligible actors",469,"Type 2
+(n=469)"
+"Type 3",0.0245901639344262,"Informal groups (C-16)","D2 Eligible actors",122,"Type 3
+(n=122)"
+"Opacity group",0.147058823529412,"Informal groups (C-16)","D2 Eligible actors",34,"Opacity group
+(n=34)"
+"Type 1",0.0731707317073171,"Capital grant or loan","D3b Financial accessibility",82,"Type 1
+(n=82)"
+"Type 2",0.846481876332623,"Capital grant or loan","D3b Financial accessibility",469,"Type 2
+(n=469)"
+"Type 3",0.926229508196721,"Capital grant or loan","D3b Financial accessibility",122,"Type 3
+(n=122)"
+"Opacity group",0.529411764705882,"Capital grant or loan","D3b Financial accessibility",34,"Opacity group
+(n=34)"
+"Type 1",0.024390243902439,"Tax or fee rebate","D3b Financial accessibility",82,"Type 1
+(n=82)"
+"Type 2",0.134328358208955,"Tax or fee rebate","D3b Financial accessibility",469,"Type 2
+(n=469)"
+"Type 3",0.0737704918032787,"Tax or fee rebate","D3b Financial accessibility",122,"Type 3
+(n=122)"
+"Opacity group",0.0294117647058824,"Tax or fee rebate","D3b Financial accessibility",34,"Opacity group
+(n=34)"
+"Type 1",0.182926829268293,"Material or in-kind provision","D3b Financial accessibility",82,"Type 1
+(n=82)"
+"Type 2",0.0639658848614073,"Material or in-kind provision","D3b Financial accessibility",469,"Type 2
+(n=469)"
+"Type 3",0.00819672131147541,"Material or in-kind provision","D3b Financial accessibility",122,"Type 3
+(n=122)"
+"Opacity group",0.0294117647058824,"Material or in-kind provision","D3b Financial accessibility",34,"Opacity group
+(n=34)"
+"Type 1",0.853658536585366,"Technical advice or standards","D3a Technical enablement",82,"Type 1
+(n=82)"
+"Type 2",0.995735607675906,"Technical advice or standards","D3a Technical enablement",469,"Type 2
+(n=469)"
+"Type 3",0.69672131147541,"Technical advice or standards","D3a Technical enablement",122,"Type 3
+(n=122)"
+"Opacity group",0.352941176470588,"Technical advice or standards","D3a Technical enablement",34,"Opacity group
+(n=34)"
+"Type 1",0,"Regulatory support","D3a Technical enablement",82,"Type 1
+(n=82)"
+"Type 2",0.0149253731343284,"Regulatory support","D3a Technical enablement",469,"Type 2
+(n=469)"
+"Type 3",0,"Regulatory support","D3a Technical enablement",122,"Type 3
+(n=122)"
+"Opacity group",0.0294117647058824,"Regulatory support","D3a Technical enablement",34,"Opacity group
+(n=34)"
+"Type 1",0.219512195121951,"Behavioural recognition","D3b Financial accessibility",82,"Type 1
+(n=82)"
+"Type 2",0.115138592750533,"Behavioural recognition","D3b Financial accessibility",469,"Type 2
+(n=469)"
+"Type 3",0.0491803278688525,"Behavioural recognition","D3b Financial accessibility",122,"Type 3
+(n=122)"
+"Opacity group",0.0588235294117647,"Behavioural recognition","D3b Financial accessibility",34,"Opacity group
+(n=34)"
+"Type 1",0.914634146341463,"Applicant guide (D-1)","D3c Administrative access",82,"Type 1
+(n=82)"
+"Type 2",0.982942430703625,"Applicant guide (D-1)","D3c Administrative access",469,"Type 2
+(n=469)"
+"Type 3",0.967213114754098,"Applicant guide (D-1)","D3c Administrative access",122,"Type 3
+(n=122)"
+"Opacity group",0.647058823529412,"Applicant guide (D-1)","D3c Administrative access",34,"Opacity group
+(n=34)"
+"Type 1",0.707317073170732,"Decision timeline (D-2)","D3c Administrative access",82,"Type 1
+(n=82)"
+"Type 2",0.701492537313433,"Decision timeline (D-2)","D3c Administrative access",469,"Type 2
+(n=469)"
+"Type 3",0.614754098360656,"Decision timeline (D-2)","D3c Administrative access",122,"Type 3
+(n=122)"
+"Opacity group",0.5,"Decision timeline (D-2)","D3c Administrative access",34,"Opacity group
+(n=34)"
+"Type 1",0.841463414634146,"Accessible forms (D-3)","D3c Administrative access",82,"Type 1
+(n=82)"
+"Type 2",0.961620469083156,"Accessible forms (D-3)","D3c Administrative access",469,"Type 2
+(n=469)"
+"Type 3",0.934426229508197,"Accessible forms (D-3)","D3c Administrative access",122,"Type 3
+(n=122)"
+"Opacity group",0.676470588235294,"Accessible forms (D-3)","D3c Administrative access",34,"Opacity group
+(n=34)"
+"Type 1",0.451219512195122,"Two or more channels (D-4)","D3c Administrative access",82,"Type 1
+(n=82)"
+"Type 2",0.488272921108742,"Two or more channels (D-4)","D3c Administrative access",469,"Type 2
+(n=469)"
+"Type 3",0.401639344262295,"Two or more channels (D-4)","D3c Administrative access",122,"Type 3
+(n=122)"
+"Opacity group",0.235294117647059,"Two or more channels (D-4)","D3c Administrative access",34,"Opacity group
+(n=34)"
+"Type 1",0.280487804878049,"Multilingual materials (D-5)","D3c Administrative access",82,"Type 1
+(n=82)"
+"Type 2",0.110874200426439,"Multilingual materials (D-5)","D3c Administrative access",469,"Type 2
+(n=469)"
+"Type 3",0.0491803278688525,"Multilingual materials (D-5)","D3c Administrative access",122,"Type 3
+(n=122)"
+"Opacity group",0.0294117647058824,"Multilingual materials (D-5)","D3c Administrative access",34,"Opacity group
+(n=34)"
+"Type 1",0.0121951219512195,"Co-design (D-6)","D3c Administrative access",82,"Type 1
+(n=82)"
+"Type 2",0.0660980810234542,"Co-design (D-6)","D3c Administrative access",469,"Type 2
+(n=469)"
+"Type 3",0.0163934426229508,"Co-design (D-6)","D3c Administrative access",122,"Type 3
+(n=122)"
+"Opacity group",0.0882352941176471,"Co-design (D-6)","D3c Administrative access",34,"Opacity group
+(n=34)"
+"Type 1",0.414634146341463,"Responsibility named (F-5)","D4a Maintenance support",82,"Type 1
+(n=82)"
+"Type 2",0.50319829424307,"Responsibility named (F-5)","D4a Maintenance support",469,"Type 2
+(n=469)"
+"Type 3",0.450819672131148,"Responsibility named (F-5)","D4a Maintenance support",122,"Type 3
+(n=122)"
+"Opacity group",0,"Responsibility named (F-5)","D4a Maintenance support",34,"Opacity group
+(n=34)"
+"Type 1",0.573170731707317,"Maintenance support (E-15..18)","D4a Maintenance support",82,"Type 1
+(n=82)"
+"Type 2",0.577825159914712,"Maintenance support (E-15..18)","D4a Maintenance support",469,"Type 2
+(n=469)"
+"Type 3",0.139344262295082,"Maintenance support (E-15..18)","D4a Maintenance support",122,"Type 3
+(n=122)"
+"Opacity group",0.117647058823529,"Maintenance support (E-15..18)","D4a Maintenance support",34,"Opacity group
+(n=34)"
+"Type 1",0.0853658536585366,"Binding condition (E-17)","D4a Maintenance support",82,"Type 1
+(n=82)"
+"Type 2",0.456289978678038,"Binding condition (E-17)","D4a Maintenance support",469,"Type 2
+(n=469)"
+"Type 3",0.418032786885246,"Binding condition (E-17)","D4a Maintenance support",122,"Type 3
+(n=122)"
+"Opacity group",0.0882352941176471,"Binding condition (E-17)","D4a Maintenance support",34,"Opacity group
+(n=34)"
+"Type 1",0.463414634146341,"Indicators published (F-1/F-2)","D4b Monitoring and review",82,"Type 1
+(n=82)"
+"Type 2",0.226012793176972,"Indicators published (F-1/F-2)","D4b Monitoring and review",469,"Type 2
+(n=469)"
+"Type 3",0.204918032786885,"Indicators published (F-1/F-2)","D4b Monitoring and review",122,"Type 3
+(n=122)"
+"Opacity group",0.0588235294117647,"Indicators published (F-1/F-2)","D4b Monitoring and review",34,"Opacity group
+(n=34)"
+"Type 1",0.0121951219512195,"Periodic review (F-3)","D4b Monitoring and review",82,"Type 1
+(n=82)"
+"Type 2",0.0533049040511727,"Periodic review (F-3)","D4b Monitoring and review",469,"Type 2
+(n=469)"
+"Type 3",0.0655737704918033,"Periodic review (F-3)","D4b Monitoring and review",122,"Type 3
+(n=122)"
+"Opacity group",0,"Periodic review (F-3)","D4b Monitoring and review",34,"Opacity group
+(n=34)"
+"Type 1",0.719512195121951,"Feedback channel (F-4)","D4b Monitoring and review",82,"Type 1
+(n=82)"
+"Type 2",0.767590618336887,"Feedback channel (F-4)","D4b Monitoring and review",469,"Type 2
+(n=469)"
+"Type 3",0.69672131147541,"Feedback channel (F-4)","D4b Monitoring and review",122,"Type 3
+(n=122)"
+"Opacity group",0.147058823529412,"Feedback channel (F-4)","D4b Monitoring and review",34,"Opacity group
+(n=34)"

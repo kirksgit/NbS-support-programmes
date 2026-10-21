@@ -1,0 +1,27 @@
+"domain","item","present","absent","n"
+"D1 Ecological-functional","Objectives explicitly stated (B-5)",1,0,707
+"D1 Ecological-functional","Supported measures documented (E-1..E-7)",0.994342291371994,0,707
+"D1 Ecological-functional","Every stated objective matched by a plausible measure",0.965860597439545,0.00995732574679943,703
+"D2 Tenure & authority access","Homeowners eligible (C-8)",0.944837340876945,0.0141442715700141,707
+"D2 Tenure & authority access","A property controller eligible: landlord, co-op or social housing (C-9/11/15)",0.553041018387553,0.0806223479490806,707
+"D2 Tenure & authority access","Tenants (in their own right) (C-10)",0.142857142857143,0.164073550212164,707
+"D2 Tenure & authority access","Tenants (with landlord permission) (C-10)",0.298444130127298,0,707
+"D2 Tenure & authority access","A documented tenant pathway (D-7/G-2)",0.288543140028289,0,707
+"D3a Technical enablement","Technical standards or funded design (C-5/E-21) (where required)",0.745049504950495,0.0445544554455446,404
+"D3a Technical enablement","Site assessment or professional design (E-13/E-21) (where required)",0.417322834645669,0,381
+"D3a Technical enablement","Permit fast-track or fee waiver (C-6/C-7) (where required)",0.0104895104895105,0,286
+"D3a Technical enablement","Applicant or housing-type guidance (D-8/E-13) (where required)",0.978662873399715,0,703
+"D3a Technical enablement","Establishment or maintenance support (E-15..E-18) (where required)",0.527494908350306,0,491
+"D3c Administrative access","Step-by-step applicant guide (D-1)",0.956152758132956,0,707
+"D3c Administrative access","Application forms accessible (D-3)",0.929278642149929,0.00424328147100424,707
+"D3c Administrative access","Two or more application channels (D-4)",0.456859971711457,0,707
+"D3c Administrative access","Decision timelines stated (D-2)",0.677510608203677,0,707
+"D3c Administrative access","Materials in more than one language (D-5)",0.115983026874116,0,707
+"D3b Financial accessibility","Payment without applicant pre-financing (E-22)",0.195652173913043,0.804347826086957,92
+"D3b Financial accessibility","In-kind or discounted route avoiding cash outlay (E-11)",0.122448979591837,0,98
+"D4a Maintenance responsibility and support","Maintenance responsibility named (F-5)",0.45968882602546,0,707
+"D4a Maintenance responsibility and support","Maintenance a binding condition (E-17)",0.388967468175389,0,707
+"D4a Maintenance responsibility and support","Any maintenance support named, incl. guidance only (E-15/16/18)",0.47949080622348,0,707
+"D4b Monitoring, feedback and review","Indicators or results published (F-1/F-2)",0.241867043847242,0.00282885431400283,707
+"D4b Monitoring, feedback and review","Periodic programme review (F-3)",0.0480905233380481,0,707
+"D4b Monitoring, feedback and review","A named feedback channel (F-4)",0.71994342291372,0,707

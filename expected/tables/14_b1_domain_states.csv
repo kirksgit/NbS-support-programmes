@@ -1,0 +1,29 @@
+"domain","outcome","n"
+"D1 Ecological-functional","Confirmed misfit",7
+"D1 Ecological-functional","Documented fit",679
+"D1 Ecological-functional","Indeterminate",4
+"D1 Ecological-functional","Partial fit",17
+"D2 Tenure & authority access","Confirmed misfit",117
+"D2 Tenure & authority access","Documented fit",423
+"D2 Tenure & authority access","Indeterminate",14
+"D2 Tenure & authority access","Partial fit",153
+"D3a Technical enablement","Confirmed misfit",54
+"D3a Technical enablement","Documented fit",392
+"D3a Technical enablement","Indeterminate",10
+"D3a Technical enablement","Not applicable",4
+"D3a Technical enablement","Partial fit",247
+"D3b Financial accessibility","Confirmed misfit",495
+"D3b Financial accessibility","Documented fit",145
+"D3b Financial accessibility","Indeterminate",12
+"D3b Financial accessibility","Partial fit",55
+"D3c Administrative access","Confirmed misfit",3
+"D3c Administrative access","Documented fit",245
+"D3c Administrative access","Indeterminate",13
+"D3c Administrative access","Partial fit",446
+"D4a Maintenance responsibility and support","Confirmed misfit",507
+"D4a Maintenance responsibility and support","Documented fit",71
+"D4a Maintenance responsibility and support","Not applicable",1
+"D4a Maintenance responsibility and support","Partial fit",128
+"D4b Monitoring, feedback and review","Confirmed misfit",147
+"D4b Monitoring, feedback and review","Documented fit",171
+"D4b Monitoring, feedback and review","Partial fit",389

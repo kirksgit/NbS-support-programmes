@@ -1,0 +1,106 @@
+"region_mod","prog","n","n_country","cstd","key","lab"
+"North America",0.973913043478261,345,2,0.957357859531773,"d1","D1
+Ecological-
+functional"
+"Central/Eastern Europe",0.884615384615385,26,4,0.920588235294118,"d1","D1
+Ecological-
+functional"
+"East Asia",0.976,125,3,0.991803278688525,"d1","D1
+Ecological-
+functional"
+"Other regions",1,25,11,1,"d1","D1
+Ecological-
+functional"
+"Western Europe",0.950549450549451,182,8,0.905507525420316,"d1","D1
+Ecological-
+functional"
+"North America",0.638235294117647,340,2,0.705159705159705,"d2","D2
+Tenure &
+authority"
+"Central/Eastern Europe",0.961538461538462,26,4,0.875,"d2","D2
+Tenure &
+authority"
+"East Asia",0.677685950413223,121,3,0.889830508474576,"d2","D2
+Tenure &
+authority"
+"Other regions",0.75,24,11,0.681818181818182,"d2","D2
+Tenure &
+authority"
+"Western Europe",0.445054945054945,182,8,0.511304971248542,"d2","D2
+Tenure &
+authority"
+"North America",0.660869565217391,345,2,0.666387959866221,"d3a","D3a
+Technical
+enablement"
+"Central/Eastern Europe",0.24,25,4,0.379411764705882,"d3a","D3a
+Technical
+enablement"
+"East Asia",0.414634146341463,123,2,0.210743801652893,"d3a","D3a
+Technical
+enablement"
+"Other regions",0.4,25,11,0.420454545454545,"d3a","D3a
+Technical
+enablement"
+"Western Europe",0.554285714285714,175,8,0.405132264779794,"d3a","D3a
+Technical
+enablement"
+"North America",0.296187683284457,341,2,0.290456890198968,"d3b","D3b
+Financial
+accessibility"
+"Central/Eastern Europe",0.24,25,4,0.339705882352941,"d3b","D3b
+Financial
+accessibility"
+"East Asia",0.032,125,3,0.0109289617486339,"d3b","D3b
+Financial
+accessibility"
+"Other regions",0.583333333333333,24,10,0.595,"d3b","D3b
+Financial
+accessibility"
+"Western Europe",0.111111111111111,180,8,0.152394480519481,"d3b","D3b
+Financial
+accessibility"
+"North America",0.441176470588235,340,2,0.414312617702448,"d3c","D3c
+Administrative
+access"
+"Central/Eastern Europe",0.384615384615385,26,4,0.398529411764706,"d3c","D3c
+Administrative
+access"
+"East Asia",0.284552845528455,123,3,0.427777777777778,"d3c","D3c
+Administrative
+access"
+"Other regions",0.217391304347826,23,11,0.215151515151515,"d3c","D3c
+Administrative
+access"
+"Western Europe",0.247252747252747,182,8,0.103293001242197,"d3c","D3c
+Administrative
+access"
+"North America",0.0922190201729107,347,2,0.089989888776542,"d4a","D4a
+Maintenance
+support"
+"Central/Eastern Europe",0.0769230769230769,26,4,0.175,"d4a","D4a
+Maintenance
+support"
+"East Asia",0.032,125,3,0.0109289617486339,"d4a","D4a
+Maintenance
+support"
+"Other regions",0.2,25,11,0.290909090909091,"d4a","D4a
+Maintenance
+support"
+"Western Europe",0.152173913043478,184,8,0.0997668755662942,"d4a","D4a
+Maintenance
+support"
+"North America",0.282420749279539,347,2,0.282500361115123,"d4b","D4b
+Monitoring
+and review"
+"Central/Eastern Europe",0.423076923076923,26,4,0.563235294117647,"d4b","D4b
+Monitoring
+and review"
+"East Asia",0.144,125,3,0.213114754098361,"d4b","D4b
+Monitoring
+and review"
+"Other regions",0.28,25,11,0.465909090909091,"d4b","D4b
+Monitoring
+and review"
+"Western Europe",0.201086956521739,184,8,0.436961391321856,"d4b","D4b
+Monitoring
+and review"

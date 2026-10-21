@@ -1,0 +1,232 @@
+"country_mod","region_mod","x","n","p_shrunk","lo","hi","key","lab"
+"Canada","North America",43,46,0.954492559174509,0.911961682339186,0.98348664660769,"d1","D1
+Ecological-
+functional"
+"France","Western Europe",30,33,0.949245813494936,0.902023109106019,0.981541937075404,"d1","D1
+Ecological-
+functional"
+"Germany","Western Europe",86,88,0.971847110597058,0.942075398155371,0.991121485570221,"d1","D1
+Ecological-
+functional"
+"Japan","East Asia",119,122,0.971634963371617,0.944739886012674,0.989780785446678,"d1","D1
+Ecological-
+functional"
+"Netherlands","Western Europe",42,43,0.969673023548823,0.933005717446445,0.992123586183391,"d1","D1
+Ecological-
+functional"
+"Other (pooled)","Central/Eastern Europe",8,9,0.95805545414014,0.907879681908869,0.989040424285977,"d1","D1
+Ecological-
+functional"
+"Other (pooled)","East Asia",3,3,0.967098205151068,0.919590533423277,0.993802642145375,"d1","D1
+Ecological-
+functional"
+"Other (pooled)","Other regions",25,25,0.974008038475361,0.936223906653163,0.995124568490651,"d1","D1
+Ecological-
+functional"
+"Other (pooled)","Western Europe",15,18,0.941457844450875,0.887352280182929,0.97863927382156,"d1","D1
+Ecological-
+functional"
+"Poland","Central/Eastern Europe",15,17,0.9511881735273,0.900495321249948,0.984458833285111,"d1","D1
+Ecological-
+functional"
+"United States","North America",293,299,0.976969840965072,0.959662617652623,0.989543707532585,"d1","D1
+Ecological-
+functional"
+"Canada","North America",35,44,0.779216580053726,0.653303891028855,0.88324268571778,"d2","D2
+Tenure &
+authority"
+"France","Western Europe",21,34,0.616843718146498,0.459887544427818,0.76221579045657,"d2","D2
+Tenure &
+authority"
+"Germany","Western Europe",38,88,0.440011747819466,0.34072555143186,0.541763286280511,"d2","D2
+Tenure &
+authority"
+"Japan","East Asia",79,118,0.667445272990071,0.581844114683712,0.747855812504705,"d2","D2
+Tenure &
+authority"
+"Netherlands","Western Europe",12,43,0.308755916264946,0.186812565928758,0.446035369793674,"d2","D2
+Tenure &
+authority"
+"Other (pooled)","Central/Eastern Europe",8,9,0.799816711814247,0.555974970762637,0.95927326355398,"d2","D2
+Tenure &
+authority"
+"Other (pooled)","East Asia",3,3,0.772009660494676,0.430605610244485,0.976019362288937,"d2","D2
+Tenure &
+authority"
+"Other (pooled)","Other regions",18,24,0.729072418796084,0.554402886290131,0.873065907509081,"d2","D2
+Tenure &
+authority"
+"Other (pooled)","Western Europe",10,17,0.592651105817499,0.382480448428623,0.786285043054033,"d2","D2
+Tenure &
+authority"
+"Poland","Central/Eastern Europe",17,17,0.922342621830195,0.779817858758831,0.992837024392525,"d2","D2
+Tenure &
+authority"
+"United States","North America",182,296,0.614801783182947,0.559164692081271,0.668990004912426,"d2","D2
+Tenure &
+authority"
+"Canada","North America",31,46,0.663145259593598,0.52938540379648,0.784803569494022,"d3a","D3a
+Technical
+enablement"
+"France","Western Europe",11,32,0.374155438203087,0.227910510813923,0.533263004469038,"d3a","D3a
+Technical
+enablement"
+"Germany","Western Europe",60,86,0.690310044182252,0.59219721816689,0.780506819414904,"d3a","D3a
+Technical
+enablement"
+"Japan","East Asia",51,121,0.427297291374313,0.342533380778723,0.514246641638748,"d3a","D3a
+Technical
+enablement"
+"Netherlands","Western Europe",18,39,0.473539171678572,0.32965953440927,0.619695014223501,"d3a","D3a
+Technical
+enablement"
+"Other (pooled)","Central/Eastern Europe",4,8,0.525502022056042,0.265875901804799,0.777748114836272,"d3a","D3a
+Technical
+enablement"
+"Other (pooled)","East Asia",0,2,0.405884050635961,0.105359499200193,0.756132109327502,"d3a","D3a
+Technical
+enablement"
+"Other (pooled)","Other regions",10,25,0.427980118607189,0.259916586942499,0.605121339382028,"d3a","D3a
+Technical
+enablement"
+"Other (pooled)","Western Europe",8,18,0.471126887158635,0.276127694870652,0.670869508585623,"d3a","D3a
+Technical
+enablement"
+"Poland","Central/Eastern Europe",2,17,0.220733806862654,0.0781896382550817,0.410897856323482,"d3a","D3a
+Technical
+enablement"
+"United States","North America",197,299,0.657305526118869,0.603112179942429,0.709538812388599,"d3a","D3a
+Technical
+enablement"
+"Canada","North America",13,46,0.278037732181457,0.16322321968211,0.409991474103371,"d3b","D3b
+Financial
+accessibility"
+"France","Western Europe",10,35,0.279573776261308,0.150863526783566,0.430220132745648,"d3b","D3b
+Financial
+accessibility"
+"Germany","Western Europe",2,88,0.028914380934531,0.0052174133018077,0.0716572430324327,"d3b","D3b
+Financial
+accessibility"
+"Japan","East Asia",4,122,0.0370477470645124,0.011562323954555,0.0763542465626185,"d3b","D3b
+Financial
+accessibility"
+"Netherlands","Western Europe",5,40,0.130888280835152,0.048796211214793,0.245216354383914,"d3b","D3b
+Financial
+accessibility"
+"Other (pooled)","Central/Eastern Europe",5,8,0.510634303202572,0.23272622712892,0.784897384239404,"d3b","D3b
+Financial
+accessibility"
+"Other (pooled)","East Asia",0,3,0.104827663025257,0.000472157067715699,0.420894158596693,"d3b","D3b
+Financial
+accessibility"
+"Other (pooled)","Other regions",14,24,0.541335937948107,0.355536029611312,0.721336781237347,"d3b","D3b
+Financial
+accessibility"
+"Other (pooled)","Western Europe",3,17,0.181335286638974,0.0500614266345296,0.372200633932779,"d3b","D3b
+Financial
+accessibility"
+"Poland","Central/Eastern Europe",1,17,0.0814827825025905,0.00739671752088368,0.231215010306934,"d3b","D3b
+Financial
+accessibility"
+"United States","North America",88,295,0.297393547157535,0.246920164028382,0.35044249293511,"d3b","D3b
+Financial
+accessibility"
+"Canada","North America",17,45,0.368345804905614,0.26202397525975,0.481530349261521,"d3c","D3c
+Administrative
+access"
+"France","Western Europe",12,34,0.352979233110109,0.23968813218786,0.475299553391553,"d3c","D3c
+Administrative
+access"
+"Germany","Western Europe",25,87,0.303217728225794,0.222917667325963,0.390017161154297,"d3c","D3c
+Administrative
+access"
+"Japan","East Asia",34,120,0.29640560799498,0.225757999918927,0.372275178550011,"d3c","D3c
+Administrative
+access"
+"Netherlands","Western Europe",8,43,0.251475789399718,0.158174847175171,0.358083479227045,"d3c","D3c
+Administrative
+access"
+"Other (pooled)","Central/Eastern Europe",5,9,0.402685673574407,0.252175482929346,0.563246624317948,"d3c","D3c
+Administrative
+access"
+"Other (pooled)","East Asia",1,3,0.351101898812745,0.195534070703879,0.525041250199998,"d3c","D3c
+Administrative
+access"
+"Other (pooled)","Other regions",5,23,0.29150164508419,0.176125137984164,0.422449671170825,"d3c","D3c
+Administrative
+access"
+"Other (pooled)","Western Europe",0,18,0.213994096083021,0.109182311463935,0.342455022625051,"d3c","D3c
+Administrative
+access"
+"Poland","Central/Eastern Europe",5,17,0.330624902050561,0.202222149664673,0.473381336979599,"d3c","D3c
+Administrative
+access"
+"United States","North America",133,295,0.44244921183227,0.388717173915861,0.496857014847428,"d3c","D3c
+Administrative
+access"
+"Canada","North America",4,46,0.0920161164308134,0.0376498701735823,0.167196754174009,"d4a","D4a
+Maintenance
+support"
+"France","Western Europe",5,35,0.124118372858252,0.0552721269691406,0.21555332187945,"d4a","D4a
+Maintenance
+support"
+"Germany","Western Europe",19,88,0.188275621771917,0.122706094743993,0.264042127629489,"d4a","D4a
+Maintenance
+support"
+"Japan","East Asia",4,122,0.0452950219152769,0.0181962588256481,0.0837939214899389,"d4a","D4a
+Maintenance
+support"
+"Netherlands","Western Europe",2,43,0.067625260629945,0.0219131822272258,0.136217961740666,"d4a","D4a
+Maintenance
+support"
+"Other (pooled)","Central/Eastern Europe",2,9,0.130309108433457,0.0435098379437789,0.254915715932891,"d4a","D4a
+Maintenance
+support"
+"Other (pooled)","East Asia",0,3,0.0906045568350313,0.0181124984660298,0.212530707935507,"d4a","D4a
+Maintenance
+support"
+"Other (pooled)","Other regions",5,25,0.14767907841677,0.0663599292012243,0.254207225583065,"d4a","D4a
+Maintenance
+support"
+"Other (pooled)","Western Europe",2,18,0.104635384712286,0.0345057021561224,0.207194476527265,"d4a","D4a
+Maintenance
+support"
+"Poland","Central/Eastern Europe",0,17,0.062214743599031,0.0122203527283839,0.148430722452842,"d4a","D4a
+Maintenance
+support"
+"United States","North America",28,301,0.0936465469759027,0.0646215018742546,0.127348197341796,"d4a","D4a
+Maintenance
+support"
+"Canada","North America",13,46,0.246321942008442,0.206372392387897,0.288555822342655,"d4b","D4b
+Monitoring
+and review"
+"France","Western Europe",9,35,0.243172074226146,0.20290308820976,0.285815823439899,"d4b","D4b
+Monitoring
+and review"
+"Germany","Western Europe",14,88,0.226123558343355,0.189198994095545,0.265290375104763,"d4b","D4b
+Monitoring
+and review"
+"Japan","East Asia",17,122,0.216684606423691,0.181597078531464,0.25393285069538,"d4b","D4b
+Monitoring
+and review"
+"Netherlands","Western Europe",7,43,0.233726292277091,0.194430889929582,0.275436584118404,"d4b","D4b
+Monitoring
+and review"
+"Other (pooled)","Central/Eastern Europe",5,9,0.249225123510781,0.207274119794451,0.293652071818794,"d4b","D4b
+Monitoring
+and review"
+"Other (pooled)","East Asia",1,3,0.242593569132572,0.200750008334898,0.287018868989028,"d4b","D4b
+Monitoring
+and review"
+"Other (pooled)","Other regions",7,25,0.244252222364382,0.203431329362792,0.287497056402693,"d4b","D4b
+Monitoring
+and review"
+"Other (pooled)","Western Europe",7,18,0.248606242936535,0.207161088091235,0.292476568796415,"d4b","D4b
+Monitoring
+and review"
+"Poland","Central/Eastern Europe",6,17,0.246687888447298,0.205312008553899,0.290513670990573,"d4b","D4b
+Monitoring
+and review"
+"United States","North America",85,301,0.259919821143453,0.227562732057095,0.293622994751828,"d4b","D4b
+Monitoring
+and review"

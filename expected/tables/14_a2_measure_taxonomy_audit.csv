@@ -1,0 +1,7 @@
+"vv","mm","decision","verdict","n","pct","overlap_rain_barrel"
+"m_pond","Ponds / wetlands / bioswales","PROMOTED to the analysis taxonomy","Citizen-scale vegetated water measure; ground-modifying demand class, requirement profile mirrors rain gardens",31,0.0438472418670438,26
+"m_compost","Compost or mulch provision","Excluded -- supporting practice","Material input supporting another measure, not an intervention in itself",35,0.0495049504950495,25
+"m_soil","Soil amendments","Excluded -- supporting practice","Preparation input to planting or infiltration measures",9,0.0127298444130127,3
+"m_greywater","Greywater reuse","Excluded -- not nature-based","Building water-services retrofit; no vegetated or soil-based mechanism",15,0.0212164073550212,13
+"m_rainharv","Rainwater harvesting","Excluded -- duplicate of E-6","Same practice as rain barrels / cisterns already coded at E-6",19,0.0268741159830269,19
+"m_pond_excluded","Pond/wetland/swale mentions NOT retained","Held back for validation","Municipal-asset context or explicit non-offer; re-check during the dataset validation pass",11,0.0155586987270156,NA

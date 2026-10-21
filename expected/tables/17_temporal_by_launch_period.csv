@@ -1,0 +1,3 @@
+"outcome","pct_pre2018","n_pre2018","pct_2018plus","n_2018plus","diff_pp","odds_ratio","fisher_p","maturity_confound"
+"A route without pre-financing (D3b)",33.9449541284404,109,14.0540540540541,185,-19.8909000743863,0.319578272321041,0.00010681392065772,"NO -- payment design is fixed at launch; this is the load-bearing half"
+"Monitoring documented (D4b)",47.4137931034483,116,25.2577319587629,194,-22.1560611446854,0.376065377569212,0.000105006990347294,"YES -- a recently launched programme cannot yet have published a periodic review"

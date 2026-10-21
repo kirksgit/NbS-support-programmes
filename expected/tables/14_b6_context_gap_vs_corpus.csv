@@ -1,0 +1,197 @@
+"grp","ctx","n_ctx","var","short","rate","base","gap"
+"Who owns the housing","Owner-dominated",217,"fit_D1","Measures match
+the hazard",94.9074074074074,96.5860597439545,-1.67865233654707
+"Who owns the housing","Owner-dominated",217,"fit_D2","Route beyond
+the owner",100,61.038961038961,38.961038961039
+"Who owns the housing","Owner-dominated",217,"fit_D3a","Technical
+enablement",45.7943925233645,56.5656565656566,-10.7712640422921
+"Who owns the housing","Owner-dominated",217,"fit_D3b","Cost not fronted
+by resident",23.5023041474654,20.863309352518,2.63899479494745
+"Who owns the housing","Owner-dominated",217,"fit_D3c","Navigable
+procedure",33.9622641509434,35.3025936599424,-1.34032950899896
+"Who owns the housing","Owner-dominated",217,"fit_D4a","Maintenance duty
++ support",3.2258064516129,10.056657223796,-6.83085077218313
+"Who owns the housing","Owner-dominated",217,"fit_D4b","Persistence
+checked",22.5806451612903,24.1867043847242,-1.60605922343387
+"Who owns the housing","Renter-majority",179,"fit_D1","Measures match
+the hazard",96.6101694915254,96.5860597439545,0.0241097475709466
+"Who owns the housing","Renter-majority",179,"fit_D2","Route beyond
+the owner",48.8636363636364,61.038961038961,-12.1753246753247
+"Who owns the housing","Renter-majority",179,"fit_D3a","Technical
+enablement",64.1618497109827,56.5656565656566,7.59619314532609
+"Who owns the housing","Renter-majority",179,"fit_D3b","Cost not fronted
+by resident",14.2045454545455,20.863309352518,-6.65876389797253
+"Who owns the housing","Renter-majority",179,"fit_D3c","Navigable
+procedure",32.9545454545455,35.3025936599424,-2.34804820539691
+"Who owns the housing","Renter-majority",179,"fit_D4a","Maintenance duty
++ support",16.8539325842697,10.056657223796,6.79727536047363
+"Who owns the housing","Renter-majority",179,"fit_D4b","Persistence
+checked",25.6983240223464,24.1867043847242,1.51161963762218
+"Who owns the housing","Mixed tenure",311,"fit_D1","Measures match
+the hazard",97.741935483871,96.5860597439545,1.15587573991648
+"Who owns the housing","Mixed tenure",311,"fit_D2","Route beyond
+the owner",41.1764705882353,61.038961038961,-19.8624904507257
+"Who owns the housing","Mixed tenure",311,"fit_D3a","Technical
+enablement",59.8039215686275,56.5656565656566,3.23826500297089
+"Who owns the housing","Mixed tenure",311,"fit_D3b","Cost not fronted
+by resident",22.8476821192053,20.863309352518,1.98437276668731
+"Who owns the housing","Mixed tenure",311,"fit_D3c","Navigable
+procedure",37.5816993464052,35.3025936599424,2.27910568646287
+"Who owns the housing","Mixed tenure",311,"fit_D4a","Maintenance duty
++ support",10.9324758842444,10.056657223796,0.87581866044834
+"Who owns the housing","Mixed tenure",311,"fit_D4b","Persistence
+checked",24.4372990353698,24.1867043847242,0.250594650645589
+"How the city is built","Dispersed",330,"fit_D1","Measures match
+the hazard",96.3525835866261,96.5860597439545,-0.23347615732834
+"How the city is built","Dispersed",330,"fit_D2","Route beyond
+the owner",65.4320987654321,61.038961038961,4.39313772647107
+"How the city is built","Dispersed",330,"fit_D3a","Technical
+enablement",53.680981595092,56.5656565656566,-2.88467497056453
+"How the city is built","Dispersed",330,"fit_D3b","Cost not fronted
+by resident",20,20.863309352518,-0.863309352517987
+"How the city is built","Dispersed",330,"fit_D3c","Navigable
+procedure",30.4615384615385,35.3025936599424,-4.8410551984039
+"How the city is built","Dispersed",330,"fit_D4a","Maintenance duty
++ support",7.57575757575758,10.056657223796,-2.48089964803846
+"How the city is built","Dispersed",330,"fit_D4b","Persistence
+checked",17.2727272727273,24.1867043847242,-6.91397711199691
+"How the city is built","Intermediate",254,"fit_D1","Measures match
+the hazard",96.8379446640316,96.5860597439545,0.251884920077131
+"How the city is built","Intermediate",254,"fit_D2","Route beyond
+the owner",56.8,61.038961038961,-4.23896103896104
+"How the city is built","Intermediate",254,"fit_D3a","Technical
+enablement",60.1593625498008,56.5656565656566,3.59370598414424
+"How the city is built","Intermediate",254,"fit_D3b","Cost not fronted
+by resident",18.7250996015936,20.863309352518,-2.13820975092436
+"How the city is built","Intermediate",254,"fit_D3c","Navigable
+procedure",40.4,35.3025936599424,5.09740634005765
+"How the city is built","Intermediate",254,"fit_D4a","Maintenance duty
++ support",12.2047244094488,10.056657223796,2.14806718565278
+"How the city is built","Intermediate",254,"fit_D4b","Persistence
+checked",26.3779527559055,24.1867043847242,2.19124837118132
+"How the city is built","Compact / vertical",118,"fit_D1","Measures match
+the hazard",96.551724137931,96.5860597439545,-0.034335606023447
+"How the city is built","Compact / vertical",118,"fit_D2","Route beyond
+the owner",58.2608695652174,61.038961038961,-2.77809147374364
+"How the city is built","Compact / vertical",118,"fit_D3a","Technical
+enablement",56.7567567567568,56.5656565656566,0.191100191100197
+"How the city is built","Compact / vertical",118,"fit_D3b","Cost not fronted
+by resident",28.0701754385965,20.863309352518,7.2068660860785
+"How the city is built","Compact / vertical",118,"fit_D3c","Navigable
+procedure",37.719298245614,35.3025936599424,2.41670458567167
+"How the city is built","Compact / vertical",118,"fit_D4a","Maintenance duty
++ support",11.965811965812,10.056657223796,1.90915474201593
+"How the city is built","Compact / vertical",118,"fit_D4b","Persistence
+checked",38.9830508474576,24.1867043847242,14.7963464627334
+"What the land is used for","High-rise residential",107,"fit_D1","Measures match
+the hazard",98.1308411214953,96.5860597439545,1.54478137754084
+"What the land is used for","High-rise residential",107,"fit_D2","Route beyond
+the owner",57.5471698113208,61.038961038961,-3.49179122764028
+"What the land is used for","High-rise residential",107,"fit_D3a","Technical
+enablement",70.7547169811321,56.5656565656566,14.1890604154755
+"What the land is used for","High-rise residential",107,"fit_D3b","Cost not fronted
+by resident",23.3009708737864,20.863309352518,2.43766152126842
+"What the land is used for","High-rise residential",107,"fit_D3c","Navigable
+procedure",49.0566037735849,35.3025936599424,13.7540101136425
+"What the land is used for","High-rise residential",107,"fit_D4a","Maintenance duty
++ support",12.1495327102804,10.056657223796,2.09287548648434
+"What the land is used for","High-rise residential",107,"fit_D4b","Persistence
+checked",42.0560747663551,24.1867043847242,17.869370381631
+"What the land is used for","Mixed-use",437,"fit_D1","Measures match
+the hazard",96.0829493087558,96.5860597439545,-0.503110435198721
+"What the land is used for","Mixed-use",437,"fit_D2","Route beyond
+the owner",58.1775700934579,61.038961038961,-2.86139094550309
+"What the land is used for","Mixed-use",437,"fit_D3a","Technical
+enablement",55.0588235294118,56.5656565656566,-1.5068330362448
+"What the land is used for","Mixed-use",437,"fit_D3b","Cost not fronted
+by resident",16.3170163170163,20.863309352518,-4.54629303550167
+"What the land is used for","Mixed-use",437,"fit_D3c","Navigable
+procedure",32.7906976744186,35.3025936599424,-2.51189598552375
+"What the land is used for","Mixed-use",437,"fit_D4a","Maintenance duty
++ support",12.1559633027523,10.056657223796,2.09930607895626
+"What the land is used for","Mixed-use",437,"fit_D4b","Persistence
+checked",21.9679633867277,24.1867043847242,-2.2187409979965
+"What the land is used for","Low-rise residential",563,"fit_D1","Measures match
+the hazard",96.2566844919786,96.5860597439545,-0.329375251975875
+"What the land is used for","Low-rise residential",563,"fit_D2","Route beyond
+the owner",62.1818181818182,61.038961038961,1.14285714285715
+"What the land is used for","Low-rise residential",563,"fit_D3a","Technical
+enablement",57.7817531305903,56.5656565656566,1.21609656493378
+"What the land is used for","Low-rise residential",563,"fit_D3b","Cost not fronted
+by resident",22.1014492753623,20.863309352518,1.23813992284433
+"What the land is used for","Low-rise residential",563,"fit_D3c","Navigable
+procedure",38.878842676311,35.3025936599424,3.57624901636867
+"What the land is used for","Low-rise residential",563,"fit_D4a","Maintenance duty
++ support",8.70337477797513,10.056657223796,-1.3532824458209
+"What the land is used for","Low-rise residential",563,"fit_D4b","Persistence
+checked",23.2682060390764,24.1867043847242,-0.918498345647809
+"What the land is used for","Industrial / peri-urban",114,"fit_D1","Measures match
+the hazard",97.3214285714286,96.5860597439545,0.73536882747409
+"What the land is used for","Industrial / peri-urban",114,"fit_D2","Route beyond
+the owner",61.8181818181818,61.038961038961,0.779220779220779
+"What the land is used for","Industrial / peri-urban",114,"fit_D3a","Technical
+enablement",65.7657657657658,56.5656565656566,9.20010920010922
+"What the land is used for","Industrial / peri-urban",114,"fit_D3b","Cost not fronted
+by resident",20.9090909090909,20.863309352518,0.0457815565729192
+"What the land is used for","Industrial / peri-urban",114,"fit_D3c","Navigable
+procedure",43.2432432432432,35.3025936599424,7.94064958330088
+"What the land is used for","Industrial / peri-urban",114,"fit_D4a","Maintenance duty
++ support",15.7894736842105,10.056657223796,5.73281646041449
+"What the land is used for","Industrial / peri-urban",114,"fit_D4b","Persistence
+checked",27.1929824561404,24.1867043847242,3.00627807141617
+"Which hazard it faces","Flood or stormwater exposure",499,"fit_D1","Measures match
+the hazard",96.579476861167,96.5860597439545,-0.00658288278748387
+"Which hazard it faces","Flood or stormwater exposure",499,"fit_D2","Route beyond
+the owner",61.9341563786008,61.038961038961,0.895195339639791
+"Which hazard it faces","Flood or stormwater exposure",499,"fit_D3a","Technical
+enablement",55.2147239263804,56.5656565656566,-1.35093263927619
+"Which hazard it faces","Flood or stormwater exposure",499,"fit_D3b","Cost not fronted
+by resident",22.7459016393443,20.863309352518,1.88259228682627
+"Which hazard it faces","Flood or stormwater exposure",499,"fit_D3c","Navigable
+procedure",33.6734693877551,35.3025936599424,-1.62912427218726
+"Which hazard it faces","Flood or stormwater exposure",499,"fit_D4a","Maintenance duty
++ support",10.4208416833667,10.056657223796,0.3641844595707
+"Which hazard it faces","Flood or stormwater exposure",499,"fit_D4b","Persistence
+checked",23.4468937875752,24.1867043847242,-0.739810597149035
+"Which hazard it faces","Heat exposure",222,"fit_D1","Measures match
+the hazard",95.4337899543379,96.5860597439545,-1.15226978961658
+"Which hazard it faces","Heat exposure",222,"fit_D2","Route beyond
+the owner",54.1284403669725,61.038961038961,-6.91052067198856
+"Which hazard it faces","Heat exposure",222,"fit_D3a","Technical
+enablement",59.9056603773585,56.5656565656566,3.34000381170193
+"Which hazard it faces","Heat exposure",222,"fit_D3b","Cost not fronted
+by resident",12.962962962963,20.863309352518,-7.90034638955503
+"Which hazard it faces","Heat exposure",222,"fit_D3c","Navigable
+procedure",33.3333333333333,35.3025936599424,-1.96926032660903
+"Which hazard it faces","Heat exposure",222,"fit_D4a","Maintenance duty
++ support",13.5746606334842,10.056657223796,3.51800340968813
+"Which hazard it faces","Heat exposure",222,"fit_D4b","Persistence
+checked",27.9279279279279,24.1867043847242,3.74122354320374
+"Which hazard it faces","Drought or water scarcity",203,"fit_D1","Measures match
+the hazard",96.039603960396,96.5860597439545,-0.546455783558443
+"Which hazard it faces","Drought or water scarcity",203,"fit_D2","Route beyond
+the owner",55.2238805970149,61.038961038961,-5.81508044194611
+"Which hazard it faces","Drought or water scarcity",203,"fit_D3a","Technical
+enablement",56.2814070351759,56.5656565656566,-0.284249530480679
+"Which hazard it faces","Drought or water scarcity",203,"fit_D3b","Cost not fronted
+by resident",16.751269035533,20.863309352518,-4.11204031698499
+"Which hazard it faces","Drought or water scarcity",203,"fit_D3c","Navigable
+procedure",35.678391959799,35.3025936599424,0.375798299856633
+"Which hazard it faces","Drought or water scarcity",203,"fit_D4a","Maintenance duty
++ support",11.8226600985222,10.056657223796,1.76600287472613
+"Which hazard it faces","Drought or water scarcity",203,"fit_D4b","Persistence
+checked",22.1674876847291,24.1867043847242,-2.01921669999512
+"Which hazard it faces","Biodiversity-loss objective",206,"fit_D1","Measures match
+the hazard",95.1219512195122,96.5860597439545,-1.46410852444228
+"Which hazard it faces","Biodiversity-loss objective",206,"fit_D2","Route beyond
+the owner",49.0196078431373,61.038961038961,-12.0193531958238
+"Which hazard it faces","Biodiversity-loss objective",206,"fit_D3a","Technical
+enablement",63.3165829145729,56.5656565656566,6.7509263489163
+"Which hazard it faces","Biodiversity-loss objective",206,"fit_D3b","Cost not fronted
+by resident",14.4278606965174,20.863309352518,-6.43544865600057
+"Which hazard it faces","Biodiversity-loss objective",206,"fit_D3c","Navigable
+procedure",31.6831683168317,35.3025936599424,-3.61942534311068
+"Which hazard it faces","Biodiversity-loss objective",206,"fit_D4a","Maintenance duty
++ support",19.5121951219512,10.056657223796,9.45553789815519
+"Which hazard it faces","Biodiversity-loss objective",206,"fit_D4b","Persistence
+checked",27.6699029126214,24.1867043847242,3.48319852789717

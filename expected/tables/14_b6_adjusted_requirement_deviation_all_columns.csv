@@ -1,0 +1,92 @@
+"cellv","type","requirement","block","dev","sig","n","baseline"
+"Dispersed x Owner-dominated","Frame cell","Property-controller pathway (D2)","Authority and spatial control",44.1318319681279,TRUE,136,0.598302687411598
+"Intermediate x Renter-majority","Frame cell","Property-controller pathway (D2)","Authority and spatial control",-9.79630018320706,TRUE,74,0.598302687411598
+"Compact / vertical x Renter-majority","Frame cell","Property-controller pathway (D2)","Authority and spatial control",5.66283754564945,TRUE,59,0.598302687411598
+"Intermediate x Mixed tenure","Frame cell","Property-controller pathway (D2)","Authority and spatial control",-24.0263014546375,TRUE,113,0.598302687411598
+"Dispersed x Mixed tenure","Frame cell","Property-controller pathway (D2)","Authority and spatial control",-26.0493843788852,TRUE,150,0.598302687411598
+"Intermediate x Owner-dominated","Frame cell","Property-controller pathway (D2)","Authority and spatial control",NA,NA,67,0.598302687411598
+"Compact / vertical x Mixed tenure","Frame cell","Property-controller pathway (D2)","Authority and spatial control",-15.3939567639156,FALSE,47,0.598302687411598
+"Dispersed x Renter-majority","Frame cell","Property-controller pathway (D2)","Authority and spatial control",4.37358481361989,FALSE,44,0.598302687411598
+"Compact / vertical x Owner-dominated","Frame cell","Property-controller pathway (D2)","Authority and spatial control",NA,NA,12,0.598302687411598
+"Flood or stormwater exposure","Hazard overlay","Property-controller pathway (D2)","Authority and spatial control",4.11514968847044,TRUE,499,0.598302687411598
+"Heat exposure","Hazard overlay","Property-controller pathway (D2)","Authority and spatial control",0.785302629258999,FALSE,222,0.598302687411598
+"Drought or water scarcity","Hazard overlay","Property-controller pathway (D2)","Authority and spatial control",-11.3227829016094,TRUE,203,0.598302687411598
+"Biodiversity-loss objective","Hazard overlay","Property-controller pathway (D2)","Authority and spatial control",-5.79154395595374,FALSE,206,0.598302687411598
+"Dispersed x Owner-dominated","Frame cell","Tenant or collective route (D2)","Authority and spatial control",-6.81932873852489,TRUE,131,0.73015873015873
+"Intermediate x Renter-majority","Frame cell","Tenant or collective route (D2)","Authority and spatial control",-2.99335018257928,FALSE,73,0.73015873015873
+"Compact / vertical x Renter-majority","Frame cell","Tenant or collective route (D2)","Authority and spatial control",9.38268893370409,FALSE,57,0.73015873015873
+"Intermediate x Mixed tenure","Frame cell","Tenant or collective route (D2)","Authority and spatial control",-0.172819556520554,FALSE,110,0.73015873015873
+"Dispersed x Mixed tenure","Frame cell","Tenant or collective route (D2)","Authority and spatial control",-3.33421449468774,FALSE,149,0.73015873015873
+"Intermediate x Owner-dominated","Frame cell","Tenant or collective route (D2)","Authority and spatial control",1.72122761528017,FALSE,67,0.73015873015873
+"Compact / vertical x Mixed tenure","Frame cell","Tenant or collective route (D2)","Authority and spatial control",12.2231263860139,TRUE,46,0.73015873015873
+"Dispersed x Renter-majority","Frame cell","Tenant or collective route (D2)","Authority and spatial control",-0.241893350116018,FALSE,44,0.73015873015873
+"Compact / vertical x Owner-dominated","Frame cell","Tenant or collective route (D2)","Authority and spatial control",11.5466185249555,FALSE,12,0.73015873015873
+"Flood or stormwater exposure","Hazard overlay","Tenant or collective route (D2)","Authority and spatial control",-0.0902589931360276,FALSE,486,0.73015873015873
+"Heat exposure","Hazard overlay","Tenant or collective route (D2)","Authority and spatial control",5.50182437552758,FALSE,218,0.73015873015873
+"Drought or water scarcity","Hazard overlay","Tenant or collective route (D2)","Authority and spatial control",2.67879723365491,FALSE,201,0.73015873015873
+"Biodiversity-loss objective","Hazard overlay","Tenant or collective route (D2)","Authority and spatial control",2.28009054706235,FALSE,204,0.73015873015873
+"Dispersed x Owner-dominated","Frame cell","Measure-specific technical requirements met (D3a)","Physical and technical setting",1.23507237019556,FALSE,136,0.561877667140825
+"Intermediate x Renter-majority","Frame cell","Measure-specific technical requirements met (D3a)","Physical and technical setting",5.18844929224374,FALSE,74,0.561877667140825
+"Compact / vertical x Renter-majority","Frame cell","Measure-specific technical requirements met (D3a)","Physical and technical setting",6.51220552420035,FALSE,57,0.561877667140825
+"Intermediate x Mixed tenure","Frame cell","Measure-specific technical requirements met (D3a)","Physical and technical setting",-3.51442387634655,FALSE,113,0.561877667140825
+"Dispersed x Mixed tenure","Frame cell","Measure-specific technical requirements met (D3a)","Physical and technical setting",-3.93124126026412,FALSE,149,0.561877667140825
+"Intermediate x Owner-dominated","Frame cell","Measure-specific technical requirements met (D3a)","Physical and technical setting",-8.30579511072184,FALSE,66,0.561877667140825
+"Compact / vertical x Mixed tenure","Frame cell","Measure-specific technical requirements met (D3a)","Physical and technical setting",9.91245880980371,FALSE,47,0.561877667140825
+"Dispersed x Renter-majority","Frame cell","Measure-specific technical requirements met (D3a)","Physical and technical setting",-7.14176394380713,FALSE,44,0.561877667140825
+"Compact / vertical x Owner-dominated","Frame cell","Measure-specific technical requirements met (D3a)","Physical and technical setting",17.6679127689986,FALSE,12,0.561877667140825
+"Flood or stormwater exposure","Hazard overlay","Measure-specific technical requirements met (D3a)","Physical and technical setting",0.297177988380926,FALSE,497,0.561877667140825
+"Heat exposure","Hazard overlay","Measure-specific technical requirements met (D3a)","Physical and technical setting",-12.4616993281828,FALSE,219,0.561877667140825
+"Drought or water scarcity","Hazard overlay","Measure-specific technical requirements met (D3a)","Physical and technical setting",0.0313504674732901,FALSE,202,0.561877667140825
+"Biodiversity-loss objective","Hazard overlay","Measure-specific technical requirements met (D3a)","Physical and technical setting",-14.5328303219295,FALSE,205,0.561877667140825
+"Dispersed x Owner-dominated","Frame cell","Administrative guidance (D3c)","Physical and technical setting",-9.1130102863065,TRUE,132,0.353025936599424
+"Intermediate x Renter-majority","Frame cell","Administrative guidance (D3c)","Physical and technical setting",3.91680837457586,FALSE,73,0.353025936599424
+"Compact / vertical x Renter-majority","Frame cell","Administrative guidance (D3c)","Physical and technical setting",1.79639164280466,FALSE,57,0.353025936599424
+"Intermediate x Mixed tenure","Frame cell","Administrative guidance (D3c)","Physical and technical setting",5.97375414290253,TRUE,111,0.353025936599424
+"Dispersed x Mixed tenure","Frame cell","Administrative guidance (D3c)","Physical and technical setting",-6.14499021190286,TRUE,149,0.353025936599424
+"Intermediate x Owner-dominated","Frame cell","Administrative guidance (D3c)","Physical and technical setting",6.08962125644816,FALSE,66,0.353025936599424
+"Compact / vertical x Mixed tenure","Frame cell","Administrative guidance (D3c)","Physical and technical setting",8.83493916475042,TRUE,45,0.353025936599424
+"Dispersed x Renter-majority","Frame cell","Administrative guidance (D3c)","Physical and technical setting",-0.935168233954742,FALSE,44,0.353025936599424
+"Compact / vertical x Owner-dominated","Frame cell","Administrative guidance (D3c)","Physical and technical setting",5.66623464037468,FALSE,12,0.353025936599424
+"Flood or stormwater exposure","Hazard overlay","Administrative guidance (D3c)","Physical and technical setting",-1.40949566744571,FALSE,490,0.353025936599424
+"Heat exposure","Hazard overlay","Administrative guidance (D3c)","Physical and technical setting",3.02195619103708,FALSE,219,0.353025936599424
+"Drought or water scarcity","Hazard overlay","Administrative guidance (D3c)","Physical and technical setting",-3.19494465627405,FALSE,199,0.353025936599424
+"Biodiversity-loss objective","Hazard overlay","Administrative guidance (D3c)","Physical and technical setting",5.41066429653326,FALSE,202,0.353025936599424
+"Dispersed x Owner-dominated","Frame cell","Hazard-responsive portfolio (D1)","Environmental demand",-0.778218717855461,FALSE,136,0.965860597439545
+"Intermediate x Renter-majority","Frame cell","Hazard-responsive portfolio (D1)","Environmental demand",0.657909583004934,FALSE,74,0.965860597439545
+"Compact / vertical x Renter-majority","Frame cell","Hazard-responsive portfolio (D1)","Environmental demand",-3.45291635187603,FALSE,57,0.965860597439545
+"Intermediate x Mixed tenure","Frame cell","Hazard-responsive portfolio (D1)","Environmental demand",2.87917711797179,FALSE,113,0.965860597439545
+"Dispersed x Mixed tenure","Frame cell","Hazard-responsive portfolio (D1)","Environmental demand",-0.846895834578154,FALSE,149,0.965860597439545
+"Intermediate x Owner-dominated","Frame cell","Hazard-responsive portfolio (D1)","Environmental demand",-4.37116882649758,FALSE,66,0.965860597439545
+"Compact / vertical x Mixed tenure","Frame cell","Hazard-responsive portfolio (D1)","Environmental demand",NA,NA,47,0.965860597439545
+"Dispersed x Renter-majority","Frame cell","Hazard-responsive portfolio (D1)","Environmental demand",2.39952212799001,FALSE,44,0.965860597439545
+"Compact / vertical x Owner-dominated","Frame cell","Hazard-responsive portfolio (D1)","Environmental demand",-4.89932061134381,FALSE,12,0.965860597439545
+"Flood or stormwater exposure","Hazard overlay","Hazard-responsive portfolio (D1)","Environmental demand",0.339651677253783,FALSE,497,0.965860597439545
+"Heat exposure","Hazard overlay","Hazard-responsive portfolio (D1)","Environmental demand",-0.840306122384471,FALSE,219,0.965860597439545
+"Drought or water scarcity","Hazard overlay","Hazard-responsive portfolio (D1)","Environmental demand",0.29377264656838,FALSE,202,0.965860597439545
+"Biodiversity-loss objective","Hazard overlay","Hazard-responsive portfolio (D1)","Environmental demand",-3.00191381399384,FALSE,205,0.965860597439545
+"Dispersed x Owner-dominated","Frame cell","Maintenance responsibility and support (D4a)","Post-installation and learning",-9.3191796768532,TRUE,136,0.1004243281471
+"Intermediate x Renter-majority","Frame cell","Maintenance responsibility and support (D4a)","Post-installation and learning",-1.06376765198672,FALSE,74,0.1004243281471
+"Compact / vertical x Renter-majority","Frame cell","Maintenance responsibility and support (D4a)","Post-installation and learning",1.97298545428192,FALSE,59,0.1004243281471
+"Intermediate x Mixed tenure","Frame cell","Maintenance responsibility and support (D4a)","Post-installation and learning",5.65434099625001,TRUE,113,0.1004243281471
+"Dispersed x Mixed tenure","Frame cell","Maintenance responsibility and support (D4a)","Post-installation and learning",1.25673996741552,FALSE,150,0.1004243281471
+"Intermediate x Owner-dominated","Frame cell","Maintenance responsibility and support (D4a)","Post-installation and learning",-1.4085620556988,FALSE,67,0.1004243281471
+"Compact / vertical x Mixed tenure","Frame cell","Maintenance responsibility and support (D4a)","Post-installation and learning",-2.8254366218741,FALSE,47,0.1004243281471
+"Dispersed x Renter-majority","Frame cell","Maintenance responsibility and support (D4a)","Post-installation and learning",5.26761434626556,FALSE,44,0.1004243281471
+"Compact / vertical x Owner-dominated","Frame cell","Maintenance responsibility and support (D4a)","Post-installation and learning",NA,NA,12,0.1004243281471
+"Flood or stormwater exposure","Hazard overlay","Maintenance responsibility and support (D4a)","Post-installation and learning",0.22729839012619,FALSE,499,0.1004243281471
+"Heat exposure","Hazard overlay","Maintenance responsibility and support (D4a)","Post-installation and learning",-0.374966843594297,FALSE,222,0.1004243281471
+"Drought or water scarcity","Hazard overlay","Maintenance responsibility and support (D4a)","Post-installation and learning",2.59368802614473,FALSE,203,0.1004243281471
+"Biodiversity-loss objective","Hazard overlay","Maintenance responsibility and support (D4a)","Post-installation and learning",10.1033176562121,TRUE,206,0.1004243281471
+"Dispersed x Owner-dominated","Frame cell","Monitoring, feedback and review (D4b)","Post-installation and learning",-4.0505997461808,FALSE,136,0.241867043847242
+"Intermediate x Renter-majority","Frame cell","Monitoring, feedback and review (D4b)","Post-installation and learning",10.3759831497689,FALSE,74,0.241867043847242
+"Compact / vertical x Renter-majority","Frame cell","Monitoring, feedback and review (D4b)","Post-installation and learning",8.82079343974915,TRUE,59,0.241867043847242
+"Intermediate x Mixed tenure","Frame cell","Monitoring, feedback and review (D4b)","Post-installation and learning",-3.92925957615466,FALSE,113,0.241867043847242
+"Dispersed x Mixed tenure","Frame cell","Monitoring, feedback and review (D4b)","Post-installation and learning",-7.20808601604477,TRUE,150,0.241867043847242
+"Intermediate x Owner-dominated","Frame cell","Monitoring, feedback and review (D4b)","Post-installation and learning",-0.257501771488577,FALSE,67,0.241867043847242
+"Compact / vertical x Mixed tenure","Frame cell","Monitoring, feedback and review (D4b)","Post-installation and learning",29.586059093343,TRUE,47,0.241867043847242
+"Dispersed x Renter-majority","Frame cell","Monitoring, feedback and review (D4b)","Post-installation and learning",-20.356432454473,FALSE,44,0.241867043847242
+"Compact / vertical x Owner-dominated","Frame cell","Monitoring, feedback and review (D4b)","Post-installation and learning",12.1358377870707,FALSE,12,0.241867043847242
+"Flood or stormwater exposure","Hazard overlay","Monitoring, feedback and review (D4b)","Post-installation and learning",-1.05349400354123,FALSE,499,0.241867043847242
+"Heat exposure","Hazard overlay","Monitoring, feedback and review (D4b)","Post-installation and learning",6.75259917121077,FALSE,222,0.241867043847242
+"Drought or water scarcity","Hazard overlay","Monitoring, feedback and review (D4b)","Post-installation and learning",-6.47551615750371,TRUE,203,0.241867043847242
+"Biodiversity-loss objective","Hazard overlay","Monitoring, feedback and review (D4b)","Post-installation and learning",9.93021374560567,TRUE,206,0.241867043847242

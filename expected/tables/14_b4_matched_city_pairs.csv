@@ -1,0 +1,43 @@
+"group","side","city","country_mod","renter_pct","dim","on"
+"Compact, renter-majority cities","Opens a route its context predicts it would not","Rennes","France",64.3,"Building-integrated measures",FALSE
+"Compact, renter-majority cities","Stays owner-bound despite the same context","Frederiksberg","Other (pooled)",76,"Building-integrated measures",FALSE
+"Dispersed, owner-dominated cities","Opens a route its context predicts it would not","Kanuma","Japan",22.91736088,"Building-integrated measures",FALSE
+"Dispersed, owner-dominated cities","Stays owner-bound despite the same context","Blumenau","Other (pooled)",30,"Building-integrated measures",TRUE
+"Water-exposed cities","Opens a route its context predicts it would not","Miyakonojō","Japan",31.53824443,"Building-integrated measures",FALSE
+"Water-exposed cities","Stays owner-bound despite the same context","Copenhagen","Other (pooled)",59,"Building-integrated measures",TRUE
+"Compact, renter-majority cities","Opens a route its context predicts it would not","Rennes","France",64.3,"Controller route (C-9/11/15)",TRUE
+"Compact, renter-majority cities","Stays owner-bound despite the same context","Frederiksberg","Other (pooled)",76,"Controller route (C-9/11/15)",FALSE
+"Dispersed, owner-dominated cities","Opens a route its context predicts it would not","Kanuma","Japan",22.91736088,"Controller route (C-9/11/15)",TRUE
+"Dispersed, owner-dominated cities","Stays owner-bound despite the same context","Blumenau","Other (pooled)",30,"Controller route (C-9/11/15)",FALSE
+"Water-exposed cities","Opens a route its context predicts it would not","Miyakonojō","Japan",31.53824443,"Controller route (C-9/11/15)",TRUE
+"Water-exposed cities","Stays owner-bound despite the same context","Copenhagen","Other (pooled)",59,"Controller route (C-9/11/15)",TRUE
+"Compact, renter-majority cities","Opens a route its context predicts it would not","Rennes","France",64.3,"Direct tenant route (C-10)",FALSE
+"Compact, renter-majority cities","Stays owner-bound despite the same context","Frederiksberg","Other (pooled)",76,"Direct tenant route (C-10)",FALSE
+"Dispersed, owner-dominated cities","Opens a route its context predicts it would not","Kanuma","Japan",22.91736088,"Direct tenant route (C-10)",TRUE
+"Dispersed, owner-dominated cities","Stays owner-bound despite the same context","Blumenau","Other (pooled)",30,"Direct tenant route (C-10)",FALSE
+"Water-exposed cities","Opens a route its context predicts it would not","Miyakonojō","Japan",31.53824443,"Direct tenant route (C-10)",FALSE
+"Water-exposed cities","Stays owner-bound despite the same context","Copenhagen","Other (pooled)",59,"Direct tenant route (C-10)",FALSE
+"Compact, renter-majority cities","Opens a route its context predicts it would not","Rennes","France",64.3,"Standards or advice (C-5/E-13)",TRUE
+"Compact, renter-majority cities","Stays owner-bound despite the same context","Frederiksberg","Other (pooled)",76,"Standards or advice (C-5/E-13)",TRUE
+"Dispersed, owner-dominated cities","Opens a route its context predicts it would not","Kanuma","Japan",22.91736088,"Standards or advice (C-5/E-13)",TRUE
+"Dispersed, owner-dominated cities","Stays owner-bound despite the same context","Blumenau","Other (pooled)",30,"Standards or advice (C-5/E-13)",TRUE
+"Water-exposed cities","Opens a route its context predicts it would not","Miyakonojō","Japan",31.53824443,"Standards or advice (C-5/E-13)",TRUE
+"Water-exposed cities","Stays owner-bound despite the same context","Copenhagen","Other (pooled)",59,"Standards or advice (C-5/E-13)",TRUE
+"Compact, renter-majority cities","Opens a route its context predicts it would not","Rennes","France",64.3,"No pre-financing (E-22)",FALSE
+"Compact, renter-majority cities","Stays owner-bound despite the same context","Frederiksberg","Other (pooled)",76,"No pre-financing (E-22)",FALSE
+"Dispersed, owner-dominated cities","Opens a route its context predicts it would not","Kanuma","Japan",22.91736088,"No pre-financing (E-22)",FALSE
+"Dispersed, owner-dominated cities","Stays owner-bound despite the same context","Blumenau","Other (pooled)",30,"No pre-financing (E-22)",FALSE
+"Water-exposed cities","Opens a route its context predicts it would not","Miyakonojō","Japan",31.53824443,"No pre-financing (E-22)",FALSE
+"Water-exposed cities","Stays owner-bound despite the same context","Copenhagen","Other (pooled)",59,"No pre-financing (E-22)",TRUE
+"Compact, renter-majority cities","Opens a route its context predicts it would not","Rennes","France",64.3,"Maintenance support (E-15..18)",FALSE
+"Compact, renter-majority cities","Stays owner-bound despite the same context","Frederiksberg","Other (pooled)",76,"Maintenance support (E-15..18)",TRUE
+"Dispersed, owner-dominated cities","Opens a route its context predicts it would not","Kanuma","Japan",22.91736088,"Maintenance support (E-15..18)",FALSE
+"Dispersed, owner-dominated cities","Stays owner-bound despite the same context","Blumenau","Other (pooled)",30,"Maintenance support (E-15..18)",FALSE
+"Water-exposed cities","Opens a route its context predicts it would not","Miyakonojō","Japan",31.53824443,"Maintenance support (E-15..18)",FALSE
+"Water-exposed cities","Stays owner-bound despite the same context","Copenhagen","Other (pooled)",59,"Maintenance support (E-15..18)",TRUE
+"Compact, renter-majority cities","Opens a route its context predicts it would not","Rennes","France",64.3,"Indicators or review (F-1/F-3)",FALSE
+"Compact, renter-majority cities","Stays owner-bound despite the same context","Frederiksberg","Other (pooled)",76,"Indicators or review (F-1/F-3)",FALSE
+"Dispersed, owner-dominated cities","Opens a route its context predicts it would not","Kanuma","Japan",22.91736088,"Indicators or review (F-1/F-3)",FALSE
+"Dispersed, owner-dominated cities","Stays owner-bound despite the same context","Blumenau","Other (pooled)",30,"Indicators or review (F-1/F-3)",FALSE
+"Water-exposed cities","Opens a route its context predicts it would not","Miyakonojō","Japan",31.53824443,"Indicators or review (F-1/F-3)",FALSE
+"Water-exposed cities","Stays owner-bound despite the same context","Copenhagen","Other (pooled)",59,"Indicators or review (F-1/F-3)",FALSE

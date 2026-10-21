@@ -1,0 +1,141 @@
+"typology_k","n","block","item","p"
+"Class 1",271,"Bare variables quoted in section 3.4","Grant instrument (i_grant)",0.837638376383764
+"Class 1",271,"Bare variables quoted in section 3.4","Post-installation support (st_support)",0.586715867158672
+"Class 1",271,"Bare variables quoted in section 3.4","Technical standards (r_standards, C-5)",0.774907749077491
+"Class 1",271,"Bare variables quoted in section 3.4","Tenant-direct eligibility (el_tenant_direct)",0.0922509225092251
+"Class 1",271,"D1 Hazards addressed","Biodiversity loss",0.487084870848708
+"Class 1",271,"D1 Hazards addressed","Drought",0.321033210332103
+"Class 1",271,"D1 Hazards addressed","Floods",0.870848708487085
+"Class 1",271,"D1 Hazards addressed","Heat",0.40590405904059
+"Class 1",271,"D1 Measure portfolio","High demand (building-integrated)",0.542435424354244
+"Class 1",271,"D1 Measure portfolio","Low demand (standardised)",0.763837638376384
+"Class 1",271,"D1 Measure portfolio","Medium demand (ground-modifying)",0.664206642066421
+"Class 1",271,"D2 Eligible actors","Co-ops or HOAs (C-11)",0.416974169741697
+"Class 1",271,"D2 Eligible actors","Homeowners (C-8)",0.944649446494465
+"Class 1",271,"D2 Eligible actors","Informal groups (C-16)",0.118081180811808
+"Class 1",271,"D2 Eligible actors","Landlords (C-9)",0.627306273062731
+"Class 1",271,"D2 Eligible actors","Social housing (C-15)",0.177121771217712
+"Class 1",271,"D2 Eligible actors","Tenants directly (C-10)",0.0922509225092251
+"Class 1",271,"D3a Technical enablement","Regulatory support",0.011070110701107
+"Class 1",271,"D3a Technical enablement","Technical advice or standards",0.992619926199262
+"Class 1",271,"D3b Financial accessibility","Behavioural recognition",0.154981549815498
+"Class 1",271,"D3b Financial accessibility","Capital grant or loan",0.837638376383764
+"Class 1",271,"D3b Financial accessibility","Material or in-kind provision",0.0664206642066421
+"Class 1",271,"D3b Financial accessibility","Tax or fee rebate",0.173431734317343
+"Class 1",271,"D3c Administrative access","Accessible forms (D-3)",0.977859778597786
+"Class 1",271,"D3c Administrative access","Applicant guide (D-1)",0.996309963099631
+"Class 1",271,"D3c Administrative access","Co-design (D-6)",0.0996309963099631
+"Class 1",271,"D3c Administrative access","Decision timeline (D-2)",0.723247232472325
+"Class 1",271,"D3c Administrative access","Multilingual materials (D-5)",0.0885608856088561
+"Class 1",271,"D3c Administrative access","Two or more channels (D-4)",0.512915129151292
+"Class 1",271,"D4a Maintenance support","Binding condition (E-17)",0.623616236162362
+"Class 1",271,"D4a Maintenance support","Maintenance support (E-15..18)",0.586715867158672
+"Class 1",271,"D4a Maintenance support","Responsibility named (F-5)",0.693726937269373
+"Class 1",271,"D4b Monitoring and review","Feedback channel (F-4)",0.752767527675277
+"Class 1",271,"D4b Monitoring and review","Indicators published (F-1/F-2)",0.284132841328413
+"Class 1",271,"D4b Monitoring and review","Periodic review (F-3)",0.0848708487084871
+"Class 2",122,"Bare variables quoted in section 3.4","Grant instrument (i_grant)",0.926229508196721
+"Class 2",122,"Bare variables quoted in section 3.4","Post-installation support (st_support)",0.139344262295082
+"Class 2",122,"Bare variables quoted in section 3.4","Technical standards (r_standards, C-5)",0.69672131147541
+"Class 2",122,"Bare variables quoted in section 3.4","Tenant-direct eligibility (el_tenant_direct)",0.122950819672131
+"Class 2",122,"D1 Hazards addressed","Biodiversity loss",0.254098360655738
+"Class 2",122,"D1 Hazards addressed","Drought",0.524590163934426
+"Class 2",122,"D1 Hazards addressed","Floods",0.704918032786885
+"Class 2",122,"D1 Hazards addressed","Heat",0.229508196721311
+"Class 2",122,"D1 Measure portfolio","High demand (building-integrated)",0.295081967213115
+"Class 2",122,"D1 Measure portfolio","Low demand (standardised)",0.844262295081967
+"Class 2",122,"D1 Measure portfolio","Medium demand (ground-modifying)",0.39344262295082
+"Class 2",122,"D2 Eligible actors","Co-ops or HOAs (C-11)",0.295081967213115
+"Class 2",122,"D2 Eligible actors","Homeowners (C-8)",0.950819672131147
+"Class 2",122,"D2 Eligible actors","Informal groups (C-16)",0.0245901639344262
+"Class 2",122,"D2 Eligible actors","Landlords (C-9)",0.450819672131148
+"Class 2",122,"D2 Eligible actors","Social housing (C-15)",0.131147540983607
+"Class 2",122,"D2 Eligible actors","Tenants directly (C-10)",0.122950819672131
+"Class 2",122,"D3a Technical enablement","Regulatory support",0
+"Class 2",122,"D3a Technical enablement","Technical advice or standards",0.69672131147541
+"Class 2",122,"D3b Financial accessibility","Behavioural recognition",0.0491803278688525
+"Class 2",122,"D3b Financial accessibility","Capital grant or loan",0.926229508196721
+"Class 2",122,"D3b Financial accessibility","Material or in-kind provision",0.00819672131147541
+"Class 2",122,"D3b Financial accessibility","Tax or fee rebate",0.0737704918032787
+"Class 2",122,"D3c Administrative access","Accessible forms (D-3)",0.934426229508197
+"Class 2",122,"D3c Administrative access","Applicant guide (D-1)",0.967213114754098
+"Class 2",122,"D3c Administrative access","Co-design (D-6)",0.0163934426229508
+"Class 2",122,"D3c Administrative access","Decision timeline (D-2)",0.614754098360656
+"Class 2",122,"D3c Administrative access","Multilingual materials (D-5)",0.0491803278688525
+"Class 2",122,"D3c Administrative access","Two or more channels (D-4)",0.401639344262295
+"Class 2",122,"D4a Maintenance support","Binding condition (E-17)",0.418032786885246
+"Class 2",122,"D4a Maintenance support","Maintenance support (E-15..18)",0.139344262295082
+"Class 2",122,"D4a Maintenance support","Responsibility named (F-5)",0.450819672131148
+"Class 2",122,"D4b Monitoring and review","Feedback channel (F-4)",0.69672131147541
+"Class 2",122,"D4b Monitoring and review","Indicators published (F-1/F-2)",0.204918032786885
+"Class 2",122,"D4b Monitoring and review","Periodic review (F-3)",0.0655737704918033
+"Class 3",198,"Bare variables quoted in section 3.4","Grant instrument (i_grant)",0.858585858585859
+"Class 3",198,"Bare variables quoted in section 3.4","Post-installation support (st_support)",0.565656565656566
+"Class 3",198,"Bare variables quoted in section 3.4","Technical standards (r_standards, C-5)",0.757575757575758
+"Class 3",198,"Bare variables quoted in section 3.4","Tenant-direct eligibility (el_tenant_direct)",0.0707070707070707
+"Class 3",198,"D1 Hazards addressed","Biodiversity loss",0.161616161616162
+"Class 3",198,"D1 Hazards addressed","Drought",0.787878787878788
+"Class 3",198,"D1 Hazards addressed","Floods",0.545454545454545
+"Class 3",198,"D1 Hazards addressed","Heat",0.111111111111111
+"Class 3",198,"D1 Measure portfolio","High demand (building-integrated)",0.0555555555555556
+"Class 3",198,"D1 Measure portfolio","Low demand (standardised)",0.873737373737374
+"Class 3",198,"D1 Measure portfolio","Medium demand (ground-modifying)",0.424242424242424
+"Class 3",198,"D2 Eligible actors","Co-ops or HOAs (C-11)",0.186868686868687
+"Class 3",198,"D2 Eligible actors","Homeowners (C-8)",0.944444444444444
+"Class 3",198,"D2 Eligible actors","Informal groups (C-16)",0.0202020202020202
+"Class 3",198,"D2 Eligible actors","Landlords (C-9)",0.419191919191919
+"Class 3",198,"D2 Eligible actors","Social housing (C-15)",0.0151515151515152
+"Class 3",198,"D2 Eligible actors","Tenants directly (C-10)",0.0707070707070707
+"Class 3",198,"D3a Technical enablement","Regulatory support",0.0202020202020202
+"Class 3",198,"D3a Technical enablement","Technical advice or standards",1
+"Class 3",198,"D3b Financial accessibility","Behavioural recognition",0.0606060606060606
+"Class 3",198,"D3b Financial accessibility","Capital grant or loan",0.858585858585859
+"Class 3",198,"D3b Financial accessibility","Material or in-kind provision",0.0606060606060606
+"Class 3",198,"D3b Financial accessibility","Tax or fee rebate",0.0808080808080808
+"Class 3",198,"D3c Administrative access","Accessible forms (D-3)",0.939393939393939
+"Class 3",198,"D3c Administrative access","Applicant guide (D-1)",0.964646464646465
+"Class 3",198,"D3c Administrative access","Co-design (D-6)",0.0202020202020202
+"Class 3",198,"D3c Administrative access","Decision timeline (D-2)",0.671717171717172
+"Class 3",198,"D3c Administrative access","Multilingual materials (D-5)",0.141414141414141
+"Class 3",198,"D3c Administrative access","Two or more channels (D-4)",0.454545454545455
+"Class 3",198,"D4a Maintenance support","Binding condition (E-17)",0.227272727272727
+"Class 3",198,"D4a Maintenance support","Maintenance support (E-15..18)",0.565656565656566
+"Class 3",198,"D4a Maintenance support","Responsibility named (F-5)",0.242424242424242
+"Class 3",198,"D4b Monitoring and review","Feedback channel (F-4)",0.787878787878788
+"Class 3",198,"D4b Monitoring and review","Indicators published (F-1/F-2)",0.146464646464646
+"Class 3",198,"D4b Monitoring and review","Periodic review (F-3)",0.0101010101010101
+"Class 4",82,"Bare variables quoted in section 3.4","Grant instrument (i_grant)",0.0731707317073171
+"Class 4",82,"Bare variables quoted in section 3.4","Post-installation support (st_support)",0.573170731707317
+"Class 4",82,"Bare variables quoted in section 3.4","Technical standards (r_standards, C-5)",0.182926829268293
+"Class 4",82,"Bare variables quoted in section 3.4","Tenant-direct eligibility (el_tenant_direct)",0.475609756097561
+"Class 4",82,"D1 Hazards addressed","Biodiversity loss",0.0365853658536585
+"Class 4",82,"D1 Hazards addressed","Drought",0.853658536585366
+"Class 4",82,"D1 Hazards addressed","Floods",0.792682926829268
+"Class 4",82,"D1 Hazards addressed","Heat",0.024390243902439
+"Class 4",82,"D1 Measure portfolio","High demand (building-integrated)",0
+"Class 4",82,"D1 Measure portfolio","Low demand (standardised)",1
+"Class 4",82,"D1 Measure portfolio","Medium demand (ground-modifying)",0.0121951219512195
+"Class 4",82,"D2 Eligible actors","Co-ops or HOAs (C-11)",0.121951219512195
+"Class 4",82,"D2 Eligible actors","Homeowners (C-8)",0.975609756097561
+"Class 4",82,"D2 Eligible actors","Informal groups (C-16)",0
+"Class 4",82,"D2 Eligible actors","Landlords (C-9)",0.24390243902439
+"Class 4",82,"D2 Eligible actors","Social housing (C-15)",0
+"Class 4",82,"D2 Eligible actors","Tenants directly (C-10)",0.475609756097561
+"Class 4",82,"D3a Technical enablement","Regulatory support",0
+"Class 4",82,"D3a Technical enablement","Technical advice or standards",0.853658536585366
+"Class 4",82,"D3b Financial accessibility","Behavioural recognition",0.219512195121951
+"Class 4",82,"D3b Financial accessibility","Capital grant or loan",0.0731707317073171
+"Class 4",82,"D3b Financial accessibility","Material or in-kind provision",0.182926829268293
+"Class 4",82,"D3b Financial accessibility","Tax or fee rebate",0.024390243902439
+"Class 4",82,"D3c Administrative access","Accessible forms (D-3)",0.841463414634146
+"Class 4",82,"D3c Administrative access","Applicant guide (D-1)",0.914634146341463
+"Class 4",82,"D3c Administrative access","Co-design (D-6)",0.0121951219512195
+"Class 4",82,"D3c Administrative access","Decision timeline (D-2)",0.707317073170732
+"Class 4",82,"D3c Administrative access","Multilingual materials (D-5)",0.280487804878049
+"Class 4",82,"D3c Administrative access","Two or more channels (D-4)",0.451219512195122
+"Class 4",82,"D4a Maintenance support","Binding condition (E-17)",0.0853658536585366
+"Class 4",82,"D4a Maintenance support","Maintenance support (E-15..18)",0.573170731707317
+"Class 4",82,"D4a Maintenance support","Responsibility named (F-5)",0.414634146341463
+"Class 4",82,"D4b Monitoring and review","Feedback channel (F-4)",0.719512195121951
+"Class 4",82,"D4b Monitoring and review","Indicators published (F-1/F-2)",0.463414634146341
+"Class 4",82,"D4b Monitoring and review","Periodic review (F-3)",0.0121951219512195

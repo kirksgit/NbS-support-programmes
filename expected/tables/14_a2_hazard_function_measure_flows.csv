@@ -1,0 +1,45 @@
+"hazard","func","measure","tier","n"
+"Floods","Retention","Green roofs","High demand (building-integrated)",159
+"Floods","Cooling","Green facades","High demand (building-integrated)",96
+"Floods","Shading","Trees (pits)","Medium demand (ground-modifying)",99
+"Floods","Retention","Rain gardens","Medium demand (ground-modifying)",115
+"Floods","Retention","Garden ponds and swales","Medium demand (ground-modifying)",23
+"Floods","Infiltration","Infiltration systems","Medium demand (ground-modifying)",111
+"Floods","Infiltration","Depaving / permeable","Medium demand (ground-modifying)",146
+"Floods","Infiltration","Downspout disconnection (to a vegetated or infiltrating receiver)","Low demand (standardised)",61
+"Floods","Capture and storage","Rain barrels / cisterns","Low demand (standardised)",344
+"Floods","Habitat","Native / drought planting","Low demand (standardised)",77
+"Floods","Habitat","Turf replacement","Low demand (standardised)",33
+"Heat","Retention","Green roofs","High demand (building-integrated)",134
+"Heat","Cooling","Green facades","High demand (building-integrated)",94
+"Heat","Shading","Trees (pits)","Medium demand (ground-modifying)",58
+"Heat","Retention","Rain gardens","Medium demand (ground-modifying)",36
+"Heat","Retention","Garden ponds and swales","Medium demand (ground-modifying)",11
+"Heat","Infiltration","Infiltration systems","Medium demand (ground-modifying)",33
+"Heat","Infiltration","Depaving / permeable","Medium demand (ground-modifying)",82
+"Heat","Infiltration","Downspout disconnection (to a vegetated or infiltrating receiver)","Low demand (standardised)",23
+"Heat","Capture and storage","Rain barrels / cisterns","Low demand (standardised)",98
+"Heat","Habitat","Native / drought planting","Low demand (standardised)",51
+"Heat","Habitat","Turf replacement","Low demand (standardised)",31
+"Drought","Retention","Green roofs","High demand (building-integrated)",40
+"Drought","Cooling","Green facades","High demand (building-integrated)",23
+"Drought","Shading","Trees (pits)","Medium demand (ground-modifying)",58
+"Drought","Retention","Rain gardens","Medium demand (ground-modifying)",56
+"Drought","Retention","Garden ponds and swales","Medium demand (ground-modifying)",11
+"Drought","Infiltration","Infiltration systems","Medium demand (ground-modifying)",29
+"Drought","Infiltration","Depaving / permeable","Medium demand (ground-modifying)",64
+"Drought","Infiltration","Downspout disconnection (to a vegetated or infiltrating receiver)","Low demand (standardised)",20
+"Drought","Capture and storage","Rain barrels / cisterns","Low demand (standardised)",157
+"Drought","Habitat","Native / drought planting","Low demand (standardised)",67
+"Drought","Habitat","Turf replacement","Low demand (standardised)",64
+"Biodiversity loss","Retention","Green roofs","High demand (building-integrated)",113
+"Biodiversity loss","Cooling","Green facades","High demand (building-integrated)",92
+"Biodiversity loss","Shading","Trees (pits)","Medium demand (ground-modifying)",58
+"Biodiversity loss","Retention","Rain gardens","Medium demand (ground-modifying)",23
+"Biodiversity loss","Retention","Garden ponds and swales","Medium demand (ground-modifying)",3
+"Biodiversity loss","Infiltration","Infiltration systems","Medium demand (ground-modifying)",22
+"Biodiversity loss","Infiltration","Depaving / permeable","Medium demand (ground-modifying)",73
+"Biodiversity loss","Infiltration","Downspout disconnection (to a vegetated or infiltrating receiver)","Low demand (standardised)",16
+"Biodiversity loss","Capture and storage","Rain barrels / cisterns","Low demand (standardised)",57
+"Biodiversity loss","Habitat","Native / drought planting","Low demand (standardised)",30
+"Biodiversity loss","Habitat","Turf replacement","Low demand (standardised)",4

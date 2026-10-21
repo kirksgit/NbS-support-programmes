@@ -1,0 +1,6 @@
+"hazard","n_programmes","pct_corpus","sole_objective","lead_measure_1","lead_n_1","lead_measure_2","lead_n_2","lead_measure_3","lead_n_3"
+"haz_storm",512,72.4,150,"m_barrel",383,"m_depave",167,"m_greenroof",162
+"haz_heat",167,23.6,5,"m_greenroof",134,"m_facade",95,"m_depave",81
+"haz_drought",402,56.9,129,"m_barrel",325,"m_planting",102,"m_depave",96
+"haz_biodiv",206,29.1,17,"m_greenroof",131,"m_facade",102,"m_depave",98
+"two_or_more_hazards",400,56.6,NA,NA,NA,NA,NA,NA,NA

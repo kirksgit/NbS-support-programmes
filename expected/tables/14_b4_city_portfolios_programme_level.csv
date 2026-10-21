@@ -1,0 +1,289 @@
+"country_mod","city","programme","dim","covered","complementarity","n_prog","dup"
+"France","Lyon","Jardins de rue","Roof or facade measures",TRUE,0.888888888888889,3,0.529411764705882
+"Germany","Stuttgart","Stuttgarter Grünprogramm","Roof or facade measures",TRUE,0.777777777777778,2,0.416666666666667
+"Germany","Witten","Schwammstadt / ELKA-Förderung in Witten","Roof or facade measures",TRUE,0.777777777777778,2,0.461538461538462
+"United States","Chicago","MWRD Rain Barrel Program","Roof or facade measures",FALSE,0.666666666666667,1,0.5
+"United States","Chicago","MWRD Rain Barrel Program","Roof or facade measures",FALSE,0.666666666666667,1,0.5
+"United States","Lafayette","LUS/LCG Rain Barrel Program","Roof or facade measures",FALSE,0.666666666666667,2,0.25
+"United States","Lafayette","Rain Garden Rebate","Roof or facade measures",FALSE,0.666666666666667,2,0.25
+"United States","Lynchburg","Stormwater Utility Credit Program","Roof or facade measures",FALSE,0.777777777777778,2,0.222222222222222
+"United States","Peoria","Peoria Stormwater Utility Credits and Grants","Roof or facade measures",TRUE,0.888888888888889,2,0.384615384615385
+"United States","Peoria","Water Rebate Programs","Roof or facade measures",FALSE,0.888888888888889,2,0.384615384615385
+"United States","San Antonio","SAWS Rainwater Harvesting Program","Roof or facade measures",FALSE,0.555555555555556,2,0.375
+"United States","San Antonio","SAWS WaterSaver Landscape Coupon","Roof or facade measures",FALSE,0.555555555555556,2,0.375
+"United States","Springfield","CWLP Rain Barrel Rebate","Roof or facade measures",FALSE,0.555555555555556,3,0.545454545454545
+"United States","Springfield","Rain Barrels","Roof or facade measures",FALSE,0.555555555555556,3,0.545454545454545
+"United States","Springfield","Springfield Water and Sewer Commission Rain Barrel Program","Roof or facade measures",FALSE,0.555555555555556,3,0.545454545454545
+"United States","West Hollywood","Grass Replacement Rebate pathway","Roof or facade measures",FALSE,0.555555555555556,2,0.285714285714286
+"United States","West Hollywood","West Hollywood Rain Barrel Program","Roof or facade measures",FALSE,0.555555555555556,2,0.285714285714286
+"Germany","Stuttgart","Förderprogramm Urbane Gärten","Roof or facade measures",FALSE,0.777777777777778,2,0.416666666666667
+"Germany","Witten","Niederschlagswassergebühr: Gebührenminderung durch Entsiegelung, Abkopplung, Rückhaltung und Versickerung [Witten]","Roof or facade measures",FALSE,0.777777777777778,2,0.461538461538462
+"United States","Lynchburg","Rain Barrel Workshop Program","Roof or facade measures",FALSE,0.777777777777778,2,0.222222222222222
+"France","Lyon","Jardins partagés et initiatives d’agriculture urbaine","Roof or facade measures",FALSE,0.888888888888889,3,0.529411764705882
+"France","Lyon","Appel à projets Renaturons Lyon - chantiers participatifs et cogestion","Roof or facade measures",TRUE,0.888888888888889,3,0.529411764705882
+"France","Lyon","Jardins de rue","Ground or subsurface measures",TRUE,0.888888888888889,3,0.529411764705882
+"Germany","Stuttgart","Stuttgarter Grünprogramm","Ground or subsurface measures",TRUE,0.777777777777778,2,0.416666666666667
+"Germany","Witten","Schwammstadt / ELKA-Förderung in Witten","Ground or subsurface measures",TRUE,0.777777777777778,2,0.461538461538462
+"United States","Chicago","MWRD Rain Barrel Program","Ground or subsurface measures",FALSE,0.666666666666667,1,0.5
+"United States","Chicago","MWRD Rain Barrel Program","Ground or subsurface measures",FALSE,0.666666666666667,1,0.5
+"United States","Lafayette","LUS/LCG Rain Barrel Program","Ground or subsurface measures",FALSE,0.666666666666667,2,0.25
+"United States","Lafayette","Rain Garden Rebate","Ground or subsurface measures",TRUE,0.666666666666667,2,0.25
+"United States","Lynchburg","Stormwater Utility Credit Program","Ground or subsurface measures",TRUE,0.777777777777778,2,0.222222222222222
+"United States","Peoria","Peoria Stormwater Utility Credits and Grants","Ground or subsurface measures",TRUE,0.888888888888889,2,0.384615384615385
+"United States","Peoria","Water Rebate Programs","Ground or subsurface measures",FALSE,0.888888888888889,2,0.384615384615385
+"United States","San Antonio","SAWS Rainwater Harvesting Program","Ground or subsurface measures",TRUE,0.555555555555556,2,0.375
+"United States","San Antonio","SAWS WaterSaver Landscape Coupon","Ground or subsurface measures",FALSE,0.555555555555556,2,0.375
+"United States","Springfield","CWLP Rain Barrel Rebate","Ground or subsurface measures",FALSE,0.555555555555556,3,0.545454545454545
+"United States","Springfield","Rain Barrels","Ground or subsurface measures",FALSE,0.555555555555556,3,0.545454545454545
+"United States","Springfield","Springfield Water and Sewer Commission Rain Barrel Program","Ground or subsurface measures",FALSE,0.555555555555556,3,0.545454545454545
+"United States","West Hollywood","Grass Replacement Rebate pathway","Ground or subsurface measures",TRUE,0.555555555555556,2,0.285714285714286
+"United States","West Hollywood","West Hollywood Rain Barrel Program","Ground or subsurface measures",FALSE,0.555555555555556,2,0.285714285714286
+"Germany","Stuttgart","Förderprogramm Urbane Gärten","Ground or subsurface measures",TRUE,0.777777777777778,2,0.416666666666667
+"Germany","Witten","Niederschlagswassergebühr: Gebührenminderung durch Entsiegelung, Abkopplung, Rückhaltung und Versickerung [Witten]","Ground or subsurface measures",TRUE,0.777777777777778,2,0.461538461538462
+"United States","Lynchburg","Rain Barrel Workshop Program","Ground or subsurface measures",FALSE,0.777777777777778,2,0.222222222222222
+"France","Lyon","Jardins partagés et initiatives d’agriculture urbaine","Ground or subsurface measures",FALSE,0.888888888888889,3,0.529411764705882
+"France","Lyon","Appel à projets Renaturons Lyon - chantiers participatifs et cogestion","Ground or subsurface measures",TRUE,0.888888888888889,3,0.529411764705882
+"France","Lyon","Jardins de rue","Storage or trees",TRUE,0.888888888888889,3,0.529411764705882
+"Germany","Stuttgart","Stuttgarter Grünprogramm","Storage or trees",FALSE,0.777777777777778,2,0.416666666666667
+"Germany","Witten","Schwammstadt / ELKA-Förderung in Witten","Storage or trees",TRUE,0.777777777777778,2,0.461538461538462
+"United States","Chicago","MWRD Rain Barrel Program","Storage or trees",TRUE,0.666666666666667,1,0.5
+"United States","Chicago","MWRD Rain Barrel Program","Storage or trees",TRUE,0.666666666666667,1,0.5
+"United States","Lafayette","LUS/LCG Rain Barrel Program","Storage or trees",TRUE,0.666666666666667,2,0.25
+"United States","Lafayette","Rain Garden Rebate","Storage or trees",FALSE,0.666666666666667,2,0.25
+"United States","Lynchburg","Stormwater Utility Credit Program","Storage or trees",TRUE,0.777777777777778,2,0.222222222222222
+"United States","Peoria","Peoria Stormwater Utility Credits and Grants","Storage or trees",TRUE,0.888888888888889,2,0.384615384615385
+"United States","Peoria","Water Rebate Programs","Storage or trees",TRUE,0.888888888888889,2,0.384615384615385
+"United States","San Antonio","SAWS Rainwater Harvesting Program","Storage or trees",TRUE,0.555555555555556,2,0.375
+"United States","San Antonio","SAWS WaterSaver Landscape Coupon","Storage or trees",TRUE,0.555555555555556,2,0.375
+"United States","Springfield","CWLP Rain Barrel Rebate","Storage or trees",TRUE,0.555555555555556,3,0.545454545454545
+"United States","Springfield","Rain Barrels","Storage or trees",TRUE,0.555555555555556,3,0.545454545454545
+"United States","Springfield","Springfield Water and Sewer Commission Rain Barrel Program","Storage or trees",TRUE,0.555555555555556,3,0.545454545454545
+"United States","West Hollywood","Grass Replacement Rebate pathway","Storage or trees",TRUE,0.555555555555556,2,0.285714285714286
+"United States","West Hollywood","West Hollywood Rain Barrel Program","Storage or trees",TRUE,0.555555555555556,2,0.285714285714286
+"Germany","Stuttgart","Förderprogramm Urbane Gärten","Storage or trees",FALSE,0.777777777777778,2,0.416666666666667
+"Germany","Witten","Niederschlagswassergebühr: Gebührenminderung durch Entsiegelung, Abkopplung, Rückhaltung und Versickerung [Witten]","Storage or trees",TRUE,0.777777777777778,2,0.461538461538462
+"United States","Lynchburg","Rain Barrel Workshop Program","Storage or trees",TRUE,0.777777777777778,2,0.222222222222222
+"France","Lyon","Jardins partagés et initiatives d’agriculture urbaine","Storage or trees",FALSE,0.888888888888889,3,0.529411764705882
+"France","Lyon","Appel à projets Renaturons Lyon - chantiers participatifs et cogestion","Storage or trees",TRUE,0.888888888888889,3,0.529411764705882
+"France","Lyon","Jardins de rue","Controller route",FALSE,0.888888888888889,3,0.529411764705882
+"Germany","Stuttgart","Stuttgarter Grünprogramm","Controller route",TRUE,0.777777777777778,2,0.416666666666667
+"Germany","Witten","Schwammstadt / ELKA-Förderung in Witten","Controller route",TRUE,0.777777777777778,2,0.461538461538462
+"United States","Chicago","MWRD Rain Barrel Program","Controller route",TRUE,0.666666666666667,1,0.5
+"United States","Chicago","MWRD Rain Barrel Program","Controller route",TRUE,0.666666666666667,1,0.5
+"United States","Lafayette","LUS/LCG Rain Barrel Program","Controller route",TRUE,0.666666666666667,2,0.25
+"United States","Lafayette","Rain Garden Rebate","Controller route",FALSE,0.666666666666667,2,0.25
+"United States","Lynchburg","Stormwater Utility Credit Program","Controller route",TRUE,0.777777777777778,2,0.222222222222222
+"United States","Peoria","Peoria Stormwater Utility Credits and Grants","Controller route",TRUE,0.888888888888889,2,0.384615384615385
+"United States","Peoria","Water Rebate Programs","Controller route",TRUE,0.888888888888889,2,0.384615384615385
+"United States","San Antonio","SAWS Rainwater Harvesting Program","Controller route",FALSE,0.555555555555556,2,0.375
+"United States","San Antonio","SAWS WaterSaver Landscape Coupon","Controller route",FALSE,0.555555555555556,2,0.375
+"United States","Springfield","CWLP Rain Barrel Rebate","Controller route",FALSE,0.555555555555556,3,0.545454545454545
+"United States","Springfield","Rain Barrels","Controller route",TRUE,0.555555555555556,3,0.545454545454545
+"United States","Springfield","Springfield Water and Sewer Commission Rain Barrel Program","Controller route",FALSE,0.555555555555556,3,0.545454545454545
+"United States","West Hollywood","Grass Replacement Rebate pathway","Controller route",FALSE,0.555555555555556,2,0.285714285714286
+"United States","West Hollywood","West Hollywood Rain Barrel Program","Controller route",FALSE,0.555555555555556,2,0.285714285714286
+"Germany","Stuttgart","Förderprogramm Urbane Gärten","Controller route",TRUE,0.777777777777778,2,0.416666666666667
+"Germany","Witten","Niederschlagswassergebühr: Gebührenminderung durch Entsiegelung, Abkopplung, Rückhaltung und Versickerung [Witten]","Controller route",TRUE,0.777777777777778,2,0.461538461538462
+"United States","Lynchburg","Rain Barrel Workshop Program","Controller route",FALSE,0.777777777777778,2,0.222222222222222
+"France","Lyon","Jardins partagés et initiatives d’agriculture urbaine","Controller route",FALSE,0.888888888888889,3,0.529411764705882
+"France","Lyon","Appel à projets Renaturons Lyon - chantiers participatifs et cogestion","Controller route",FALSE,0.888888888888889,3,0.529411764705882
+"France","Lyon","Jardins de rue","Direct tenant route",FALSE,0.888888888888889,3,0.529411764705882
+"Germany","Stuttgart","Stuttgarter Grünprogramm","Direct tenant route",FALSE,0.777777777777778,2,0.416666666666667
+"Germany","Witten","Schwammstadt / ELKA-Förderung in Witten","Direct tenant route",FALSE,0.777777777777778,2,0.461538461538462
+"United States","Chicago","MWRD Rain Barrel Program","Direct tenant route",TRUE,0.666666666666667,1,0.5
+"United States","Chicago","MWRD Rain Barrel Program","Direct tenant route",TRUE,0.666666666666667,1,0.5
+"United States","Lafayette","LUS/LCG Rain Barrel Program","Direct tenant route",FALSE,0.666666666666667,2,0.25
+"United States","Lafayette","Rain Garden Rebate","Direct tenant route",FALSE,0.666666666666667,2,0.25
+"United States","Lynchburg","Stormwater Utility Credit Program","Direct tenant route",FALSE,0.777777777777778,2,0.222222222222222
+"United States","Peoria","Peoria Stormwater Utility Credits and Grants","Direct tenant route",FALSE,0.888888888888889,2,0.384615384615385
+"United States","Peoria","Water Rebate Programs","Direct tenant route",FALSE,0.888888888888889,2,0.384615384615385
+"United States","San Antonio","SAWS Rainwater Harvesting Program","Direct tenant route",FALSE,0.555555555555556,2,0.375
+"United States","San Antonio","SAWS WaterSaver Landscape Coupon","Direct tenant route",FALSE,0.555555555555556,2,0.375
+"United States","Springfield","CWLP Rain Barrel Rebate","Direct tenant route",FALSE,0.555555555555556,3,0.545454545454545
+"United States","Springfield","Rain Barrels","Direct tenant route",FALSE,0.555555555555556,3,0.545454545454545
+"United States","Springfield","Springfield Water and Sewer Commission Rain Barrel Program","Direct tenant route",FALSE,0.555555555555556,3,0.545454545454545
+"United States","West Hollywood","Grass Replacement Rebate pathway","Direct tenant route",FALSE,0.555555555555556,2,0.285714285714286
+"United States","West Hollywood","West Hollywood Rain Barrel Program","Direct tenant route",FALSE,0.555555555555556,2,0.285714285714286
+"Germany","Stuttgart","Förderprogramm Urbane Gärten","Direct tenant route",FALSE,0.777777777777778,2,0.416666666666667
+"Germany","Witten","Niederschlagswassergebühr: Gebührenminderung durch Entsiegelung, Abkopplung, Rückhaltung und Versickerung [Witten]","Direct tenant route",FALSE,0.777777777777778,2,0.461538461538462
+"United States","Lynchburg","Rain Barrel Workshop Program","Direct tenant route",FALSE,0.777777777777778,2,0.222222222222222
+"France","Lyon","Jardins partagés et initiatives d’agriculture urbaine","Direct tenant route",FALSE,0.888888888888889,3,0.529411764705882
+"France","Lyon","Appel à projets Renaturons Lyon - chantiers participatifs et cogestion","Direct tenant route",TRUE,0.888888888888889,3,0.529411764705882
+"France","Lyon","Jardins de rue","Financial instrument",FALSE,0.888888888888889,3,0.529411764705882
+"Germany","Stuttgart","Stuttgarter Grünprogramm","Financial instrument",TRUE,0.777777777777778,2,0.416666666666667
+"Germany","Witten","Schwammstadt / ELKA-Förderung in Witten","Financial instrument",TRUE,0.777777777777778,2,0.461538461538462
+"United States","Chicago","MWRD Rain Barrel Program","Financial instrument",FALSE,0.666666666666667,1,0.5
+"United States","Chicago","MWRD Rain Barrel Program","Financial instrument",FALSE,0.666666666666667,1,0.5
+"United States","Lafayette","LUS/LCG Rain Barrel Program","Financial instrument",FALSE,0.666666666666667,2,0.25
+"United States","Lafayette","Rain Garden Rebate","Financial instrument",TRUE,0.666666666666667,2,0.25
+"United States","Lynchburg","Stormwater Utility Credit Program","Financial instrument",TRUE,0.777777777777778,2,0.222222222222222
+"United States","Peoria","Peoria Stormwater Utility Credits and Grants","Financial instrument",TRUE,0.888888888888889,2,0.384615384615385
+"United States","Peoria","Water Rebate Programs","Financial instrument",TRUE,0.888888888888889,2,0.384615384615385
+"United States","San Antonio","SAWS Rainwater Harvesting Program","Financial instrument",TRUE,0.555555555555556,2,0.375
+"United States","San Antonio","SAWS WaterSaver Landscape Coupon","Financial instrument",FALSE,0.555555555555556,2,0.375
+"United States","Springfield","CWLP Rain Barrel Rebate","Financial instrument",TRUE,0.555555555555556,3,0.545454545454545
+"United States","Springfield","Rain Barrels","Financial instrument",TRUE,0.555555555555556,3,0.545454545454545
+"United States","Springfield","Springfield Water and Sewer Commission Rain Barrel Program","Financial instrument",FALSE,0.555555555555556,3,0.545454545454545
+"United States","West Hollywood","Grass Replacement Rebate pathway","Financial instrument",TRUE,0.555555555555556,2,0.285714285714286
+"United States","West Hollywood","West Hollywood Rain Barrel Program","Financial instrument",FALSE,0.555555555555556,2,0.285714285714286
+"Germany","Stuttgart","Förderprogramm Urbane Gärten","Financial instrument",TRUE,0.777777777777778,2,0.416666666666667
+"Germany","Witten","Niederschlagswassergebühr: Gebührenminderung durch Entsiegelung, Abkopplung, Rückhaltung und Versickerung [Witten]","Financial instrument",TRUE,0.777777777777778,2,0.461538461538462
+"United States","Lynchburg","Rain Barrel Workshop Program","Financial instrument",FALSE,0.777777777777778,2,0.222222222222222
+"France","Lyon","Jardins partagés et initiatives d’agriculture urbaine","Financial instrument",TRUE,0.888888888888889,3,0.529411764705882
+"France","Lyon","Appel à projets Renaturons Lyon - chantiers participatifs et cogestion","Financial instrument",FALSE,0.888888888888889,3,0.529411764705882
+"France","Lyon","Jardins de rue","Standards or advice",TRUE,0.888888888888889,3,0.529411764705882
+"Germany","Stuttgart","Stuttgarter Grünprogramm","Standards or advice",TRUE,0.777777777777778,2,0.416666666666667
+"Germany","Witten","Schwammstadt / ELKA-Förderung in Witten","Standards or advice",TRUE,0.777777777777778,2,0.461538461538462
+"United States","Chicago","MWRD Rain Barrel Program","Standards or advice",TRUE,0.666666666666667,1,0.5
+"United States","Chicago","MWRD Rain Barrel Program","Standards or advice",TRUE,0.666666666666667,1,0.5
+"United States","Lafayette","LUS/LCG Rain Barrel Program","Standards or advice",TRUE,0.666666666666667,2,0.25
+"United States","Lafayette","Rain Garden Rebate","Standards or advice",TRUE,0.666666666666667,2,0.25
+"United States","Lynchburg","Stormwater Utility Credit Program","Standards or advice",TRUE,0.777777777777778,2,0.222222222222222
+"United States","Peoria","Peoria Stormwater Utility Credits and Grants","Standards or advice",TRUE,0.888888888888889,2,0.384615384615385
+"United States","Peoria","Water Rebate Programs","Standards or advice",TRUE,0.888888888888889,2,0.384615384615385
+"United States","San Antonio","SAWS Rainwater Harvesting Program","Standards or advice",TRUE,0.555555555555556,2,0.375
+"United States","San Antonio","SAWS WaterSaver Landscape Coupon","Standards or advice",TRUE,0.555555555555556,2,0.375
+"United States","Springfield","CWLP Rain Barrel Rebate","Standards or advice",TRUE,0.555555555555556,3,0.545454545454545
+"United States","Springfield","Rain Barrels","Standards or advice",TRUE,0.555555555555556,3,0.545454545454545
+"United States","Springfield","Springfield Water and Sewer Commission Rain Barrel Program","Standards or advice",TRUE,0.555555555555556,3,0.545454545454545
+"United States","West Hollywood","Grass Replacement Rebate pathway","Standards or advice",TRUE,0.555555555555556,2,0.285714285714286
+"United States","West Hollywood","West Hollywood Rain Barrel Program","Standards or advice",TRUE,0.555555555555556,2,0.285714285714286
+"Germany","Stuttgart","Förderprogramm Urbane Gärten","Standards or advice",TRUE,0.777777777777778,2,0.416666666666667
+"Germany","Witten","Niederschlagswassergebühr: Gebührenminderung durch Entsiegelung, Abkopplung, Rückhaltung und Versickerung [Witten]","Standards or advice",TRUE,0.777777777777778,2,0.461538461538462
+"United States","Lynchburg","Rain Barrel Workshop Program","Standards or advice",FALSE,0.777777777777778,2,0.222222222222222
+"France","Lyon","Jardins partagés et initiatives d’agriculture urbaine","Standards or advice",TRUE,0.888888888888889,3,0.529411764705882
+"France","Lyon","Appel à projets Renaturons Lyon - chantiers participatifs et cogestion","Standards or advice",TRUE,0.888888888888889,3,0.529411764705882
+"France","Lyon","Jardins de rue","Maintenance support",TRUE,0.888888888888889,3,0.529411764705882
+"Germany","Stuttgart","Stuttgarter Grünprogramm","Maintenance support",FALSE,0.777777777777778,2,0.416666666666667
+"Germany","Witten","Schwammstadt / ELKA-Förderung in Witten","Maintenance support",TRUE,0.777777777777778,2,0.461538461538462
+"United States","Chicago","MWRD Rain Barrel Program","Maintenance support",TRUE,0.666666666666667,1,0.5
+"United States","Chicago","MWRD Rain Barrel Program","Maintenance support",TRUE,0.666666666666667,1,0.5
+"United States","Lafayette","LUS/LCG Rain Barrel Program","Maintenance support",TRUE,0.666666666666667,2,0.25
+"United States","Lafayette","Rain Garden Rebate","Maintenance support",TRUE,0.666666666666667,2,0.25
+"United States","Lynchburg","Stormwater Utility Credit Program","Maintenance support",FALSE,0.777777777777778,2,0.222222222222222
+"United States","Peoria","Peoria Stormwater Utility Credits and Grants","Maintenance support",TRUE,0.888888888888889,2,0.384615384615385
+"United States","Peoria","Water Rebate Programs","Maintenance support",TRUE,0.888888888888889,2,0.384615384615385
+"United States","San Antonio","SAWS Rainwater Harvesting Program","Maintenance support",TRUE,0.555555555555556,2,0.375
+"United States","San Antonio","SAWS WaterSaver Landscape Coupon","Maintenance support",TRUE,0.555555555555556,2,0.375
+"United States","Springfield","CWLP Rain Barrel Rebate","Maintenance support",TRUE,0.555555555555556,3,0.545454545454545
+"United States","Springfield","Rain Barrels","Maintenance support",TRUE,0.555555555555556,3,0.545454545454545
+"United States","Springfield","Springfield Water and Sewer Commission Rain Barrel Program","Maintenance support",FALSE,0.555555555555556,3,0.545454545454545
+"United States","West Hollywood","Grass Replacement Rebate pathway","Maintenance support",TRUE,0.555555555555556,2,0.285714285714286
+"United States","West Hollywood","West Hollywood Rain Barrel Program","Maintenance support",FALSE,0.555555555555556,2,0.285714285714286
+"Germany","Stuttgart","Förderprogramm Urbane Gärten","Maintenance support",TRUE,0.777777777777778,2,0.416666666666667
+"Germany","Witten","Niederschlagswassergebühr: Gebührenminderung durch Entsiegelung, Abkopplung, Rückhaltung und Versickerung [Witten]","Maintenance support",TRUE,0.777777777777778,2,0.461538461538462
+"United States","Lynchburg","Rain Barrel Workshop Program","Maintenance support",TRUE,0.777777777777778,2,0.222222222222222
+"France","Lyon","Jardins partagés et initiatives d’agriculture urbaine","Maintenance support",TRUE,0.888888888888889,3,0.529411764705882
+"France","Lyon","Appel à projets Renaturons Lyon - chantiers participatifs et cogestion","Maintenance support",TRUE,0.888888888888889,3,0.529411764705882
+"France","Lyon","Jardins de rue","Monitoring or review",TRUE,0.888888888888889,3,0.529411764705882
+"Germany","Stuttgart","Stuttgarter Grünprogramm","Monitoring or review",TRUE,0.777777777777778,2,0.416666666666667
+"Germany","Witten","Schwammstadt / ELKA-Förderung in Witten","Monitoring or review",FALSE,0.777777777777778,2,0.461538461538462
+"United States","Chicago","MWRD Rain Barrel Program","Monitoring or review",TRUE,0.666666666666667,1,0.5
+"United States","Chicago","MWRD Rain Barrel Program","Monitoring or review",TRUE,0.666666666666667,1,0.5
+"United States","Lafayette","LUS/LCG Rain Barrel Program","Monitoring or review",FALSE,0.666666666666667,2,0.25
+"United States","Lafayette","Rain Garden Rebate","Monitoring or review",FALSE,0.666666666666667,2,0.25
+"United States","Lynchburg","Stormwater Utility Credit Program","Monitoring or review",TRUE,0.777777777777778,2,0.222222222222222
+"United States","Peoria","Peoria Stormwater Utility Credits and Grants","Monitoring or review",TRUE,0.888888888888889,2,0.384615384615385
+"United States","Peoria","Water Rebate Programs","Monitoring or review",FALSE,0.888888888888889,2,0.384615384615385
+"United States","San Antonio","SAWS Rainwater Harvesting Program","Monitoring or review",FALSE,0.555555555555556,2,0.375
+"United States","San Antonio","SAWS WaterSaver Landscape Coupon","Monitoring or review",FALSE,0.555555555555556,2,0.375
+"United States","Springfield","CWLP Rain Barrel Rebate","Monitoring or review",FALSE,0.555555555555556,3,0.545454545454545
+"United States","Springfield","Rain Barrels","Monitoring or review",FALSE,0.555555555555556,3,0.545454545454545
+"United States","Springfield","Springfield Water and Sewer Commission Rain Barrel Program","Monitoring or review",FALSE,0.555555555555556,3,0.545454545454545
+"United States","West Hollywood","Grass Replacement Rebate pathway","Monitoring or review",FALSE,0.555555555555556,2,0.285714285714286
+"United States","West Hollywood","West Hollywood Rain Barrel Program","Monitoring or review",FALSE,0.555555555555556,2,0.285714285714286
+"Germany","Stuttgart","Förderprogramm Urbane Gärten","Monitoring or review",TRUE,0.777777777777778,2,0.416666666666667
+"Germany","Witten","Niederschlagswassergebühr: Gebührenminderung durch Entsiegelung, Abkopplung, Rückhaltung und Versickerung [Witten]","Monitoring or review",FALSE,0.777777777777778,2,0.461538461538462
+"United States","Lynchburg","Rain Barrel Workshop Program","Monitoring or review",TRUE,0.777777777777778,2,0.222222222222222
+"France","Lyon","Jardins partagés et initiatives d’agriculture urbaine","Monitoring or review",TRUE,0.888888888888889,3,0.529411764705882
+"France","Lyon","Appel à projets Renaturons Lyon - chantiers participatifs et cogestion","Monitoring or review",TRUE,0.888888888888889,3,0.529411764705882
+"France","Lyon","COMBINED PORTFOLIO","Controller route",FALSE,0.888888888888889,3,0.529411764705882
+"France","Lyon","COMBINED PORTFOLIO","Direct tenant route",TRUE,0.888888888888889,3,0.529411764705882
+"France","Lyon","COMBINED PORTFOLIO","Financial instrument",TRUE,0.888888888888889,3,0.529411764705882
+"France","Lyon","COMBINED PORTFOLIO","Ground or subsurface measures",TRUE,0.888888888888889,3,0.529411764705882
+"France","Lyon","COMBINED PORTFOLIO","Maintenance support",TRUE,0.888888888888889,3,0.529411764705882
+"France","Lyon","COMBINED PORTFOLIO","Monitoring or review",TRUE,0.888888888888889,3,0.529411764705882
+"France","Lyon","COMBINED PORTFOLIO","Roof or facade measures",TRUE,0.888888888888889,3,0.529411764705882
+"France","Lyon","COMBINED PORTFOLIO","Standards or advice",TRUE,0.888888888888889,3,0.529411764705882
+"France","Lyon","COMBINED PORTFOLIO","Storage or trees",TRUE,0.888888888888889,3,0.529411764705882
+"Germany","Stuttgart","COMBINED PORTFOLIO","Controller route",TRUE,0.777777777777778,2,0.416666666666667
+"Germany","Stuttgart","COMBINED PORTFOLIO","Direct tenant route",FALSE,0.777777777777778,2,0.416666666666667
+"Germany","Stuttgart","COMBINED PORTFOLIO","Financial instrument",TRUE,0.777777777777778,2,0.416666666666667
+"Germany","Stuttgart","COMBINED PORTFOLIO","Ground or subsurface measures",TRUE,0.777777777777778,2,0.416666666666667
+"Germany","Stuttgart","COMBINED PORTFOLIO","Maintenance support",TRUE,0.777777777777778,2,0.416666666666667
+"Germany","Stuttgart","COMBINED PORTFOLIO","Monitoring or review",TRUE,0.777777777777778,2,0.416666666666667
+"Germany","Stuttgart","COMBINED PORTFOLIO","Roof or facade measures",TRUE,0.777777777777778,2,0.416666666666667
+"Germany","Stuttgart","COMBINED PORTFOLIO","Standards or advice",TRUE,0.777777777777778,2,0.416666666666667
+"Germany","Stuttgart","COMBINED PORTFOLIO","Storage or trees",FALSE,0.777777777777778,2,0.416666666666667
+"Germany","Witten","COMBINED PORTFOLIO","Controller route",TRUE,0.777777777777778,2,0.461538461538462
+"Germany","Witten","COMBINED PORTFOLIO","Direct tenant route",FALSE,0.777777777777778,2,0.461538461538462
+"Germany","Witten","COMBINED PORTFOLIO","Financial instrument",TRUE,0.777777777777778,2,0.461538461538462
+"Germany","Witten","COMBINED PORTFOLIO","Ground or subsurface measures",TRUE,0.777777777777778,2,0.461538461538462
+"Germany","Witten","COMBINED PORTFOLIO","Maintenance support",TRUE,0.777777777777778,2,0.461538461538462
+"Germany","Witten","COMBINED PORTFOLIO","Monitoring or review",FALSE,0.777777777777778,2,0.461538461538462
+"Germany","Witten","COMBINED PORTFOLIO","Roof or facade measures",TRUE,0.777777777777778,2,0.461538461538462
+"Germany","Witten","COMBINED PORTFOLIO","Standards or advice",TRUE,0.777777777777778,2,0.461538461538462
+"Germany","Witten","COMBINED PORTFOLIO","Storage or trees",TRUE,0.777777777777778,2,0.461538461538462
+"United States","Chicago","COMBINED PORTFOLIO","Controller route",TRUE,0.666666666666667,1,0.5
+"United States","Chicago","COMBINED PORTFOLIO","Direct tenant route",TRUE,0.666666666666667,1,0.5
+"United States","Chicago","COMBINED PORTFOLIO","Financial instrument",FALSE,0.666666666666667,1,0.5
+"United States","Chicago","COMBINED PORTFOLIO","Ground or subsurface measures",FALSE,0.666666666666667,1,0.5
+"United States","Chicago","COMBINED PORTFOLIO","Maintenance support",TRUE,0.666666666666667,1,0.5
+"United States","Chicago","COMBINED PORTFOLIO","Monitoring or review",TRUE,0.666666666666667,1,0.5
+"United States","Chicago","COMBINED PORTFOLIO","Roof or facade measures",FALSE,0.666666666666667,1,0.5
+"United States","Chicago","COMBINED PORTFOLIO","Standards or advice",TRUE,0.666666666666667,1,0.5
+"United States","Chicago","COMBINED PORTFOLIO","Storage or trees",TRUE,0.666666666666667,1,0.5
+"United States","Lafayette","COMBINED PORTFOLIO","Controller route",TRUE,0.666666666666667,2,0.25
+"United States","Lafayette","COMBINED PORTFOLIO","Direct tenant route",FALSE,0.666666666666667,2,0.25
+"United States","Lafayette","COMBINED PORTFOLIO","Financial instrument",TRUE,0.666666666666667,2,0.25
+"United States","Lafayette","COMBINED PORTFOLIO","Ground or subsurface measures",TRUE,0.666666666666667,2,0.25
+"United States","Lafayette","COMBINED PORTFOLIO","Maintenance support",TRUE,0.666666666666667,2,0.25
+"United States","Lafayette","COMBINED PORTFOLIO","Monitoring or review",FALSE,0.666666666666667,2,0.25
+"United States","Lafayette","COMBINED PORTFOLIO","Roof or facade measures",FALSE,0.666666666666667,2,0.25
+"United States","Lafayette","COMBINED PORTFOLIO","Standards or advice",TRUE,0.666666666666667,2,0.25
+"United States","Lafayette","COMBINED PORTFOLIO","Storage or trees",TRUE,0.666666666666667,2,0.25
+"United States","Lynchburg","COMBINED PORTFOLIO","Controller route",TRUE,0.777777777777778,2,0.222222222222222
+"United States","Lynchburg","COMBINED PORTFOLIO","Direct tenant route",FALSE,0.777777777777778,2,0.222222222222222
+"United States","Lynchburg","COMBINED PORTFOLIO","Financial instrument",TRUE,0.777777777777778,2,0.222222222222222
+"United States","Lynchburg","COMBINED PORTFOLIO","Ground or subsurface measures",TRUE,0.777777777777778,2,0.222222222222222
+"United States","Lynchburg","COMBINED PORTFOLIO","Maintenance support",TRUE,0.777777777777778,2,0.222222222222222
+"United States","Lynchburg","COMBINED PORTFOLIO","Monitoring or review",TRUE,0.777777777777778,2,0.222222222222222
+"United States","Lynchburg","COMBINED PORTFOLIO","Roof or facade measures",FALSE,0.777777777777778,2,0.222222222222222
+"United States","Lynchburg","COMBINED PORTFOLIO","Standards or advice",TRUE,0.777777777777778,2,0.222222222222222
+"United States","Lynchburg","COMBINED PORTFOLIO","Storage or trees",TRUE,0.777777777777778,2,0.222222222222222
+"United States","Peoria","COMBINED PORTFOLIO","Controller route",TRUE,0.888888888888889,2,0.384615384615385
+"United States","Peoria","COMBINED PORTFOLIO","Direct tenant route",FALSE,0.888888888888889,2,0.384615384615385
+"United States","Peoria","COMBINED PORTFOLIO","Financial instrument",TRUE,0.888888888888889,2,0.384615384615385
+"United States","Peoria","COMBINED PORTFOLIO","Ground or subsurface measures",TRUE,0.888888888888889,2,0.384615384615385
+"United States","Peoria","COMBINED PORTFOLIO","Maintenance support",TRUE,0.888888888888889,2,0.384615384615385
+"United States","Peoria","COMBINED PORTFOLIO","Monitoring or review",TRUE,0.888888888888889,2,0.384615384615385
+"United States","Peoria","COMBINED PORTFOLIO","Roof or facade measures",TRUE,0.888888888888889,2,0.384615384615385
+"United States","Peoria","COMBINED PORTFOLIO","Standards or advice",TRUE,0.888888888888889,2,0.384615384615385
+"United States","Peoria","COMBINED PORTFOLIO","Storage or trees",TRUE,0.888888888888889,2,0.384615384615385
+"United States","San Antonio","COMBINED PORTFOLIO","Controller route",FALSE,0.555555555555556,2,0.375
+"United States","San Antonio","COMBINED PORTFOLIO","Direct tenant route",FALSE,0.555555555555556,2,0.375
+"United States","San Antonio","COMBINED PORTFOLIO","Financial instrument",TRUE,0.555555555555556,2,0.375
+"United States","San Antonio","COMBINED PORTFOLIO","Ground or subsurface measures",TRUE,0.555555555555556,2,0.375
+"United States","San Antonio","COMBINED PORTFOLIO","Maintenance support",TRUE,0.555555555555556,2,0.375
+"United States","San Antonio","COMBINED PORTFOLIO","Monitoring or review",FALSE,0.555555555555556,2,0.375
+"United States","San Antonio","COMBINED PORTFOLIO","Roof or facade measures",FALSE,0.555555555555556,2,0.375
+"United States","San Antonio","COMBINED PORTFOLIO","Standards or advice",TRUE,0.555555555555556,2,0.375
+"United States","San Antonio","COMBINED PORTFOLIO","Storage or trees",TRUE,0.555555555555556,2,0.375
+"United States","Springfield","COMBINED PORTFOLIO","Controller route",TRUE,0.555555555555556,3,0.545454545454545
+"United States","Springfield","COMBINED PORTFOLIO","Direct tenant route",FALSE,0.555555555555556,3,0.545454545454545
+"United States","Springfield","COMBINED PORTFOLIO","Financial instrument",TRUE,0.555555555555556,3,0.545454545454545
+"United States","Springfield","COMBINED PORTFOLIO","Ground or subsurface measures",FALSE,0.555555555555556,3,0.545454545454545
+"United States","Springfield","COMBINED PORTFOLIO","Maintenance support",TRUE,0.555555555555556,3,0.545454545454545
+"United States","Springfield","COMBINED PORTFOLIO","Monitoring or review",FALSE,0.555555555555556,3,0.545454545454545
+"United States","Springfield","COMBINED PORTFOLIO","Roof or facade measures",FALSE,0.555555555555556,3,0.545454545454545
+"United States","Springfield","COMBINED PORTFOLIO","Standards or advice",TRUE,0.555555555555556,3,0.545454545454545
+"United States","Springfield","COMBINED PORTFOLIO","Storage or trees",TRUE,0.555555555555556,3,0.545454545454545
+"United States","West Hollywood","COMBINED PORTFOLIO","Controller route",FALSE,0.555555555555556,2,0.285714285714286
+"United States","West Hollywood","COMBINED PORTFOLIO","Direct tenant route",FALSE,0.555555555555556,2,0.285714285714286
+"United States","West Hollywood","COMBINED PORTFOLIO","Financial instrument",TRUE,0.555555555555556,2,0.285714285714286
+"United States","West Hollywood","COMBINED PORTFOLIO","Ground or subsurface measures",TRUE,0.555555555555556,2,0.285714285714286
+"United States","West Hollywood","COMBINED PORTFOLIO","Maintenance support",TRUE,0.555555555555556,2,0.285714285714286
+"United States","West Hollywood","COMBINED PORTFOLIO","Monitoring or review",FALSE,0.555555555555556,2,0.285714285714286
+"United States","West Hollywood","COMBINED PORTFOLIO","Roof or facade measures",FALSE,0.555555555555556,2,0.285714285714286
+"United States","West Hollywood","COMBINED PORTFOLIO","Standards or advice",TRUE,0.555555555555556,2,0.285714285714286
+"United States","West Hollywood","COMBINED PORTFOLIO","Storage or trees",TRUE,0.555555555555556,2,0.285714285714286
